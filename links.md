@@ -7,3 +7,6 @@
 [Performance of dedicated laptop GPUs versus desktop GPUs (LinusTechtips)](https://www.youtube.com/watch?v=z9fk9d6pry4)
 
 [Fiji Updater proxy configuration](https://forum.image.sc/t/fiji-updater-and-proxy-configuration/29365/2)
+
+OMERO
+http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
