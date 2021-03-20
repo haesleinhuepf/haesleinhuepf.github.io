@@ -10,3 +10,6 @@
 
 OMERO
 http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
+
+Image forensics
+https://29a.ch/photo-forensics/#clone-detection
