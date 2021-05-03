@@ -12,6 +12,10 @@ Data Science
 
 [Fiji Updater proxy configuration](https://forum.image.sc/t/fiji-updater-and-proxy-configuration/29365/2)
 
+Research Data Management
+[Forschungsdaten Wiki](https://www.forschungsdaten.org/index.php/Hauptseite)
+[Train-the-Trainer Concept on Research Data Management, Katarzyna et al](https://zenodo.org/record/4071471#.YI-_x7UzZPZ)
+
 OMERO
 http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
 
