@@ -19,5 +19,8 @@ Research Data Management
 OMERO
 http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
 
+Galaxy
+https://imaging.usegalaxy.eu/
+
 Image forensics
 https://29a.ch/photo-forensics/#clone-detection
