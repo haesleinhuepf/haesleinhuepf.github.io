@@ -15,6 +15,8 @@ Data Science
 Research Data Management
 [Forschungsdaten Wiki](https://www.forschungsdaten.org/index.php/Hauptseite)
 [Train-the-Trainer Concept on Research Data Management, Katarzyna et al](https://zenodo.org/record/4071471#.YI-_x7UzZPZ)
+[Practical Guide to the International Alignment of Research Data Management - Extended Edition](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
+[RDM Kit](https://rdmkit.elixir-europe.org/)
 
 OMERO
 http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
