@@ -16,6 +16,9 @@ https://imagej.nih.gov/ij/docs/examples/index.html
 CLIJ – GPU accelerated image processing in Fiji, Icy, Matlab and friends
 https://clij.github.io/ 
 
+ImageJ Macro scripting intro
+http://wiki.cmci.info/_media/documents/slides/elmi2012.pdf
+
 Cheat Sheets
 ImageJ Macro
 https://github.com/BiAPoL/imagej-macro-cheat-sheet
