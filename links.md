@@ -1,4 +1,32 @@
-Image Processing
+Image analysis helpdesk / support
+https://image.sc
+
+Image analysis tool databases
+http://biii.eu/
+https://www.microlist.org/tag/image-analysis/
+https://imagej.net/Category:Plugins
+
+Further reading
+Analyzing fluorescence microscopy images with ImageJ by Pete Bankhead
+https://petebankhead.gitbooks.io/imagej-intro/content/
+Basics of Image Processing and Analysis by Kota Miura
+https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf
+ImageJ Tutorials and Examples by Wayne Rasband & ImageJ developers
+https://imagej.nih.gov/ij/docs/examples/index.html
+CLIJ – GPU accelerated image processing in Fiji, Icy, Matlab and friends
+https://clij.github.io/ 
+
+Cheat Sheets
+ImageJ Macro
+https://github.com/BiAPoL/imagej-macro-cheat-sheet
+CLIJ – GPU accelerated image processing in ImageJ Macro
+https://clij.github.io/clij2-docs/CLIJ2-cheatsheet_V3.pdf
+http://youtube.com/neubias
+https://www.youtube.com/channel/UCCG0E-n-JaTZnzuc8XzYPjQ
+https://www.youtube.com/channel/UCTjalOTI0yBPBOguYPzwE4g
+http://youtube.com/haesleinhuepf
+
+Image Processing with ITK
 https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
 
 Data Science
@@ -8,7 +36,11 @@ Data Science
 
 [Principal Component Analysis unsing Singular Value Decomposition (StatQuest by Josh Starmer)](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
+Computer hardware
+
 [Performance of dedicated laptop GPUs versus desktop GPUs (LinusTechtips)](https://www.youtube.com/watch?v=z9fk9d6pry4)
+
+Proxy and network
 
 [Fiji Updater proxy configuration](https://forum.image.sc/t/fiji-updater-and-proxy-configuration/29365/2)
 
