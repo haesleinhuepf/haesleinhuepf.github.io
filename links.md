@@ -35,6 +35,7 @@ https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
 Open data
 http://celltrackingchallenge.net/2d-datasets/
 https://bbbc.broadinstitute.org/
+https://github.com/dlegland/mathematical_morphology_with_MorphoLibJ/tree/master/sampleImages
 
 Data Science
 [K-Means clustering (StatQuest by Josh Starmer)](https://www.youtube.com/watch?v=4b5d3muPQmA)
