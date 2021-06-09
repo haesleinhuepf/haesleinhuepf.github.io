@@ -60,6 +60,7 @@ Research Data Management
 
 OMERO
 http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
+https://github.com/sukunis/OMERO.openlink
 
 Galaxy
 https://imaging.usegalaxy.eu/
