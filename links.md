@@ -72,3 +72,6 @@ https://29a.ch/photo-forensics/#clone-detection
 
 Visual studio build tools 2015
 https://www.microsoft.com/en-us/download/details.aspx?id=48159
+
+Cupy  installation 
+https://docs.cupy.dev/en/stable/install.html#installing-cupy
