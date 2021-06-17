@@ -69,3 +69,6 @@ https://imaging.usegalaxy.eu/
 
 Image forensics
 https://29a.ch/photo-forensics/#clone-detection
+
+Visual studio build tools 2015
+https://www.microsoft.com/en-us/download/details.aspx?id=48159
