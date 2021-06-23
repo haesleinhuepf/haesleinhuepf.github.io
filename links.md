@@ -19,6 +19,9 @@ https://clij.github.io/
 ImageJ Macro scripting intro
 http://wiki.cmci.info/_media/documents/slides/elmi2012.pdf
 
+Python
+https://github.com/tlambert03/hms_pyintro2
+
 Cheat Sheets
 ImageJ Macro
 https://github.com/BiAPoL/imagej-macro-cheat-sheet
