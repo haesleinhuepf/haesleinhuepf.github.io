@@ -35,6 +35,9 @@ http://youtube.com/haesleinhuepf
 Image Processing with ITK
 https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
 
+Neighbor analysis
+https://github.com/WIS-MICC-CellObservatory/Crypts_SpatialOrganization
+
 Open data
 http://celltrackingchallenge.net/2d-datasets/
 https://bbbc.broadinstitute.org/
