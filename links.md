@@ -22,6 +22,9 @@ http://wiki.cmci.info/_media/documents/slides/elmi2012.pdf
 Python
 https://github.com/tlambert03/hms_pyintro2
 
+Ipython notebook javascript
+https://github.com/jupyter/notebook/blob/859ae0ac60456c0e38b44f06852b8a24f8a1cfb0/notebook/static/notebook/js/notebook.js
+
 Cheat Sheets
 ImageJ Macro
 https://github.com/BiAPoL/imagej-macro-cheat-sheet
