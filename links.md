@@ -7,6 +7,7 @@ Image analysis tool databases
 * https://www.microlist.org/tag/image-analysis/
 * https://imagej.net/Category:Plugins
 
+
 Image analysis in ImageJ and Python
 * [Analyzing fluorescence microscopy images with ImageJ by Pete Bankhead](https://petebankhead.gitbooks.io/imagej-intro/content/)
 * [Basics of Image Processing and Analysis by Kota Miura](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
@@ -31,6 +32,7 @@ Data Science
 * [Hierarchical clustering (StatQuest by Josh Starmer)](https://www.youtube.com/watch?v=7xHsRkOdVwo)
 * [Principal Component Analysis unsing Singular Value Decomposition (StatQuest by Josh Starmer)](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * [Neighbor analysis](https://github.com/WIS-MICC-CellObservatory/Crypts_SpatialOrganization)
+* [KRECon 2021: Open Science - Challenges and Opportunities](https://www.youtube.com/watch?v=fTPxi6R1174&list=PLMskSaWTddN8-TfHsWrsgV_dXbb6WUEqO)
 
 Computer hardware
 * [Performance of dedicated laptop GPUs versus desktop GPUs (LinusTechtips)](https://www.youtube.com/watch?v=z9fk9d6pry4)
@@ -43,6 +45,8 @@ Research Data Management
 * [Train-the-Trainer Concept on Research Data Management, Katarzyna et al](https://zenodo.org/record/4071471#.YI-_x7UzZPZ)
 * [Practical Guide to the International Alignment of Research Data Management - Extended Edition](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
 * [RDM Kit](https://rdmkit.elixir-europe.org/)
+* [Data Stewardship Pilot](https://docenhance.eu/pilot-courses/)
+* [https://phdhub.eu/open-courses/](https://phdhub.eu/open-courses/)
 
 OMERO
 * http://unice.fr/plateformes/mica/ressources/base-de-donnees-omero-1/tips-tricks
@@ -60,8 +64,9 @@ Open data
 Galaxy
 * https://imaging.usegalaxy.eu/
 
-Image forensics
+Image forensics / ethics
 * https://29a.ch/photo-forensics/#clone-detection
+* https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4114110&blobtype=pdf
 
 Visual studio build tools 2015
 * https://www.microsoft.com/en-us/download/details.aspx?id=48159
