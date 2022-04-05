@@ -60,6 +60,7 @@ Open data
 * https://zenodo.org/record/3210476#.YMI8E_kzYuW
 * https://scif.io/images/
 * [Ascadian embryo timelapse+segmentation](https://doi.org/10.6084/m9.figshare.c.4529990.v2)
+* [Whole section histological data of mouse brains](https://rodare.hzdr.de/record/915)
 
 Galaxy
 * https://imaging.usegalaxy.eu/
