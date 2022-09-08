@@ -23,10 +23,10 @@ Arnoldstrasse 18
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
 
 ## Affiliations / organizations
-* [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden](https://physics-of-life.tu-dresden.de/)
-* [Center for Systems Biology Dresden](https://www.csbdresden.de/)
-* [Network of European BioImage Analysts](https://eubias.org/NEUBIAS/)
-* [German Bioimaging (Gerbi)](https://gerbi-gmb.de/)
+* [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
+* [Center for Systems Biology Dresden (CSBD)](https://www.csbdresden.de/)
+* [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
+* [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
 
 ## Open-Access Teaching Materials
