@@ -3,7 +3,10 @@
 <img src="haase.jpg" style="float: right;" width="400"/>
 
 <pre>
-Bio-image Analysis Technology Development
+Dr. rer. medic. Robert Haase
+
+Group Leader
+Bio-image Analysis Technology Development Group
 DFG Cluster of Excellence “Physics of Life”
 Technische Universität Dresden
 Arnoldstrasse 18
@@ -19,7 +22,9 @@ Arnoldstrasse 18
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
 
-## Organizations
+## Affiliations / organizations
+* [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden](https://physics-of-life.tu-dresden.de/)
+* [Center for Systems Biology Dresden](https://www.csbdresden.de/)
 * [Network of European BioImage Analysts](https://eubias.org/NEUBIAS/)
 * [German Bioimaging (Gerbi)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
