@@ -18,6 +18,7 @@ Arnoldstrasse 18
 
 
 ## Research interests
+* [Physics of Life](https://physics-of-life.tu-dresden.de/bia)
 * [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
