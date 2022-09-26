@@ -195,6 +195,6 @@ Arnoldstrasse 18
 * [Example data for using napari-pyclesperanto-assistant](https://zenodo.org/record/5090508)
 * [Strausberg_Tribolium_LA-GFP_tailpole_run](https://zenodo.org/record/3981193)
 * [Example Data for clesperanto](https://github.com/clEsperanto/clesperanto_example_data)
-* [Napari download statistics](https://github.com/haesleinhuepf/napari-pypistats)
+* [Napari plugin download statistics](https://github.com/haesleinhuepf/napari-pypistats)
 * [Awesome napari-plugins that are not on the napari-hub (yet)](https://github.com/haesleinhuepf/awesome-napari-plugins-that-are-not-on-the-napari-hub-yet)
 
