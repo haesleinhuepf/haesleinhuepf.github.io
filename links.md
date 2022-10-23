@@ -61,6 +61,8 @@ Open data
 * https://scif.io/images/
 * [Ascadian embryo timelapse+segmentation](https://doi.org/10.6084/m9.figshare.c.4529990.v2)
 * [Whole section histological data of mouse brains](https://rodare.hzdr.de/record/915)
+* [live imaging in the marine annelid Platynereis dumerilii](https://zenodo.org/record/1063531#.Y1WJ2bZBxaQ)
+* [epithelial organoid morphogenesis](https://zenodo.org/record/4419985#.Y1WNSbZBxaQ)
 
 Galaxy
 * https://imaging.usegalaxy.eu/
