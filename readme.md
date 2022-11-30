@@ -49,7 +49,7 @@ Arnoldstrasse 18
   * [Seamless Integration of Quantitative Bio-Image Analysis Plugins](https://chanzuckerberg.com/science/programs-resources/imaging/napari/seamless-integration-of-quantitative-bio-image-analysis-plugins/)
 * DFG National Research Data Management Initiative (2023-2028)
   * [NFDI4BioImage](https://nfdi4bioimage.de/en/start), lead by Stefanie Weidtkamp-Peters, Heinrich Heine University Düsseldorf
-* ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Sciences 
+* ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Sciences (2022-2025)
   * DeepLineage project lead by Michalis Averof (IGFL Lyon, France)
 * BMBF Program for Interdisciplinary Collaborations to investigate Pathomechanims (2022-2025)
   * PACETherapy project lead by Mike O Karl, DZNE/TU Dresden
