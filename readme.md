@@ -200,6 +200,23 @@ Arnoldstrasse 18
 * [YouTube](https://youtube.com/haesleinhuepf)
 * [Twitter](https://twitter.com/haesleinhuepf)
 
+## Recent talks
+
+* "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
+* "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
+https://f1000research.com/slides/11-306
+
+* "Hitchhiking through a diverse Bio-image Analysis Software Universe", Frontiers in Bioimaging, Birmingham, UK 2022, ([slides](https://f1000research.com/slides/11-746))
+* "Advanced bio-image analysis, image data science & AI", Zebrafish PI Meeting, Dresden, 2022 ([slides](https://f1000research.com/slides/11-373))
+* "Bio-image analysis island hopping: From Fiji to Napari and back", talk at Instituto Gulbenkian de Ciência Oeiras, Portugal 2022 ([slides](https://f1000research.com/slides/11-306))
+* "clesperanto: Open-source, GPU-accelerated image processing across programming languages and software ecosystems" SIMposium 2022 ([slides](https://f1000research.com/slides/11-213))
+* "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2022 ([slides](https://f1000research.com/slides/11-81))
+* "GPU-accelerated bio-image analysis focusing on processing segmented images", LS2 Switzerland Webinar 2021 ([slides](https://f1000research.com/slides/10-610))
+* "User friendly GPU-accelerated bio-image analysis beyond cell segmentation", PSB Symposium Frontiers in Bioimaging, 2021 ([slides](https://f1000research.com/slides/10-530))
+* "Bio-image analysis island hopping: From Fiji to Napari and back", EuroBioImaging Virtual Pub 2021 ([slides](https://f1000research.com/slides/10-313), [video](https://www.youtube.com/watch?v=MERVnf5_QkI))
+* "Interactive image data flow graphs and GPU-accelerated image processing for everyone", ABRF Annual Meeting 2021 ([slides](https://f1000research.com/slides/10-201))
+* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640), [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
+
 ## Blog posts
 * [Explorative image data science with napari](https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/)
 * [Collaborative bio-image analysis script editing with git](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
