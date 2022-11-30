@@ -13,22 +13,46 @@ Arnoldstrasse 18
 01307 Dresden 
 </pre>
 
-
-
-
-
 ## Research interests
+
 * [Physics of Life](https://physics-of-life.tu-dresden.de/bia)
 * [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
 
 ## Affiliations / organizations
+
 * [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
 * [Center for Systems Biology Dresden (CSBD)](https://www.csbdresden.de/)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
 * [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
+
+## Curriculum vitae
+
+* Since 2020 Group Leader, Bio-image Analysis Technology Development Group, DFG Cluster of Excellence "Physics of Life", University of Technology, TU Dresden
+* 2017-2020 Postdoctoral researcher, Gene Myers lab, Max Planck Insitute for Molecular Cell Biology and Genetics Dresden / Center for Systems Biology Dresden
+* 2015-2017 Bio-Image Analyst, Scientific Computing Facility, Max Planck Insitute for Molecular Cell Biology and Genetics Dresden / Scionics GmbH
+* 2013-2015 Scientific Assistant, High-Precision Radiotherapy Group (Dr. Perrin / Dr. Richter), OncoRay, Medical Faculty Carl Gustav Carus, University of Technology, TU Dresden
+* 2010-2013 PhD Student, Scientific Assistant, Biological and Molecular Imaging Group (Prof. Abolmaali), OncoRay, Medical Faculty Carl Gustav Carus, University of Technology, TU Dresden
+* 2008-2010 Student Assistant, Biological and Molecular Imaging Group (Prof. Abolmaali), OncoRay, Medical Faculty Carl Gustav Carus, University of Technology, TU Dresden
+* 2006-2010 Student of Computer Science, University of Applied Sciences, HTW Dresden
+* 2004-2005 Junior IT Project Leader, Spiritlink GmbH, Erlangen
+* 2001-2004 Trainee, IT specialist for software development (Fachinformatiker Fachrichtung Anwendungsentwicklung), Spiritlink GmbH, Erlangen
+
+## Funding
+
+* CZI Essential Open Source Software program (2021-2024) 
+  * [GPU-accelerating Fiji and Friends Using Distributed CLIJ, NEUBIAS-style](https://chanzuckerberg.com/eoss/proposals/gpu-accelerating-fiji-and-friends-using-distributed-clij-neubias-style/), collaboration with Stephane Rigaud (Insitut Pasteur, France) and Martin Jones, Amy Strange and Lucy Collinson (The Francis Crick Institute, London, UK)
+* CZI Napari Plugin grants (2021-2023)
+  * [Improving Image Processing](https://chanzuckerberg.com/science/programs-resources/imaging/napari/improving-image-processing/), collaboration with Lachlan Whitehead (WEHI Australia)
+  * [Seamless Integration of Quantitative Bio-Image Analysis Plugins](https://chanzuckerberg.com/science/programs-resources/imaging/napari/seamless-integration-of-quantitative-bio-image-analysis-plugins/)
+* DFG National Research Data Management Initiative (2023-2028)
+  * [NFDI4BioImage](https://nfdi4bioimage.de/en/start), lead by Stefanie Weidtkamp-Peters, Heinrich Heine University Düsseldorf
+* ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Sciences 
+  * DeepLineage project lead by Michalis Averof (IGFL Lyon, France)
+* BMBF Program for Interdisciplinary Collaborations to investigate Pathomechanims (2022-2025)
+  * PACETherapy project lead by Mike O Karl, DZNE/TU Dresden
 
 ## Open-Access Teaching Materials
 
