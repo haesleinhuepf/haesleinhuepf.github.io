@@ -190,6 +190,7 @@ Arnoldstrasse 18
   * [napari-workflow-inspector](https://www.napari-hub.org/plugins/napari-workflow-inspector)
   * [napari-workflow-optimizer](https://www.napari-hub.org/plugins/napari-workflow-optimizer)
   * [napari-script-editor](https://www.napari-hub.org/plugins/napari-script-editor)
+  * [napari-owncloud](https://www.napari-hub.org/plugins/napari-owncloud)
   * [natari](https://www.napari-hub.org/plugins/natari)
   * [...](https://www.napari-hub.org/?search=haase&sort=relevance&page=1)
 
@@ -215,7 +216,7 @@ https://f1000research.com/slides/11-306
 * "User friendly GPU-accelerated bio-image analysis beyond cell segmentation", PSB Symposium Frontiers in Bioimaging, 2021 ([slides](https://f1000research.com/slides/10-530))
 * "Bio-image analysis island hopping: From Fiji to Napari and back", EuroBioImaging Virtual Pub 2021 ([slides](https://f1000research.com/slides/10-313), [video](https://www.youtube.com/watch?v=MERVnf5_QkI))
 * "Interactive image data flow graphs and GPU-accelerated image processing for everyone", ABRF Annual Meeting 2021 ([slides](https://f1000research.com/slides/10-201))
-* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640), [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
+* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640) 2020 [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
 
 ## Blog posts
 * [Explorative image data science with napari](https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/)
