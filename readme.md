@@ -162,6 +162,8 @@ Arnoldstrasse 18
 
 ## Open Source Software
 
+<img src="https://github-readme-stats.vercel.app/api?username=haesleinhuepf&show_icons=true&hide_border=true"/>
+
 * [CLIJ](https://clij.github.io)
   * [CLATLAB](https://github.com/clij/clatlab)
   * [clicy](https://github.com/clij/clicy)
