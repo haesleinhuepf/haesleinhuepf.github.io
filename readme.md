@@ -42,23 +42,29 @@ Arnoldstrasse 18
 
 ## Funding
 
-* CZI Essential Open Source Software program (2021-2024) 
-  * [GPU-accelerating Fiji and Friends Using Distributed CLIJ, NEUBIAS-style](https://chanzuckerberg.com/eoss/proposals/gpu-accelerating-fiji-and-friends-using-distributed-clij-neubias-style/), collaboration with Stephane Rigaud (Insitut Pasteur, France) and Martin Jones, Amy Strange and Lucy Collinson (The Francis Crick Institute, London, UK)
-* CZI Napari Plugin grants (2021-2023)
-  * [Improving Image Processing](https://chanzuckerberg.com/science/programs-resources/imaging/napari/improving-image-processing/), collaboration with Lachlan Whitehead (WEHI Australia)
-  * [Seamless Integration of Quantitative Bio-Image Analysis Plugins](https://chanzuckerberg.com/science/programs-resources/imaging/napari/seamless-integration-of-quantitative-bio-image-analysis-plugins/)
-* DFG National Research Data Management Initiative (2023-2028)
-  * [NFDI4BioImage](https://nfdi4bioimage.de/en/start), lead by Stefanie Weidtkamp-Peters, Heinrich Heine University Düsseldorf
-* ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Sciences (2022-2025)
-  * DeepLineage project lead by Michalis Averof (IGFL Lyon, France)
-* BMBF Program for Interdisciplinary Collaborations to investigate Pathomechanims (2022-2025)
-  * PACETherapy project lead by Mike O Karl, DZNE/TU Dresden
+* CZI Essential Open Source Software program 
+  * [GPU-accelerating Fiji and Friends Using Distributed CLIJ, NEUBIAS-style (2021-2024)](https://chanzuckerberg.com/eoss/proposals/gpu-accelerating-fiji-and-friends-using-distributed-clij-neubias-style/), collaboration with Stephane Rigaud (Insitut Pasteur, France) and Martin Jones, Amy Strange and Lucy Collinson (The Francis Crick Institute, London, UK)
+* CZI Napari Plugin grants
+  * [Improving Image Processing (2021-2022)](https://chanzuckerberg.com/science/programs-resources/imaging/napari/improving-image-processing/), collaboration with Lachlan Whitehead (WEHI Australia)
+  * [Seamless Integration of Quantitative Bio-Image Analysis Plugins (2022-2023)](https://chanzuckerberg.com/science/programs-resources/imaging/napari/seamless-integration-of-quantitative-bio-image-analysis-plugins/)
+* DFG National Research Data Management Initiative 
+  * [NFDI4BioImage (2023-2028)](https://nfdi4bioimage.de/en/start), lead by Stefanie Weidtkamp-Peters, Heinrich Heine University Düsseldorf
+* ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Sciences
+  * DeepLineage project (2022-2025) lead by Michalis Averof (IGFL Lyon, France)
+* BMBF Program for Interdisciplinary Collaborations to investigate Pathomechanims
+  * PACETherapy project (2022-2025) lead by Mike O Karl, DZNE/TU Dresden
+* CZI Advancing Imaging Through Collaborative Projects 
+  * [Society for Knowledge Exchange in BioImage Analysis (2023-2025)](https://chanzuckerberg.com/science/programs-resources/imaging/community/?cycle=advancing-imaging-through-collaborative-projects)
 
 ## Open-Access Teaching Materials
 
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
 ### 2022
+
+* Image data science with Python and Napari, virtually at EPFL Lausanne
+([Slides](https://biapol.github.io/Image-data-science-with-Python-and-Napari-EPFL2022/intro.html))
+
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
 ([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/tree/2022.07.28))
 
@@ -205,6 +211,7 @@ Arnoldstrasse 18
 
 ## Recent talks
 
+* "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2022 ([slides](https://f1000research.com/slides/12-82))
 * "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
 * "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
 https://f1000research.com/slides/11-306
