@@ -63,6 +63,7 @@ Open data
 * [Whole section histological data of mouse brains](https://rodare.hzdr.de/record/915)
 * [live imaging in the marine annelid Platynereis dumerilii](https://zenodo.org/record/1063531#.Y1WJ2bZBxaQ)
 * [epithelial organoid morphogenesis](https://zenodo.org/record/4419985#.Y1WNSbZBxaQ)
+* [Gastruloid Example Dataset](https://zenodo.org/record/7603081)
 
 Galaxy
 * https://imaging.usegalaxy.eu/
