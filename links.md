@@ -65,6 +65,9 @@ Open data
 * [epithelial organoid morphogenesis](https://zenodo.org/record/4419985#.Y1WNSbZBxaQ)
 * [Gastruloid Example Dataset](https://zenodo.org/record/7603081)
 
+Python
+* [Pinning versions](https://iscinumpy.dev/post/bound-version-constraints/)
+
 Galaxy
 * https://imaging.usegalaxy.eu/
 
