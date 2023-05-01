@@ -15,7 +15,7 @@ Arnoldstrasse 18
 
 ## Research interests
 
-* [Physics of Life](https://physics-of-life.tu-dresden.de/bia)
+* [Bio-image Analysis Technology Development for understanding the Physics of Life](https://physics-of-life.tu-dresden.de/bia)
 * [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
@@ -228,6 +228,9 @@ https://f1000research.com/slides/11-306
 * "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640) 2020 [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
 
 ## Blog posts
+* [Sharing research data with Zenodo](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+* [Scientific Data Analysis: User Documentation 101](https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/)
+* [Managing Scientific Python environments using Conda, Mamba and friends](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
 * [Explorative image data science with napari](https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/)
 * [Collaborative bio-image analysis script editing with git](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 * [How CLIJ2 can make your bio-image analysis workflows incredibly fast](https://focalplane.biologists.com/2020/07/14/how-clij-can-make-your-image-analysis-incredibly-fast/)
