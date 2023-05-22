@@ -60,6 +60,11 @@ Arnoldstrasse 18
 
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
+### 2023
+
+* Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
+([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python))
+
 ### 2022
 
 * Image data science with Python and Napari, virtually at EPFL Lausanne
@@ -211,6 +216,7 @@ Arnoldstrasse 18
 
 ## Recent talks
 
+* "Challenges and opportunities for bio-image analysis core-facilities", Danish BioImaging Stakeholder Meeting, 2023 ([slides](https://f1000research.com/slides/12-486))
 * "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
 * "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
 * "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
@@ -228,6 +234,7 @@ https://f1000research.com/slides/11-306
 * "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640) 2020 [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
 
 ## Blog posts
+* [If you license it, it’ll be harder to steal it. Why we should license our work](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 * [Sharing research data with Zenodo](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 * [Scientific Data Analysis: User Documentation 101](https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/)
 * [Managing Scientific Python environments using Conda, Mamba and friends](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
