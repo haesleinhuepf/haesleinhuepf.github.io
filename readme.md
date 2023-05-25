@@ -220,7 +220,6 @@ Arnoldstrasse 18
 * "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
 * "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
 * "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
-https://f1000research.com/slides/11-306
 
 * "Hitchhiking through a diverse Bio-image Analysis Software Universe", Frontiers in Bioimaging, Birmingham, UK 2022, ([slides](https://f1000research.com/slides/11-746))
 * "Advanced bio-image analysis, image data science & AI", Zebrafish PI Meeting, Dresden, 2022 ([slides](https://f1000research.com/slides/11-373))
@@ -231,7 +230,7 @@ https://f1000research.com/slides/11-306
 * "User friendly GPU-accelerated bio-image analysis beyond cell segmentation", PSB Symposium Frontiers in Bioimaging, 2021 ([slides](https://f1000research.com/slides/10-530))
 * "Bio-image analysis island hopping: From Fiji to Napari and back", EuroBioImaging Virtual Pub 2021 ([slides](https://f1000research.com/slides/10-313), [video](https://www.youtube.com/watch?v=MERVnf5_QkI))
 * "Interactive image data flow graphs and GPU-accelerated image processing for everyone", ABRF Annual Meeting 2021 ([slides](https://f1000research.com/slides/10-201))
-* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy ([slides](https://f1000research.com/slides/9-640) 2020 [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
+* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy 2020 ([slides](https://f1000research.com/slides/9-640), [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
 
 ## Blog posts
 * [If you license it, it’ll be harder to steal it. Why we should license our work](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
