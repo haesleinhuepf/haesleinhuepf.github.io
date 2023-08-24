@@ -62,6 +62,29 @@ Arnoldstrasse 18
 
 ### 2023
 
+* EMBO Practical Course on Advanced Methods of Bio-image Analysis, Heidelberg
+[Website](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), 
+[Video lecture "Bio-image Analysis using Napari and Python"](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides](https://f1000research.com/slides/12-972)
+[Video lecture "Generative Artificial Intelligence for Bio-image Analysis
+"](https://www.youtube.com/watch?v=nC0REzvOT5s&t=847s), [Slides](https://f1000research.com/slides/12-971)
+
+* DIGS-BB Principles of Light Microscopy – Course for DIPP Students, Bio-image Analysis session, Dresden
+[Website](https://www.digs-bb.de/events/2021/09/13/principles-of-light-microscopy)
+
+* PoL Early Career Bio-Image Analysis Training School, Dresden
+[Website](https://biapol.eventmember.de/),
+[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
+
+* PoL GPU-Accelerated Bio-Image Analysis Training School, Dresden
+[Website](https://biapol.eventmember.de/),
+[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+
+* NEUBIAS Pasteur course on Bioimage Analysis, Insitut Pasteur, Paris
+[Website](https://research.pasteur.fr/en/course/neubias-pasteur-course-on-bioimage-analysis/), [Materials](https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html)
+
+* Latin America workshop on Image data science with Python and Napari, Virtual
+[Materials](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html)
+
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
 ([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python))
 
@@ -188,6 +211,7 @@ Arnoldstrasse 18
   * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
   * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
 * [stackview](https://github.com/haesleinhuepf/stackview)
+* [bia-bob](https://github.com/haesleinhuepf/bia-bob)
 * Napari-plugins
   * [devbio-napari](https://www.napari-hub.org/plugins/devbio-napari)
   * [napari-segment-blobs-and-things-with-membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
