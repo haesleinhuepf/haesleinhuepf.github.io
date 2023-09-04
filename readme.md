@@ -62,28 +62,27 @@ Arnoldstrasse 18
 
 ### 2023
 
-* EMBO Practical Course on Advanced Methods of Bio-image Analysis, Heidelberg
+* EMBO Practical Course on Advanced Methods of Bio-image Analysis, Heidelberg (
 [Website](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), 
-[Video lecture "Bio-image Analysis using Napari and Python"](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides](https://f1000research.com/slides/12-972)
-[Video lecture "Generative Artificial Intelligence for Bio-image Analysis
-"](https://www.youtube.com/watch?v=nC0REzvOT5s&t=847s), [Slides](https://f1000research.com/slides/12-971)
+[Video lecture 1](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides 1](https://f1000research.com/slides/12-972)
+[Video lecture 2](https://www.youtube.com/watch?v=nC0REzvOT5s&t=847s), [Slides 2](https://f1000research.com/slides/12-971))
 
 * DIGS-BB Principles of Light Microscopy – Course for DIPP Students, Bio-image Analysis session, Dresden
-[Website](https://www.digs-bb.de/events/2021/09/13/principles-of-light-microscopy)
+([Website](https://www.digs-bb.de/events/2021/09/13/principles-of-light-microscopy), [Materials](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023))
 
 * PoL Early Career Bio-Image Analysis Training School, Dresden
-[Website](https://biapol.eventmember.de/),
-[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
+([Website](https://biapol.eventmember.de/),
+[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html))
 
 * PoL GPU-Accelerated Bio-Image Analysis Training School, Dresden
-[Website](https://biapol.eventmember.de/),
-[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+([Website](https://biapol.eventmember.de/),
+[Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html))
 
 * NEUBIAS Pasteur course on Bioimage Analysis, Insitut Pasteur, Paris
-[Website](https://research.pasteur.fr/en/course/neubias-pasteur-course-on-bioimage-analysis/), [Materials](https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html)
+([Website](https://research.pasteur.fr/en/course/neubias-pasteur-course-on-bioimage-analysis/), [Materials](https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html))
 
 * Latin America workshop on Image data science with Python and Napari, Virtual
-[Materials](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html)
+([Materials](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html))
 
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
 ([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python))
