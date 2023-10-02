@@ -5,6 +5,16 @@
 <pre>
 Dr. rer. medic. Robert Haase
 
+Training Coordinator
+Data Science Zentrum ScaDS.AI
+Universität Leipzig
+Humboldtstraße 25
+04105 Leipzig
+</pre>
+
+<pre>
+Dr. rer. medic. Robert Haase
+
 Group Leader
 Bio-image Analysis Technology Development Group
 DFG Cluster of Excellence “Physics of Life”
