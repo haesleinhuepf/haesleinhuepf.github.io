@@ -88,6 +88,9 @@ Arnoldstrasse 18
 ([Website](https://biapol.eventmember.de/),
 [Materials](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html))
 
+* Guest lecture in the master program Regenerative Biology and Medicine "Quantitative Bio-image Data Analysisin the age of Machine Learning"
+([Materials](https://f1000research.com/slides/12-597))
+
 * NEUBIAS Pasteur course on Bioimage Analysis, Insitut Pasteur, Paris
 ([Website](https://research.pasteur.fr/en/course/neubias-pasteur-course-on-bioimage-analysis/), [Materials](https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html))
 
