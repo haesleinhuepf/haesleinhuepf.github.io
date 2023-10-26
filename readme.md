@@ -6,7 +6,7 @@
 Dr. rer. medic. Robert Haase
 
 Training Coordinator
-Data Science Zentrum ScaDS.AI
+Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig
 Universität Leipzig
 Humboldtstraße 25
 04105 Leipzig
