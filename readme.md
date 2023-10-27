@@ -41,7 +41,8 @@ Arnoldstrasse 18
 
 ## Curriculum vitae
 
-* Since 2020 Group Leader, Bio-image Analysis Technology Development Group, DFG Cluster of Excellence "Physics of Life", University of Technology, TU Dresden
+* Since 2023 Lecturer and Training Coordinator, Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), Leipzig University
+* 2020-2023 Group Leader, Bio-image Analysis Technology Development Group, DFG Cluster of Excellence "Physics of Life", University of Technology, TU Dresden
 * 2017-2020 Postdoctoral researcher, Gene Myers lab, Max Planck Insitute for Molecular Cell Biology and Genetics Dresden / Center for Systems Biology Dresden
 * 2015-2017 Bio-Image Analyst, Scientific Computing Facility, Max Planck Insitute for Molecular Cell Biology and Genetics Dresden / Scionics GmbH
 * 2013-2015 Scientific Assistant, High-Precision Radiotherapy Group (Dr. Perrin / Dr. Richter), OncoRay, Medical Faculty Carl Gustav Carus, University of Technology, TU Dresden
