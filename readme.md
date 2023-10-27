@@ -32,6 +32,7 @@ Arnoldstrasse 18
 
 ## Affiliations / organizations
 
+* [Center of Scalable Data Analytics and Artificial Intelligence (Scads.AI) Dresden / Leipzig, Lepizig University](https://scads.ai)
 * [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
 * [Center for Systems Biology Dresden (CSBD)](https://www.csbdresden.de/)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
