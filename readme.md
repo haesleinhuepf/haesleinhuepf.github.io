@@ -12,22 +12,11 @@ Humboldtstraße 25
 04105 Leipzig
 </pre>
 
-<pre>
-Dr. rer. medic. Robert Haase
-
-Group Leader
-Bio-image Analysis Technology Development Group
-DFG Cluster of Excellence “Physics of Life”
-Technische Universität Dresden
-Arnoldstrasse 18
-01307 Dresden 
-</pre>
-
 ## Research interests
 
-* [Bio-image Analysis Technology Development for understanding the Physics of Life](https://physics-of-life.tu-dresden.de/bia)
-* [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
+* [Large language models for Bio-image Analysis](https://github.com/haesleinhuepf/bia-bob)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
+* [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
 
 ## Affiliations / organizations
@@ -74,10 +63,14 @@ Arnoldstrasse 18
 
 ### 2023
 
+* Generative Artificial Intelligence for Bio-image Analysis (I2K2023 Tutorial)
+[Video](https://www.youtube.com/watch?v=gLziaMjM3LM),
+[Slides](https://f1000research.com/slides/12-1353)
+
 * EMBO Practical Course on Advanced Methods of Bio-image Analysis, Heidelberg (
 [Website](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), 
 [Video lecture 1](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides 1](https://f1000research.com/slides/12-972)
-[Video lecture 2](https://www.youtube.com/watch?v=nC0REzvOT5s&t=847s), [Slides 2](https://f1000research.com/slides/12-971))
+[Video lecture 2](https://www.youtube.com/watch?v=nC0REzvOT5s), [Slides 2](https://f1000research.com/slides/12-971))
 
 * DIGS-BB Principles of Light Microscopy – Course for DIPP Students, Bio-image Analysis session, Dresden
 ([Website](https://www.digs-bb.de/events/2021/09/13/principles-of-light-microscopy), [Materials](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023))
@@ -226,6 +219,7 @@ Arnoldstrasse 18
   * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
 * [stackview](https://github.com/haesleinhuepf/stackview)
 * [bia-bob](https://github.com/haesleinhuepf/bia-bob)
+* [story-writer](https://github.com/haesleinhuepf/story-writer)
 * Napari-plugins
   * [devbio-napari](https://www.napari-hub.org/plugins/devbio-napari)
   * [napari-segment-blobs-and-things-with-membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
