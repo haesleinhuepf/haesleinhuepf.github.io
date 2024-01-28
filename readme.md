@@ -23,7 +23,6 @@ Humboldtstraße 25
 
 * [Center of Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden / Leipzig, Leipzig University](https://scads.ai)
 * [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
-* [Center for Systems Biology Dresden (CSBD)](https://www.csbdresden.de/)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
 * [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
@@ -62,6 +61,12 @@ Humboldtstraße 25
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
 ### 2023
+
+* Prompt Engineering Tutorial (ScaDS.AI Living Lab)
+[Slides + Notebooks](https://scads.github.io/prompt-engineering-tutorial-2023/intro.html)
+
+* Napari Tutorial (ScaDS.AI Life Science Jour Fixe)
+[Slides + Notebooks](https://scads.github.io/napari-tutorial-2023/intro.html)
 
 * Generative Artificial Intelligence for Bio-image Analysis (I2K2023 Tutorial)
 [Video](https://www.youtube.com/watch?v=gLziaMjM3LM),
@@ -248,6 +253,7 @@ Humboldtstraße 25
 
 ## Recent talks
 
+* "Nichts hält ewig – Wie gehen wir damit um?" ("Nothing is forever - How do we deal with that?"), 5. Ulmer Workshop "Administrative Herausforderungen in Core Facilities und Technologieplattformen", Ulm University 2023 ([Website](https://www.uni-ulm.de/einrichtungen/moman/workshop-cf-admin/2023/info/), [slides](https://zenodo.org/records/10199824))
 * "Challenges and opportunities for bio-image analysis core-facilities", Danish BioImaging Stakeholder Meeting, 2023 ([slides](https://f1000research.com/slides/12-486))
 * "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
 * "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
