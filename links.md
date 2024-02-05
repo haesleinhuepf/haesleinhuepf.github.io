@@ -16,6 +16,7 @@ Image analysis in ImageJ and Python
 * [Python intro](https://github.com/tlambert03/hms_pyintro2)
 * [Image Processing with ITK](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
 * [Ipython notebook javascript](https://github.com/jupyter/notebook/blob/859ae0ac60456c0e38b44f06852b8a24f8a1cfb0/notebook/static/notebook/js/notebook.js)
+* https://github.com/INRIA/scikit-learn-mooc?tab=readme-ov-file
 
 Cheat Sheets
 * [ImageJ Macro](https://github.com/BiAPoL/imagej-macro-cheat-sheet)
