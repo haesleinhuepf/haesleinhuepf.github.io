@@ -24,6 +24,7 @@ Humboldtstraße 25
 * [Center of Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden / Leipzig, Leipzig University](https://scads.ai)
 * [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
+* [GloBIAS](https://www.globias.org/)
 * [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
 
@@ -223,8 +224,12 @@ Humboldtstraße 25
   * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
   * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
 * [stackview](https://github.com/haesleinhuepf/stackview)
-* [bia-bob](https://github.com/haesleinhuepf/bia-bob)
-* [story-writer](https://github.com/haesleinhuepf/story-writer)
+* Generative AI / LLMs:
+  * [bia-bob](https://github.com/haesleinhuepf/bia-bob)
+  * [blablado](https://github.com/haesleinhuepf/blablado)
+  * [story-writer](https://github.com/haesleinhuepf/story-writer)
+  * [darth-d](https://github.com/haesleinhuepf/darth-d)
+  * [prompting-pptx](https://github.com/haesleinhuepf/prompting-pptx)
 * Napari-plugins
   * [devbio-napari](https://www.napari-hub.org/plugins/devbio-napari)
   * [napari-segment-blobs-and-things-with-membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
