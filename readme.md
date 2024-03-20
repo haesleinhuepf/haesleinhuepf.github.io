@@ -57,26 +57,45 @@ Humboldtstraße 25
 * CZI Advancing Imaging Through Collaborative Projects 
   * [Society for Knowledge Exchange in BioImage Analysis (2023-2025)](https://chanzuckerberg.com/science/programs-resources/imaging/community/?cycle=advancing-imaging-through-collaborative-projects)
 
-## Open-Access Teaching Materials
+## Open-Access Training Materials
 
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
+
+### 2024
+
+* Bio-image Data Science Lecture + Practicals, Summer Semester 2024, Leipzig University ([Materials](https://github.com/ScaDS/BIDS-lecture-2024))
+
+* Bio-image Data Science Training School 2024, ScaDS.AI / Leipzig University ([Website / Materials](https://scads.github.io/BIDS-training-2024/intro.html))
+
+* Large Language Models for Bio-image Analysis, ScaDS.AI Living Lab Lecture
+([Slides](https://zenodo.org/records/10822115))
+
+* Prompt Engineering for Quantitative Bio-image Analysis, Monash Advanced Microscopy Seminar , March 20th 2024 ([Slides](https://zenodo.org/records/10841765))
+
+* Sharing & licensing, Seminar at ScaDS.AI General Assembly
+([Slides](https://zenodo.org/records/10837102))
+
+* Bio-image Analysis with the Help of Large Language Models, Leibnitz IPHT Jena Seminar, March 2024 ([Slides](https://zenodo.org/records/10815329))
+
+* Bio-image Analysis using Large Language Models, IMOL Seminar, Johann Wolfgang Goethe University Frankfurt, March 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
+
 
 ### 2023
 
 * Prompt Engineering Tutorial (ScaDS.AI Living Lab)
-[Slides + Notebooks](https://scads.github.io/prompt-engineering-tutorial-2023/intro.html)
+([Slides + Notebooks](https://scads.github.io/prompt-engineering-tutorial-2023/intro.html))
 
 * Napari Tutorial (ScaDS.AI Life Science Jour Fixe)
-[Slides + Notebooks](https://scads.github.io/napari-tutorial-2023/intro.html)
+([Slides + Notebooks](https://scads.github.io/napari-tutorial-2023/intro.html))
 
 * Generative Artificial Intelligence for Bio-image Analysis (I2K2023 Tutorial)
-[Video](https://www.youtube.com/watch?v=gLziaMjM3LM),
-[Slides](https://f1000research.com/slides/12-1353)
+([Video](https://www.youtube.com/watch?v=gLziaMjM3LM),
+[Slides](https://f1000research.com/slides/12-1353))
 
 * EMBO Practical Course on Advanced Methods of Bio-image Analysis, Heidelberg (
-[Website](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), 
-[Video lecture 1](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides 1](https://f1000research.com/slides/12-972)
-[Video lecture 2](https://www.youtube.com/watch?v=nC0REzvOT5s), [Slides 2](https://f1000research.com/slides/12-971))
+([Website](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/),
+[Video lecture 1](https://www.youtube.com/watch?v=QDS5t7oZH-c), [Slides 1](https://f1000research.com/slides/12-972),
+[Video lecture 2](https://www.youtube.com/watch?v=nC0REzvOT5s), [Slides 2](https://f1000research.com/slides/12-971)))
 
 * DIGS-BB Principles of Light Microscopy – Course for DIPP Students, Bio-image Analysis session, Dresden
 ([Website](https://www.digs-bb.de/events/2021/09/13/principles-of-light-microscopy), [Materials](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023))
@@ -258,6 +277,8 @@ Humboldtstraße 25
 
 ## Recent talks
 
+* "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
+* "Cultivating Open Training", Workshop on Efficiently Communicating Bio-image Analysis, Buxted Park, 12-15 Feb 2024, ([Slides](https://zenodo.org/records/10658484))
 * "Nichts hält ewig – Wie gehen wir damit um?" ("Nothing is forever - How do we deal with that?"), 5. Ulmer Workshop "Administrative Herausforderungen in Core Facilities und Technologieplattformen", Ulm University 2023 ([Website](https://www.uni-ulm.de/einrichtungen/moman/workshop-cf-admin/2023/info/), [slides](https://zenodo.org/records/10199824))
 * "Challenges and opportunities for bio-image analysis core-facilities", Danish BioImaging Stakeholder Meeting, 2023 ([slides](https://f1000research.com/slides/12-486))
 * "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
