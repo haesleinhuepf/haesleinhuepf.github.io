@@ -63,7 +63,13 @@ Humboldtstraße 25
 
 ### 2024
 
+* ScaDS.AI Bio-image Data Science Training School, May 2024 ([Website](https://scads.github.io/BIDS-training-2024))
+
+* DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
+
 * Bio-image Data Science Lecture + Practicals, Summer Semester 2024, Leipzig University ([Materials](https://github.com/ScaDS/BIDS-lecture-2024))
+
+* Sharing and Licensing workshop, ScaDS.AI General Assembly, ([Slides](https://zenodo.org/records/10837102))
 
 * Bio-image Data Science Training School 2024, ScaDS.AI / Leipzig University ([Website / Materials](https://scads.github.io/BIDS-training-2024/intro.html))
 
@@ -230,25 +236,26 @@ Humboldtstraße 25
 
 <img src="https://github-readme-stats.vercel.app/api?username=haesleinhuepf&show_icons=true&hide_border=true"/>
 
-* [CLIJ](https://clij.github.io)
-  * [CLATLAB](https://github.com/clij/clatlab)
-  * [clicy](https://github.com/clij/clicy)
-  * [clupath](https://github.com/clij/clupath)
-* [clesperanto](https://clesperanto.net)
-  * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype)
-  * [pyclesperanto](https://github.com/clEsperanto/pyclesperanto)
-  * [clesperantoj_prototype](https://github.com/clEsperanto/pyclesperantoj_prototype)
-* Accelerated pixel and object classification
-  * [apoc](https://github.com/haesleinhuepf/apoc)
-  * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
-  * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
-* [stackview](https://github.com/haesleinhuepf/stackview)
 * Generative AI / LLMs:
   * [bia-bob](https://github.com/haesleinhuepf/bia-bob)
+  * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia)
   * [blablado](https://github.com/haesleinhuepf/blablado)
   * [story-writer](https://github.com/haesleinhuepf/story-writer)
   * [darth-d](https://github.com/haesleinhuepf/darth-d)
   * [prompting-pptx](https://github.com/haesleinhuepf/prompting-pptx)
+* [stackview](https://github.com/haesleinhuepf/stackview)
+* [clesperanto](https://clesperanto.net)
+  * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype)
+  * [pyclesperanto](https://github.com/clEsperanto/pyclesperanto)
+  * [clesperantoj_prototype](https://github.com/clEsperanto/pyclesperantoj_prototype)
+* [CLIJ](https://clij.github.io)
+  * [CLATLAB](https://github.com/clij/clatlab)
+  * [clicy](https://github.com/clij/clicy)
+  * [clupath](https://github.com/clij/clupath)
+* Accelerated pixel and object classification
+  * [apoc](https://github.com/haesleinhuepf/apoc)
+  * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
+  * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
 * Napari-plugins
   * [devbio-napari](https://www.napari-hub.org/plugins/devbio-napari)
   * [napari-segment-blobs-and-things-with-membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
@@ -276,6 +283,15 @@ Humboldtstraße 25
 * [Twitter](https://twitter.com/haesleinhuepf)
 
 ## Recent talks
+
+* "Large Language Models for Bio-image Analysis" ScadDS.AI Summer School, June 24th 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
+* "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
+
+* "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024, ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
+
+* "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765))
+* "Bio-image Analysis with the Help of Large Language Models", Leibnitz IPHT Semina, Jena, March 13th 2024 ([Slides](https://zenodo.org/records/10815329))
+* "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Slides](https://zenodo.org/records/10784549))
 
 * "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
 * "Cultivating Open Training", Workshop on Efficiently Communicating Bio-image Analysis, Buxted Park, 12-15 Feb 2024, ([Slides](https://zenodo.org/records/10658484))
