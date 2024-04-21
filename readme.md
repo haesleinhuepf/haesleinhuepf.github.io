@@ -269,7 +269,7 @@ Humboldtstraße 25
 
 ## Recent talks
 
-* "Large Language Models for Bio-image Analysis" ScadDS.AI Summer School, June 24th 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
+* "Large Language Models for Bio-image Analysis" ScaDS.AI Summer School, June 24th 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
 * "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
 
 * "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024, ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
