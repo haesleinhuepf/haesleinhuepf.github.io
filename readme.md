@@ -71,21 +71,6 @@ Humboldtstraße 25
 
 * Sharing and Licensing workshop, ScaDS.AI General Assembly, ([Slides](https://zenodo.org/records/10837102))
 
-* Bio-image Data Science Training School 2024, ScaDS.AI / Leipzig University ([Website / Materials](https://scads.github.io/BIDS-training-2024/intro.html))
-
-* Large Language Models for Bio-image Analysis, ScaDS.AI Living Lab Lecture
-([Slides](https://zenodo.org/records/10822115))
-
-* Prompt Engineering for Quantitative Bio-image Analysis, Monash Advanced Microscopy Seminar , March 20th 2024 ([Slides](https://zenodo.org/records/10841765))
-
-* Sharing & licensing, Seminar at ScaDS.AI General Assembly
-([Slides](https://zenodo.org/records/10837102))
-
-* Bio-image Analysis with the Help of Large Language Models, Leibnitz IPHT Jena Seminar, March 2024 ([Slides](https://zenodo.org/records/10815329))
-
-* Bio-image Analysis using Large Language Models, IMOL Seminar, Johann Wolfgang Goethe University Frankfurt, March 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
-
-
 ### 2023
 
 * Prompt Engineering Tutorial (ScaDS.AI Living Lab)
@@ -291,7 +276,7 @@ Humboldtstraße 25
 
 * "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765))
 * "Bio-image Analysis with the Help of Large Language Models", Leibnitz IPHT Semina, Jena, March 13th 2024 ([Slides](https://zenodo.org/records/10815329))
-* "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Slides](https://zenodo.org/records/10784549))
+* "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
 
 * "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
 * "Cultivating Open Training", Workshop on Efficiently Communicating Bio-image Analysis, Buxted Park, 12-15 Feb 2024, ([Slides](https://zenodo.org/records/10658484))
