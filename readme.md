@@ -63,6 +63,8 @@ Humboldtstraße 25
 
 ### 2024
 
+* ScaDS.AI Python Programming Basics, June 2024 ([[Website](https://scads.github.io/Python-training-2024))
+
 * ScaDS.AI Bio-image Data Science Training School, May 2024 ([Website](https://scads.github.io/BIDS-training-2024))
 
 * DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
@@ -269,7 +271,14 @@ Humboldtstraße 25
 
 ## Recent talks
 
-* "Large Language Models for Bio-image Analysis" ScaDS.AI Summer School, June 24th 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
+* "Large Language Models for Bio-image Analysis" Mexican Bioimaging worshop (virtual), June2024 ([Website](https://meximagingworkshops.org.mx/))
+
+* "Large Language Models for Bio-image Analysis" ScaDS.AI Summer School, June 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
+
+* "Prompt Engineering" at the Networking Event "AI at Leipzig University", May 2024 ([Slides](https://zenodo.org/records/11241837))
+
+* "Research Software Management using git and zenodo" at RDM Symposium "From Papers to Pixels" at TU Dresden, ([Slides](https://zenodo.org/records/11344132))
+
 * "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
 
 * "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024, ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
