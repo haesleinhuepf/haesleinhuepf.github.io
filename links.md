@@ -81,3 +81,6 @@ Visual studio build tools 2015
 
 Cupy installation 
 * https://docs.cupy.dev/en/stable/install.html#installing-cupy
+
+LLM / RAG
+* https://github.com/ridgerchu/matmulfreellm?tab=readme-ov-file
