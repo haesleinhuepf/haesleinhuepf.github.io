@@ -6,7 +6,8 @@
 Dr. rer. medic. Robert Haase
 
 Lecturer, Training Coordinator
-Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig
+[ScaDS.AI](https://scads.ai) Dresden/Leipzig
+Data Science Center
 Universität Leipzig
 Humboldtstraße 25
 04105 Leipzig
@@ -14,7 +15,7 @@ Humboldtstraße 25
 
 ## Research interests
 
-* [Large language models for Bio-image Analysis](https://github.com/haesleinhuepf/bia-bob)
+* [Benchmarking Large Language Models for Bio-image Analysis Code Generation](https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
 * [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
@@ -22,7 +23,6 @@ Humboldtstraße 25
 ## Affiliations / organizations
 
 * [Center of Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden / Leipzig, Leipzig University](https://scads.ai)
-* [DFG Cluster of Excellence “Physics of Life” Technische Universität Dresden (PoL)](https://physics-of-life.tu-dresden.de/)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
 * [GloBIAS](https://www.globias.org/)
 * [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
@@ -60,16 +60,21 @@ Humboldtstraße 25
 ## Open-Access Training Materials
 
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
+* [Generative Artificial Intelligence Notebooks](https://scads.github.io/generative-ai-notebooks/intro.html)
 
 ### 2024
 
-* ScaDS.AI Python Programming Basics, June 2024 ([[Website](https://scads.github.io/Python-training-2024))
+* Bio-image Data Science Lecture + Practicals, Summer Semester 2024, Leipzig University ([Materials](https://github.com/ScaDS/BIDS-lecture-2024), [Slides](https://zenodo.org/records/12623730))
+ 
+* "Large Language Models for Bio-image Analysis", Mexican Bioimaging worshop (virtual), June 2024 ([Website](https://meximagingworkshops.org.mx/), [Slides](https://zenodo.org/records/12571082))
+
+* "Large Language Models for Quantiative Bio-image Analysis", ScaDS.AI Summer School, Leipig June 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/), [Slides](https://zenodo.org/records/12518075))
+ 
+* Python Programming Basics, Leipzig University / Academic Lab / ScaDS.AI, June 2024 ([[Website](https://scads.github.io/Python-training-2024))
 
 * ScaDS.AI Bio-image Data Science Training School, May 2024 ([Website](https://scads.github.io/BIDS-training-2024))
 
-* DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
-
-* Bio-image Data Science Lecture + Practicals, Summer Semester 2024, Leipzig University ([Materials](https://github.com/ScaDS/BIDS-lecture-2024))
+* Research Data & Software Management, DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
 
 * Sharing and Licensing workshop, ScaDS.AI General Assembly, ([Slides](https://zenodo.org/records/10837102))
 
@@ -270,10 +275,6 @@ Humboldtstraße 25
 * [Twitter](https://twitter.com/haesleinhuepf)
 
 ## Recent talks
-
-* "Large Language Models for Bio-image Analysis" Mexican Bioimaging worshop (virtual), June2024 ([Website](https://meximagingworkshops.org.mx/))
-
-* "Large Language Models for Bio-image Analysis" ScaDS.AI Summer School, June 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/))
 
 * "Prompt Engineering" at the Networking Event "AI at Leipzig University", May 2024 ([Slides](https://zenodo.org/records/11241837))
 
