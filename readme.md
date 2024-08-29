@@ -236,11 +236,12 @@ Humboldtstraße 25
 
 * Generative AI / LLMs:
   * [bia-bob](https://github.com/haesleinhuepf/bia-bob)
+  * [git-bob](https://github.com/haesleinhuepf/git-bob)
   * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia)
   * [blablado](https://github.com/haesleinhuepf/blablado)
   * [story-writer](https://github.com/haesleinhuepf/story-writer)
   * [darth-d](https://github.com/haesleinhuepf/darth-d)
-  * [prompting-pptx](https://github.com/haesleinhuepf/prompting-pptx)
+  * [ipy-llm-kernel](https://github.com/haesleinhuepf/ipy-llm-kernel)
 * [stackview](https://github.com/haesleinhuepf/stackview)
 * [clesperanto](https://clesperanto.net)
   * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype)
