@@ -293,7 +293,7 @@ Humboldtstraße 25
 * "Research Software Management using git and zenodo" at RDM Symposium "From Papers to Pixels" at TU Dresden, May 27th 2024 ([Slides](https://zenodo.org/records/11344132), [Website](https://physics-of-life.tu-dresden.de/events/2024/05/27/workshop-navigating-research-data))
 * "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Slides](https://zenodo.org/records/11066250), [Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
 * "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024 ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
-* "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765))
+* "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765), [Video recording](https://www.youtube.com/watch?v=2FyPJaOhO_4))
 * "Bio-image Analysis with the Help of Large Language Models", Leibnitz IPHT Seminar, Jena, March 13th 2024 ([Slides](https://zenodo.org/records/10815329))
 * "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
 * "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
