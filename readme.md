@@ -15,10 +15,10 @@ Humboldtstraße 25
 
 ## Research interests
 
+* [AI-Systems solving Github issues](https://github.com/haesleinhuepf/git-bob?tab=readme-ov-file)
 * [Benchmarking Large Language Models for Bio-image Analysis Code Generation](https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
 * [Software bridging bio-imaging and image data science](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
-* [Quantitative image analysis of tissues](https://www.frontiersin.org/articles/10.3389/fcomp.2021.774396/full)
 
 ## Affiliations / organizations
 
