@@ -24,7 +24,7 @@ Humboldtstraße 25
 
 * [Center of Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden / Leipzig, Leipzig University](https://scads.ai)
 * [Network of European BioImage Analysts (NEUBIAS)](https://eubias.org/NEUBIAS/)
-* [GloBIAS](https://www.globias.org/)
+* [Global BioImage Analysis Society (GloBIAS)](https://www.globias.org/)
 * [German Bioimaging (GerBI)](https://gerbi-gmb.de/)
 * [NFDI4BioImage](https://nfdi4bioimage.de/en/start/)
 
@@ -62,9 +62,43 @@ Humboldtstraße 25
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 * [Generative Artificial Intelligence Notebooks](https://scads.github.io/generative-ai-notebooks/intro.html)
 
+### 2025
+
+* "KI-Kompetenz-Training" an der Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15516022), [Exercises](https://scads.github.io/ki-kompetenz-training-2025/intro.html))
+
+* "Bio-image Data Science Lectures" at Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15481680), [Exercises](https://github.com/ScaDS/BIDS-lecture-2025))
+
+* "Collaborative working and Version Control with Git[Hub]" at University Library Leipzig ([Slides](https://zenodo.org/records/15379632))
+
+* "Research Data Management and Open Science" at AI4Seismology Training at ScaDS.AI ([Slides](https://zenodo.org/records/15363084), [Website](https://scads.github.io/ai4seismology-2025))
+
+* "Introduction to Machine Learning" at AI4Seismology Training at ScaDS.AI ([Slides](https://zenodo.org/records/15348199), [Website](https://scads.github.io/ai4seismology-2025))
+
+* "Learning and Training Bio-image Analysis in the Age of AI" at Globias + DataCarpentries Workshop IST Austria, Klosterneuburg ([Slides](https://zenodo.org/records/15165424), [Website](https://www.globias.org/activities/update-the-data-carpentries-bioimage-analysis-with-python-curriculum))
+
+* "Large Language Models: A practical Introduction for Computer Scientists" Training session at the SECAI Spring Meeting ([Slides](https://zenodo.org/records/15006767), [Exercises](https://scads.github.io/secai_llm_training/intro.html))
+
+* "Explainable AI for Computer Vision" ([Slides](https://zenodo.org/records/14996127), [Exercises](https://haesleinhuepf.github.io/xai))
+
+* "Large Language Models: An Introduction" guest seminar at Max Planck Institute for Human Cognitive and Brain Sciences ([Slides](https://zenodo.org/records/14796429))
+
+* "Large Language Models: An Introduction" guest seminar at Max Planck Institute for Math in Sciences ([Slides](https://zenodo.org/records/14789155))
+
+* "Prompt Engineering, Retrieval Augmented Generation and Agents" and "Multi-modal Language Models" guest lectures in lecture series "Secrets of LLMs" at TU Dresden ([Slides](https://zenodo.org/records/14789187))
+
+* "Artificial Intelligence in Everydays Research Routine" ([Slides](https://zenodo.org/records/14671792), [Exercises](https://scads.github.io/ai_training_ufz_2025/))
+
+* "Collaborative working and Version Control with Git[Hub]" at University Library Leipzig ([Slides](https://zenodo.org/records/14626054))
+
 ### 2024
 
-* "Bio-image Analysis Code Generation", From Images to Knowledge (I2K) virtual conference, Octoboer 2024 ([Website](https://www.i2kconference.org/virtual))
+* "Large Language Models: An Introduction for Life Scientists" at KI Stammtisch at University Library Medicine and Natural Sciences, Leipzig ([Slides](https://zenodo.org/records/14418209), [Website](https://www.ub.uni-leipzig.de/service/workshops-und-online-tutorials/schulungen/ki-stammtisch))
+
+* "Developing a Training Strategy" and "Training Computational Skills in the Age of AI" ([Slides 1](https://zenodo.org/records/14053758), [Slides 2](https://zenodo.org/records/14043615), [Website](https://www.globias.org/activities/annual-workshop-gothenburg-2024))
+
+8.	“Bio-image Analysis Code Generation using bia-bob“ Python Webinar Series of the Young Microscopists and Image Analysts working group of German BioImaging e.V. ([Video](https://www.youtube.com/watch?v=5u1MPgrjpAU), [Slides](https://zenodo.org/records/13908108))
+
+* "Bio-image Analysis Code Generation", From Images to Knowledge (I2K) virtual conference, October 2024 ([Video](https://www.youtube.com/watch?v=sBcV8rasOWo), (Slides)[https://zenodo.org/records/14001044], [Website](https://www.i2kconference.org/virtual))
 
 * "Large Language Models – an introduction for life scientists", GloBIAS Seminar Series, Virtual, August 2024 ([Slides](https://zenodo.org/records/13374649), [Website](https://www.globias.org/activities/bia-seminar-series))
 
@@ -283,6 +317,7 @@ Humboldtstraße 25
 
 ## Recent talks
 
+*	“Angebote der NFDIs im Bereich Zoologie”, Meeting of the DFG Fachkollegium Zoologie, December 4th 2024, virtual ([Slides](https://zenodo.org/records/14278058))
 * "Bio-Image Analysis Code Generation", invited talk at "International Symposium on Image-based Systems Biology", September 26th 2024, Jena ([Website](https://asb-conference.hki-jena.de/))
 * "GloBIAS - a global Society of Bio-Image Analysts", Leipzig Research Data Forum, Sept 23rd 2024 ([Website](https://scads.ai/event/leipzig-research-data-forum/))
 * "Towards Preservation of Life Science Data with NFDI4BIOIMAGE" at NFDI4Microbiota Digital Preservation Workshop, September 3rd 2024 ([Slides](https://zenodo.org/records/13506641), [Website](https://pretix.eu/n4m/preserve/))
