@@ -64,9 +64,7 @@ Humboldtstraße 25
 
 ### 2025
 
-* "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889))
-
-* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Slides](https://zenodo.org/records/15646539))
+* "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889)
 
 * "KI-Kompetenz-Training" an der Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15516022), [Exercises](https://scads.github.io/ki-kompetenz-training-2025/intro.html))
 
@@ -279,23 +277,20 @@ Humboldtstraße 25
   * [bluesky-bob](https://github.com/haesleinhuepf/bluesky-bob): Answer posts on bluesky
   * [outlook-bob](https://github.com/haesleinhuepf/outlook-bob): Answer Emails
   * [screenshot-question-answerer](https://github.com/haesleinhuepf/screenshot-question-answerer): Answer questions on screen
-  * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia)
-  * [story-writer](https://github.com/haesleinhuepf/story-writer)
-  * [vlm-pictionary](https://github.com/haesleinhuepf/vlm-pictionary)
-  * [ipy-llm-kernel](https://github.com/haesleinhuepf/ipy-llm-kernel)
-* [stackview](https://github.com/haesleinhuepf/stackview)
-* [clesperanto](https://clesperanto.net)
-  * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype)
-  * [pyclesperanto](https://github.com/clEsperanto/pyclesperanto)
-  * [clesperantoj_prototype](https://github.com/clEsperanto/pyclesperantoj_prototype)
-* [CLIJ](https://clij.github.io)
-  * [CLATLAB](https://github.com/clij/clatlab)
-  * [clicy](https://github.com/clij/clicy)
-  * [clupath](https://github.com/clij/clupath)
-* Accelerated pixel and object classification
-  * [apoc](https://github.com/haesleinhuepf/apoc)
-  * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
-  * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
+  * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia): How good is AI-written code for bio-image analysis?
+  * [story-writer](https://github.com/haesleinhuepf/story-writer): Writing stories for kids, including pictures.
+  * [vlm-pictionary](https://github.com/haesleinhuepf/vlm-pictionary): AI playing Pictionary
+  * [ipy-llm-kernel](https://github.com/haesleinhuepf/ipy-llm-kernel): Asking LLMs directly in Jupyter
+* [stackview](https://github.com/haesleinhuepf/stackview): Interactive image visualization in Jupyter
+* [clesperanto](https://clesperanto.net): GPU-accelerated image processing
+  * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype): GPU-accelerated image processing in Python
+  * [pyclesperanto](https://github.com/clEsperanto/pyclesperanto): GPU-accelerated image processing in Python
+  * [clesperantoj_prototype](https://github.com/clEsperanto/pyclesperantoj_prototype): : GPU-accelerated image processing in Java
+* [CLIJ](https://clij.github.io): : GPU-accelerated image processing in ImageJ
+  * [CLATLAB](https://github.com/clij/clatlab): : GPU-accelerated image processing in Matlab
+  * [clicy](https://github.com/clij/clicy): : GPU-accelerated image processing in Icy
+  * [clupath](https://github.com/clij/clupath): : GPU-accelerated image processing in QuPath
+* [APOC](https://github.com/haesleinhuepf/apoc): : GPU-accelerated pixel and object classification in Python
 
 ## Publications
 * [ORCID](http://orcid.org/0000-0001-5949-2327)
@@ -306,6 +301,7 @@ Humboldtstraße 25
 
 ## Recent talks
 
+* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Slides](https://zenodo.org/records/15646539))
 *	“Angebote der NFDIs im Bereich Zoologie”, Meeting of the DFG Fachkollegium Zoologie, December 4th 2024, virtual ([Slides](https://zenodo.org/records/14278058))
 * "Bio-Image Analysis Code Generation", invited talk at "International Symposium on Image-based Systems Biology", September 26th 2024, Jena ([Website](https://asb-conference.hki-jena.de/))
 * "GloBIAS - a global Society of Bio-Image Analysts", Leipzig Research Data Forum, Sept 23rd 2024 ([Website](https://scads.ai/event/leipzig-research-data-forum/))
