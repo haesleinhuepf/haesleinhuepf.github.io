@@ -64,6 +64,10 @@ Humboldtstraße 25
 
 ### 2025
 
+* "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889))
+
+* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Slides](https://zenodo.org/records/15646539))
+
 * "KI-Kompetenz-Training" an der Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15516022), [Exercises](https://scads.github.io/ki-kompetenz-training-2025/intro.html))
 
 * "Bio-image Data Science Lectures" at Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15481680), [Exercises](https://github.com/ScaDS/BIDS-lecture-2025))
@@ -269,12 +273,15 @@ Humboldtstraße 25
 <img src="https://github-readme-stats.vercel.app/api?username=haesleinhuepf&show_icons=true&hide_border=true"/>
 
 * Generative AI / LLMs:
-  * [bia-bob](https://github.com/haesleinhuepf/bia-bob)
-  * [git-bob](https://github.com/haesleinhuepf/git-bob)
+  * [bia-bob](https://github.com/haesleinhuepf/bia-bob): Code generation in Jupyter Notebooks
+  * [unprompted](https://github.com/haesleinhuepf/unprompted): Feedback and suggestions in Jupyter Notebooks
+  * [git-bob](https://github.com/haesleinhuepf/git-bob): Answering GitHub/Lab issues
+  * [bluesky-bob](https://github.com/haesleinhuepf/bluesky-bob): Answer posts on bluesky
+  * [outlook-bob](https://github.com/haesleinhuepf/outlook-bob): Answer Emails
+  * [screenshot-question-answerer](https://github.com/haesleinhuepf/screenshot-question-answerer): Answer questions on screen
   * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia)
-  * [blablado](https://github.com/haesleinhuepf/blablado)
   * [story-writer](https://github.com/haesleinhuepf/story-writer)
-  * [darth-d](https://github.com/haesleinhuepf/darth-d)
+  * [vlm-pictionary](https://github.com/haesleinhuepf/vlm-pictionary)
   * [ipy-llm-kernel](https://github.com/haesleinhuepf/ipy-llm-kernel)
 * [stackview](https://github.com/haesleinhuepf/stackview)
 * [clesperanto](https://clesperanto.net)
@@ -289,24 +296,6 @@ Humboldtstraße 25
   * [apoc](https://github.com/haesleinhuepf/apoc)
   * [napari-apoc](https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification)
   * [Fiji/CLIJx-apoc](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
-* Napari-plugins
-  * [devbio-napari](https://www.napari-hub.org/plugins/devbio-napari)
-  * [napari-segment-blobs-and-things-with-membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
-  * [napari-simpleitk-image-processing](https://www.napari-hub.org/plugins/napari-simpleitk-image-processing)
-  * [napari-pyclesperanto-assistant](https://www.napari-hub.org/plugins/napari-pyclesperanto-assistant)
-  * [napari-cupy-image-processing](https://www.napari-hub.org/plugins/napari-cupy-image-processing)
-  * [napari-clusters-plotter](https://www.napari-hub.org/plugins/napari-clusters-plotter)
-  * [napari-skimage-regionprops](https://www.napari-hub.org/plugins/napari-skimage-regionprops)
-  * [the-segmentation-game](https://www.napari-hub.org/plugins/the-segmentation-game)
-  * [napari-curtain](https://www.napari-hub.org/plugins/napari-curtain)
-  * [napari-assistant](https://www.napari-hub.org/plugins/napari-assistant)
-  * [napari-process-points-and-surfaces](https://www.napari-hub.org/plugins/napari-process-points-and-surfaces)
-  * [napari-workflow-inspector](https://www.napari-hub.org/plugins/napari-workflow-inspector)
-  * [napari-workflow-optimizer](https://www.napari-hub.org/plugins/napari-workflow-optimizer)
-  * [napari-script-editor](https://www.napari-hub.org/plugins/napari-script-editor)
-  * [napari-owncloud](https://www.napari-hub.org/plugins/napari-owncloud)
-  * [natari](https://www.napari-hub.org/plugins/natari)
-  * [...](https://www.napari-hub.org/?search=haase&sort=relevance&page=1)
 
 ## Publications
 * [ORCID](http://orcid.org/0000-0001-5949-2327)
