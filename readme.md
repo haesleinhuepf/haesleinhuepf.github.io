@@ -64,9 +64,9 @@ Humboldtstraße 25
 
 ### 2026
 
-* "How Generative AI impacts research and teaching",  Arqus Artificial Intelligence and Digital Transformation (AI&DT) Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
+* "How Generative AI impacts research and teaching", Arqus Artificial Intelligence and Digital Transformation Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
 
-* "Vision Language Models" and "Agentic Systems", Guest Lecutres in "Secretes of LLMs" Lecture Series, Facult of Commputer Science, TU Dresden ([Slides](https://doi.org/10.5281/zenodo.18219166)) 
+* "Vision Language Models" and "Agentic Systems", Guest Lectures in "Secretes of LLMs" Lecture Series, Facult of Computer Science, TU Dresden ([Slides](https://doi.org/10.5281/zenodo.18219166)) 
 
 ### 2025
 
