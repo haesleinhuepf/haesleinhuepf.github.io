@@ -64,7 +64,17 @@ Humboldtstraße 25
 
 ### 2025
 
-* "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889)
+* "How Generative AI impacts research and teaching",  Arqus Artificial Intelligence and Digital Transformation (AI&DT) Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
+
+* "Vision Language Models" and "Agentic Systems", Guest Lecutres in "Secretes of LLMs" Lecture Series, Facult of Commputer Science, TU Dresden ([Slides](https://doi.org/10.5281/zenodo.18219166)) 
+
+* "AI4Science" Training, UFZ Leipzig ([Slides](https://doi.org/10.5281/zenodo.17901300), [Exercises](https://scads.github.io/ai4science-ufz-2025))
+
+* "How Generative AI impacts research and teaching", Lunch Lecutre, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17422916))
+
+* "Research Data Management", AI4Medicine Training, ScaDS.AI, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174206))
+ 
+* "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889))
 
 * "KI-Kompetenz-Training" an der Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15516022), [Exercises](https://scads.github.io/ki-kompetenz-training-2025/intro.html))
 
