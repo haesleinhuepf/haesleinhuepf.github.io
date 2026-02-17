@@ -72,7 +72,13 @@ Humboldtstraße 25
 
 * "How Generative AI impacts research and teaching", Lunch Lecutre, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17422916))
 
-* "Research Data Management", AI4Medicine Training, ScaDS.AI, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174206))
+* "Using Large Language Models for Bio-image Analysis", EMBO Practical Course on Advanced Bio Image Analysis, EMBL Heidelberg ([Slides](https://doi.org/10.5281/zenodo.17053831), [Exercises](https://scads.github.io/llm-bia-2025/intro.html))
+
+* "AI4Psychology" Training, Faculty of Life Sciences, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174433), [Exercises](https://scads.github.io/ai4psychology-2025))
+
+* "Research Data Management" and "Explainable Machine Learning", AI4Medicine Training, ScaDS.AI, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174206), [Slides](https://doi.org/10.5281/zenodo.17116757), [Website](https://scads.github.io/ai4medicine-2025/intro.html))
+
+* "Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI", EMBO Practical Course on Lightsheet Microscopy, MPI-CBG Dresden ([Slides](https://doi.org/10.5281/zenodo.16793738), [Exercises](https://github.com/ScaDS/embo-lsm-bia-2025))
  
 * "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889))
 
