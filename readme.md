@@ -62,11 +62,13 @@ Humboldtstraße 25
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 * [Generative Artificial Intelligence Notebooks](https://scads.github.io/generative-ai-notebooks/intro.html)
 
-### 2025
+### 2026
 
 * "How Generative AI impacts research and teaching",  Arqus Artificial Intelligence and Digital Transformation (AI&DT) Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
 
 * "Vision Language Models" and "Agentic Systems", Guest Lecutres in "Secretes of LLMs" Lecture Series, Facult of Commputer Science, TU Dresden ([Slides](https://doi.org/10.5281/zenodo.18219166)) 
+
+### 2025
 
 * "AI4Science" Training, UFZ Leipzig ([Slides](https://doi.org/10.5281/zenodo.17901300), [Exercises](https://scads.github.io/ai4science-ufz-2025))
 
