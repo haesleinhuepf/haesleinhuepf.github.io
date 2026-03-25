@@ -64,6 +64,14 @@ Humboldtstraße 25
 
 ### 2026
 
+* "AI4Science Training", UFZ Magdeburg ([Materials](https://scads.github.io/ai4science-ufz-madgeburg-2026/))
+
+* "How to use Generative Artificial Intelligence for Science", GRK NeuroTune, Leipzig University ([Materials](https://scads.github.io/ai4science-grk-neurotune-2026/), [Slides](https://zenodo.org/records/18908461))
+
+* "How to use Generative Artificial Intelligence for Science", iDiv Leipzig, ([Materials](https://scads.github.io/ai4science-idiv-2026/), [Slides](https://zenodo.org/records/18804366))
+
+* "How Generative Artificial Intelligence impacts Bio-image Data Science", Danish BioImaging, University of Copenhagen ([Materials](https://scads.github.io/llm-data-analysis-2026), [Slides](https://zenodo.org/records/18879906))
+
 * "How Generative AI impacts research and teaching", Arqus Artificial Intelligence and Digital Transformation Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
 
 * "Vision Language Models" and "Agentic Systems", Guest Lectures in "Secretes of LLMs" Lecture Series, Facult of Computer Science, TU Dresden ([Slides](https://doi.org/10.5281/zenodo.18219166)) 
