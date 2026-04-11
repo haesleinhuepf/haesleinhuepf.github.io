@@ -57,20 +57,20 @@ Humboldtstraße 25
 * CZI Advancing Imaging Through Collaborative Projects 
   * [Society for Knowledge Exchange in BioImage Analysis (2023-2025)](https://chanzuckerberg.com/science/programs-resources/imaging/community/?cycle=advancing-imaging-through-collaborative-projects)
 
-## Open-Access Training Materials
+## Open-Access Training Materials & Talks
 
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 * [Generative Artificial Intelligence Notebooks](https://scads.github.io/generative-ai-notebooks/intro.html)
 
 ### 2026
 
-* "AI4Science Training", UFZ Magdeburg ([Materials](https://scads.github.io/ai4science-ufz-madgeburg-2026/))
+* "AI4Science Training", UFZ Magdeburg ([Materials](https://scads.github.io/ai4science-ufz-madgeburg-2026/), [Slides](https://doi.org/10.5281/zenodo.19239480))
 
 * "How to use Generative Artificial Intelligence for Science", GRK NeuroTune, Leipzig University ([Materials](https://scads.github.io/ai4science-grk-neurotune-2026/), [Slides](https://zenodo.org/records/18908461))
 
 * "How to use Generative Artificial Intelligence for Science", iDiv Leipzig, ([Materials](https://scads.github.io/ai4science-idiv-2026/), [Slides](https://zenodo.org/records/18804366))
 
-* "How Generative Artificial Intelligence impacts Bio-image Data Science", Danish BioImaging, University of Copenhagen ([Materials](https://scads.github.io/llm-data-analysis-2026), [Slides](https://zenodo.org/records/18879906))
+* "How Generative Artificial Intelligence impacts Bio-image Data Science", Danish BioImaging, University of Copenhagen ([Video](https://www.youtube.com/watch?v=Nw40Mbh8eLI), [Materials](https://scads.github.io/llm-data-analysis-2026), [Slides](https://zenodo.org/records/18879906))
 
 * "How Generative AI impacts research and teaching", Arqus Artificial Intelligence and Digital Transformation Living Lab Lecture ([Slides](https://doi.org/10.5281/zenodo.18377121))
 
@@ -80,17 +80,23 @@ Humboldtstraße 25
 
 * "AI4Science" Training, UFZ Leipzig ([Slides](https://doi.org/10.5281/zenodo.17901300), [Exercises](https://scads.github.io/ai4science-ufz-2025))
 
-* "How Generative AI impacts research and teaching", Lunch Lecutre, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17422916))
+* "How Generative AI impacts research and teaching", Lunch Lecture, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17422916))
 
 * "Using Large Language Models for Bio-image Analysis", EMBO Practical Course on Advanced Bio Image Analysis, EMBL Heidelberg ([Slides](https://doi.org/10.5281/zenodo.17053831), [Exercises](https://scads.github.io/llm-bia-2025/intro.html))
+
+* "How Large Language Models impact Bio-Image Data Science" Janelia & EMBL BioImaging Seminar Series, EMBL Heidelberg, ([Video](https://www.youtube.com/watch?v=p1tmseAkLsg), [Slides](https://zenodo.org/records/17102027), [Website](https://www.janelia.org/content/oig-embl))
 
 * "AI4Psychology" Training, Faculty of Life Sciences, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174433), [Exercises](https://scads.github.io/ai4psychology-2025))
 
 * "Research Data Management" and "Explainable Machine Learning", AI4Medicine Training, ScaDS.AI, Leipzig University ([Slides](https://doi.org/10.5281/zenodo.17174206), [Slides](https://doi.org/10.5281/zenodo.17116757), [Website](https://scads.github.io/ai4medicine-2025/intro.html))
 
 * "Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI", EMBO Practical Course on Lightsheet Microscopy, MPI-CBG Dresden ([Slides](https://doi.org/10.5281/zenodo.16793738), [Exercises](https://github.com/ScaDS/embo-lsm-bia-2025))
+
+* "Autonomous AI Systems for Data Analysis", ScaDS.AI Life Science Seminar, Leipzig ([Slides](https://doi.org/10.5281/zenodo.17017889))
  
 * "DevOps Hands-On Training", DataWeek Leipzig ([Slides](https://zenodo.org/records/15654889))
+
+* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Slides](https://zenodo.org/records/15646539))
 
 * "KI-Kompetenz-Training" an der Uni Leipzig / ScaDS.AI ([Slides](https://zenodo.org/records/15516022), [Exercises](https://scads.github.io/ki-kompetenz-training-2025/intro.html))
 
@@ -120,11 +126,17 @@ Humboldtstraße 25
 
 ### 2024
 
+* "Angebote der NFDIs im Bereich Zoologie", Meeting of the DFG Fachkollegium Zoologie, December 4th 2024, virtual ([Slides](https://zenodo.org/records/14278058))
+
 * "Large Language Models: An Introduction for Life Scientists" at KI Stammtisch at University Library Medicine and Natural Sciences, Leipzig ([Slides](https://zenodo.org/records/14418209), [Website](https://www.ub.uni-leipzig.de/service/workshops-und-online-tutorials/schulungen/ki-stammtisch))
 
 * "Developing a Training Strategy" and "Training Computational Skills in the Age of AI" ([Slides 1](https://zenodo.org/records/14053758), [Slides 2](https://zenodo.org/records/14043615), [Website](https://www.globias.org/activities/annual-workshop-gothenburg-2024))
 
-8.	“Bio-image Analysis Code Generation using bia-bob“ Python Webinar Series of the Young Microscopists and Image Analysts working group of German BioImaging e.V. ([Video](https://www.youtube.com/watch?v=5u1MPgrjpAU), [Slides](https://zenodo.org/records/13908108))
+* "Bio-Image Analysis Code Generation", invited talk at "International Symposium on Image-based Systems Biology", September 26th 2024, Jena ([Website](https://asb-conference.hki-jena.de/))
+
+* "Towards Preservation of Life Science Data with NFDI4BIOIMAGE" at NFDI4Microbiota Digital Preservation Workshop, September 3rd 2024 ([Slides](https://zenodo.org/records/13506641), [Website](https://pretix.eu/n4m/preserve/))
+
+*	“Bio-image Analysis Code Generation using bia-bob“ Python Webinar Series of the Young Microscopists and Image Analysts working group of German BioImaging e.V. ([Video](https://www.youtube.com/watch?v=5u1MPgrjpAU), [Slides](https://zenodo.org/records/13908108))
 
 * "Bio-image Analysis Code Generation", From Images to Knowledge (I2K) virtual conference, October 2024 ([Video](https://www.youtube.com/watch?v=sBcV8rasOWo), (Slides)[https://zenodo.org/records/14001044], [Website](https://www.i2kconference.org/virtual))
 
@@ -136,17 +148,41 @@ Humboldtstraße 25
  
 * "Large Language Models for Bio-image Analysis", Mexican Bioimaging worshop (virtual), June 2024 ([Website](https://meximagingworkshops.org.mx/), [Slides](https://zenodo.org/records/12571082))
 
+* "Large Language Models for Bio-image Analysis", Biological Image Processing and Analysis Symposium, June 14th 2024, Nice France, ([Slides](https://zenodo.org/records/11650302), [Website](https://bioias-2024.sciencesconf.org/))
+
 * "Large Language Models for Quantiative Bio-image Analysis", ScaDS.AI Summer School, Leipig June 2024 ([Website](https://scads.ai/education/summer-schools/summer-school-2024/), [Slides](https://zenodo.org/records/12518075))
  
 * Python Programming Basics, Leipzig University / Academic Lab / ScaDS.AI, June 2024 ([[Website](https://scads.github.io/Python-training-2024))
 
+* Research Data & Software Management, DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
+
+* "Research Software Management using git and zenodo" at RDM Symposium "From Papers to Pixels" at TU Dresden, May 27th 2024 ([Slides](https://zenodo.org/records/11344132), [Website](https://physics-of-life.tu-dresden.de/events/2024/05/27/workshop-navigating-research-data))
+
+* "Prompt Engineering" at the Networking Event "AI at Leipzig University", May 2024 ([Slides](https://zenodo.org/records/11241837))
+
 * ScaDS.AI Bio-image Data Science Training School, May 2024 ([Website](https://scads.github.io/BIDS-training-2024))
 
-* Research Data & Software Management, DataWeek Leipzig (Session slides: [git](https://zenodo.org/records/10972692), [Sharing/Licensing](https://zenodo.org/records/10990107) [Data Management](https://zenodo.org/records/10970869))
+* "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Slides](https://zenodo.org/records/11066250), [Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
+
+* "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024 ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
+
+* "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765), [Video recording](https://www.youtube.com/watch?v=2FyPJaOhO_4))
+
+* "Bio-image Analysis with the Help of Large Language Models", Leibnitz IPHT Seminar, Jena, March 13th 2024 ([Slides](https://zenodo.org/records/10815329))
+
+* "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
+
+* "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
+
+* "Cultivating Open Training", Workshop on Efficiently Communicating Bio-image Analysis, Buxted Park, 12-15 Feb 2024, ([Slides](https://zenodo.org/records/10658484))
 
 * Sharing and Licensing workshop, ScaDS.AI General Assembly, ([Slides](https://zenodo.org/records/10837102))
 
 ### 2023
+
+* "Nichts hält ewig – Wie gehen wir damit um?" ("Nothing is forever - How do we deal with that?"), 5. Ulmer Workshop "Administrative Herausforderungen in Core Facilities und Technologieplattformen", Ulm University 2023 ([Website](https://www.uni-ulm.de/einrichtungen/moman/workshop-cf-admin/2023/info/), [slides](https://zenodo.org/records/10199824))
+
+* "Challenges and opportunities for bio-image analysis core-facilities", Danish BioImaging Stakeholder Meeting, 2023 ([slides](https://f1000research.com/slides/12-486))
 
 * Prompt Engineering Tutorial (ScaDS.AI Living Lab)
 ([Slides + Notebooks](https://scads.github.io/prompt-engineering-tutorial-2023/intro.html))
@@ -186,10 +222,23 @@ Humboldtstraße 25
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
 ([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python))
 
+* "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
+
 ### 2022
+
+* "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
 
 * Image data science with Python and Napari, virtually at EPFL Lausanne
 ([Slides](https://biapol.github.io/Image-data-science-with-Python-and-Napari-EPFL2022/intro.html))
+ 
+* "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
+
+* "Hitchhiking through a diverse Bio-image Analysis Software Universe", Frontiers in Bioimaging, Birmingham, UK 2022, ([slides](https://f1000research.com/slides/11-746))
+
+* "Advanced bio-image analysis, image data science & AI", Zebrafish PI Meeting, Dresden, 2022 ([slides](https://f1000research.com/slides/11-373))
+
+* "Bio-image analysis island hopping: From Fiji to Napari and back", talk at Instituto Gulbenkian de Ciência Oeiras, Portugal 2022 ([slides](https://f1000research.com/slides/11-306))
+
 
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
 ([Materials](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/tree/2022.07.28))
@@ -210,8 +259,12 @@ Humboldtstraße 25
 * Advanced bio-image analysis, image data science & AI, Workshop at Zebrafish PI Meeting, Dresden
 ([Slides](https://f1000research.com/slides/11-373))
 
+* "clesperanto: Open-source, GPU-accelerated image processing across programming languages and software ecosystems" SIMposium 2022 ([slides](https://f1000research.com/slides/11-213))
+
 * Current challenges in GPU-accelerated image processing for the life sciences, Guest Lecture in High Performance Computing, TU Dresden
 ([Slides](https://f1000research.com/slides/11-81))
+
+
 
 ### 2021
 * Bio-Image Analysis, Biostatistics, Programming and Machine Learning for Computational Biology Lecture in Molecular Bioengineering (Master) and Molecular Biology and Biotechnology (Bachelor) at CMCB, TU Dresden
@@ -222,6 +275,14 @@ Humboldtstraße 25
 
 * Interactive Data Visualization 101 with Fiji & Friends, HIP Summer School
 ([Slides](https://f1000research.com/slides/10-978))
+
+* "GPU-accelerated bio-image analysis focusing on processing segmented images", LS2 Switzerland Webinar 2021 ([slides](https://f1000research.com/slides/10-610))
+
+* "User friendly GPU-accelerated bio-image analysis beyond cell segmentation", PSB Symposium Frontiers in Bioimaging, 2021 ([slides](https://f1000research.com/slides/10-530))
+
+* "Bio-image analysis island hopping: From Fiji to Napari and back", EuroBioImaging Virtual Pub 2021 ([slides](https://f1000research.com/slides/10-313), [video](https://www.youtube.com/watch?v=MERVnf5_QkI))
+
+* "Interactive image data flow graphs and GPU-accelerated image processing for everyone", ABRF Annual Meeting 2021 ([slides](https://f1000research.com/slides/10-201))
 
 * Object tracking in images, Seminar at HZDR Dresden
 ([Slides](https://f1000research.com/slides/10-962))
@@ -324,45 +385,6 @@ Humboldtstraße 25
 * [Github](https://github.com/haesleinhuepf)
 * [YouTube](https://youtube.com/haesleinhuepf)
 * [Twitter](https://twitter.com/haesleinhuepf)
-
-## Recent talks
-
-* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Slides](https://zenodo.org/records/15646539))
-*	“Angebote der NFDIs im Bereich Zoologie”, Meeting of the DFG Fachkollegium Zoologie, December 4th 2024, virtual ([Slides](https://zenodo.org/records/14278058))
-* "Bio-Image Analysis Code Generation", invited talk at "International Symposium on Image-based Systems Biology", September 26th 2024, Jena ([Website](https://asb-conference.hki-jena.de/))
-* "GloBIAS - a global Society of Bio-Image Analysts", Leipzig Research Data Forum, Sept 23rd 2024 ([Website](https://scads.ai/event/leipzig-research-data-forum/))
-* "Towards Preservation of Life Science Data with NFDI4BIOIMAGE" at NFDI4Microbiota Digital Preservation Workshop, September 3rd 2024 ([Slides](https://zenodo.org/records/13506641), [Website](https://pretix.eu/n4m/preserve/))
-* "Large Language Models for Bio-image Analysis", Biological Image Processing and Analysis Symposium, June 14th 2024, Nice France, ([Slides](https://zenodo.org/records/11650302), [Website](https://bioias-2024.sciencesconf.org/))
-* "Large Language Models for Scientific Image Analysis" at Networking event "From Distributed Data to Large AI Models" with Sächsische Staatskanzlei, May 30th Dresden, ([Website](https://scads.ai/from-distributed-data-to-large-ai-models/))
-* "Large Language Models for Bio-image Analysis" at "HPC-Statuskonferenz 2024", April 26th 2024, ([Website](https://gauss-allianz.de/de/hpc-statuskonferenz-2024))
-* "Prompt Engineering" at the Networking Event "AI at Leipzig University", May 2024 ([Slides](https://zenodo.org/records/11241837))
-* "Research Software Management using git and zenodo" at RDM Symposium "From Papers to Pixels" at TU Dresden, May 27th 2024 ([Slides](https://zenodo.org/records/11344132), [Website](https://physics-of-life.tu-dresden.de/events/2024/05/27/workshop-navigating-research-data))
-* "Cultivating Open Training to advance Bio-image Analysis", FocalPlane Webinar, April 27th 2024 ([Slides](https://zenodo.org/records/11066250), [Website](https://focalplane.biologists.com/2024/03/28/focalplane-features-microscopy-education/))
-* "Large Language Models for Bio-image Analysis", ScaDS.AI Living Lab Lecture, April 4th 2024 ([Video](https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp), [Slides](https://zenodo.org/records/10822115))
-* "Prompt Engineering for Quantitative Bio-image Analysis", Monash Advanced Microscopy Seminar (online), March 20th 2024, ([Slides](https://zenodo.org/records/10841765), [Video recording](https://www.youtube.com/watch?v=2FyPJaOhO_4))
-* "Bio-image Analysis with the Help of Large Language Models", Leibnitz IPHT Seminar, Jena, March 13th 2024 ([Slides](https://zenodo.org/records/10815329))
-* "Bio-image Analysis using Large Language Models", IMOL Seminar, Johann Wolfgang Goethe University Frankfurt am Main, March 6th 2024 ([Website](https://imol.uni-frankfurt.de/events/seminar-series/), [Slides](https://zenodo.org/records/10784549))
-* "Cultivating Open Training", SaxFDM Digital Kitchen, March 2024, ([Website](https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/), [Slides](https://zenodo.org/records/10816895))
-* "Cultivating Open Training", Workshop on Efficiently Communicating Bio-image Analysis, Buxted Park, 12-15 Feb 2024, ([Slides](https://zenodo.org/records/10658484))
-
-* "Nichts hält ewig – Wie gehen wir damit um?" ("Nothing is forever - How do we deal with that?"), 5. Ulmer Workshop "Administrative Herausforderungen in Core Facilities und Technologieplattformen", Ulm University 2023 ([Website](https://www.uni-ulm.de/einrichtungen/moman/workshop-cf-admin/2023/info/), [slides](https://zenodo.org/records/10199824))
-* "Challenges and opportunities for bio-image analysis core-facilities", Danish BioImaging Stakeholder Meeting, 2023 ([slides](https://f1000research.com/slides/12-486))
-* "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2023 ([slides](https://f1000research.com/slides/12-82))
-* "User-friendly, interactive Bio-image Analysis Workflow Design in Napari", The Crick Bio-image Analysis Symposium, London UK 2022 ([slides](https://f1000research.com/slides/11-1351))
-* "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing", NEUBIAS Defragmentation Training School, 2022 ([slides](https://f1000research.com/slides/11-1171))
-
-* "Hitchhiking through a diverse Bio-image Analysis Software Universe", Frontiers in Bioimaging, Birmingham, UK 2022, ([slides](https://f1000research.com/slides/11-746))
-* "Advanced bio-image analysis, image data science & AI", Zebrafish PI Meeting, Dresden, 2022 ([slides](https://f1000research.com/slides/11-373))
-* "Bio-image analysis island hopping: From Fiji to Napari and back", talk at Instituto Gulbenkian de Ciência Oeiras, Portugal 2022 ([slides](https://f1000research.com/slides/11-306))
-* "clesperanto: Open-source, GPU-accelerated image processing across programming languages and software ecosystems" SIMposium 2022 ([slides](https://f1000research.com/slides/11-213))
-* "Current challenges in GPU-accelerated image processing for the life sciences", Guest Lecture in Highly Parallel Computing, Faculty of Computer Sience, TU Dresden 2022 ([slides](https://f1000research.com/slides/11-81))
-
-* "GPU-accelerated bio-image analysis focusing on processing segmented images", LS2 Switzerland Webinar 2021 ([slides](https://f1000research.com/slides/10-610))
-* "User friendly GPU-accelerated bio-image analysis beyond cell segmentation", PSB Symposium Frontiers in Bioimaging, 2021 ([slides](https://f1000research.com/slides/10-530))
-* "Bio-image analysis island hopping: From Fiji to Napari and back", EuroBioImaging Virtual Pub 2021 ([slides](https://f1000research.com/slides/10-313), [video](https://www.youtube.com/watch?v=MERVnf5_QkI))
-* "Interactive image data flow graphs and GPU-accelerated image processing for everyone", ABRF Annual Meeting 2021 ([slides](https://f1000research.com/slides/10-201))
-
-* "GPU Accelerated Image Processing with CLIJ2", NEUBIAS Academy 2020 ([slides](https://f1000research.com/slides/9-640), [video](https://www.youtube.com/watch?v=uMj0OS1TiQE))
 
 ## Blog posts
 * [If you license it, it’ll be harder to steal it. Why we should license our work](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
