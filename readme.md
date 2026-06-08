@@ -15,6 +15,7 @@ Humboldtstraße 25
 
 ## Research interests
 
+* [AI-agents solving data analysis tasks in parallel](https://haesleinhuepf.github.io/sand-bob/)
 * [AI-Systems solving Github issues](https://github.com/haesleinhuepf/git-bob?tab=readme-ov-file)
 * [Benchmarking Large Language Models for Bio-image Analysis Code Generation](https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3)
 * [GPU-accelerated image processing](https://doi.org/10.1038/s41592-019-0650-1)
