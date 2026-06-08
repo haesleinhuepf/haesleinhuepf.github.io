@@ -65,6 +65,12 @@ Humboldtstraße 25
 
 ### 2026
 
+* "How Generative AI impacts [BioImage] Data Science", Institut Pasteur Paris ([Slides](https://doi.org/10.5281/zenodo.20527125))
+
+* "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert", DataWeek Leipzig ([Exercises](https://scads.github.io/genai-dataweek-2026/), [Slides](https://doi.org/10.5281/zenodo.20474585))
+
+* "AI & Cybersecurity - Opportunities and risks", Arqus University Alliance Lecture ([Slides](https://doi.org/10.5281/zenodo.19690206))
+
 * "AI4Science Training", UFZ Magdeburg ([Exercise](https://scads.github.io/ai4science-ufz-madgeburg-2026/), [Slides](https://doi.org/10.5281/zenodo.19239480))
 
 * "How to use Generative Artificial Intelligence for Science", GRK NeuroTune, Leipzig University ([Exercise](https://scads.github.io/ai4science-grk-neurotune-2026/), [Slides](https://zenodo.org/records/18908461))
@@ -359,6 +365,7 @@ Humboldtstraße 25
 <img src="https://github-readme-stats.vercel.app/api?username=haesleinhuepf&show_icons=true&hide_border=true"/>
 
 * Generative AI / LLMs:
+  * [sand-bob](https://haesleinhuepf.github.io/sand-bob/) 
   * [bia-bob](https://github.com/haesleinhuepf/bia-bob): Code generation in Jupyter Notebooks
   * [unprompted](https://github.com/haesleinhuepf/unprompted): Feedback and suggestions in Jupyter Notebooks
   * [git-bob](https://github.com/haesleinhuepf/git-bob): Answering GitHub/Lab issues
