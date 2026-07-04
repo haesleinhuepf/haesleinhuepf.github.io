@@ -59,18 +59,6 @@
   },
   {
     "year": 2026,
-    "title": "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert",
-    "venue": "DataWeek Leipzig",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.20474586"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/20474586.png?raw=true"
-  },
-  {
-    "year": 2026,
     "title": "Hitchhiking through Data Science - Medical Imaging, Bio Image Analysis and Large Language Models",
     "venue": "Webinaires Méthodes d'Analyses d'Images par IA",
     "links": [
@@ -106,28 +94,6 @@
   },
   {
     "year": 2026,
-    "title": "AI & Cybersecurity - Opportunities and risks",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.19690207"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/19690207.png?raw=true"
-  },
-  {
-    "year": 2026,
-    "title": "AI4Science Training @ UFZ Magdeburg",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.19246441"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/19246441.png?raw=true"
-  },
-  {
-    "year": 2026,
     "title": "How to use Generative Artificial Intelligence for Science",
     "venue": "Science: To Be Determined Symposium",
     "links": [
@@ -158,7 +124,8 @@
         "label": "Slides",
         "url": "https://doi.org/10.5281/zenodo.18377121"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/18377121.png?raw=true"
   },
   {
     "year": 2026,
@@ -254,17 +221,6 @@
   },
   {
     "year": 2025,
-    "title": "Using Large Language Models for Bio-image Analysis",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.17053832"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/17053832.png?raw=true"
-  },
-  {
-    "year": 2025,
     "title": "Autonomous AI Systems for Data Analysis",
     "venue": "ScaDS.AI Life Science Seminar",
     "links": [
@@ -285,17 +241,6 @@
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/16894343.png?raw=true"
-  },
-  {
-    "year": 2025,
-    "title": "Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.15858127"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/15858127.png?raw=true"
   },
   {
     "year": 2025,
@@ -378,18 +323,6 @@
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/15516022.png?raw=true"
-  },
-  {
-    "year": 2025,
-    "title": "Collaborative working and  Version Control with Git[Hub]",
-    "venue": "RDM Lecture Series",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.15379632"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/15379632.png?raw=true"
   },
   {
     "year": 2025,
@@ -745,18 +678,6 @@
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/10784549.png?raw=true"
   },
   {
-    "year": 2024,
-    "title": "Cultivating Open Training",
-    "venue": "Workshop on Efficiently Communicating Bio-image Analysis",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.10658484"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/10658484.png?raw=true"
-  },
-  {
     "year": 2026,
     "title": "Weather data visualization",
     "links": [
@@ -766,18 +687,6 @@
       }
     ],
     "image": "https://haesleinhuepf.github.io/weather/_images/video.gif"
-  },
-  {
-    "year": 2026,
-    "title": "How Generative AI impacts BioImage Data Science",
-    "venue": "Institut Pasteur Paris",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.20527125"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/20527125.png?raw=true"
   },
   {
     "year": 2026,
@@ -858,18 +767,6 @@
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/18879906.png?raw=true"
-  },
-  {
-    "year": 2026,
-    "title": "Vision Language Models and Agentic Systems",
-    "venue": "Guest lectures in Secrets of LLMs, TU Dresden",
-    "links": [
-      {
-        "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.18219166"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/18219166.png?raw=true"
   },
   {
     "year": 2025,
