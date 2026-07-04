@@ -411,28 +411,6 @@ Humboldtstrasse 25
         <span class="count" id="publicationCount"></span>
       </div>
       <div class="publication-list" id="publicationList"></div>
-
-      <h2>Blog posts</h2>
-      <ul class="columns">
-        <li><a href="https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/">If you license it, it will be harder to steal it. Why we should license our work</a></li>
-        <li><a href="https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/">Sharing research data with Zenodo</a></li>
-        <li><a href="https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/">Scientific Data Analysis: User Documentation 101</a></li>
-        <li><a href="https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/">Managing Scientific Python environments using Conda, Mamba and friends</a></li>
-        <li><a href="https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/">Explorative image data science with napari</a></li>
-        <li><a href="https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/">Collaborative bio-image analysis script editing with git</a></li>
-        <li><a href="https://focalplane.biologists.com/2020/07/14/how-clij-can-make-your-image-analysis-incredibly-fast/">How CLIJ2 can make your bio-image analysis workflows incredibly fast</a></li>
-        <li><a href="https://biapol.github.io/blog/robert_haase/ms_build_tools">Installing Microsoft buildtools on Windows</a></li>
-        <li><a href="https://biapol.github.io/blog/robert_haase/stardist_gpu">Using StarDist in napari with GPU-support in Windows</a></li>
-        <li><a href="https://biapol.github.io/blog/robert_haase/cupy_cucim">GPU-accelerated image processing using cupy and cucim</a></li>
-        <li><a href="https://biapol.github.io/blog/robert_haase/browsing_idr">Browsing the Open Microscopy Image Data Resource with Python</a></li>
-        <li><a href="https://biapol.github.io/blog/robert_haase/clesperanto_google_colab">GPU-accelerated image processing in the cloud using Google Colab and clEsperanto</a></li>
-      </ul>
-
-      <h2>Cheat Sheets</h2>
-      <ul>
-        <li><a href="https://github.com/BiAPoL/imagej-macro-cheat-sheet">ImageJ Macro</a></li>
-        <li><a href="https://clij.github.io/clij2-docs/CLIJ2-cheatsheet_V3.pdf">CLIJ - GPU accelerated image processing in ImageJ Macro</a></li>
-      </ul>
     </section>
   </main>
 
@@ -549,7 +527,7 @@ Humboldtstrasse 25
     ]).then(([openItems, trainingItems, publicationItems]) => {
       state.openItems = openItems;
       state.trainingItems = trainingItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
-      state.publicationItems = publicationItems;
+      state.publicationItems = publicationItems.sort((a, b) => (Number(b.year) || 0) - (Number(a.year) || 0));
       renderOpenItems();
       renderTrainingItems();
       renderPublicationItems();

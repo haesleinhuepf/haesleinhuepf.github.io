@@ -1,6 +1,12 @@
 [
   {
     "year": 2026,
+    "title": "Weather data visualization",
+    "links": [{"label": "Blog post", "url": "https://haesleinhuepf.github.io/weather/"}],
+    "image": "https://haesleinhuepf.github.io/weather/_images/video.gif"
+  },
+  {
+    "year": 2026,
     "title": "How Generative AI impacts BioImage Data Science",
     "venue": "Institut Pasteur Paris",
     "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.20527125"}]
