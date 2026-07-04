@@ -1,6 +1,763 @@
 [
   {
     "year": 2026,
+    "title": "Navigating in Latent Space and Retrieval-Augmented Generation",
+    "venue": "ScaDS.AI Summer School 2026 on Neuro+Symbolic AI",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20825671"
+      }
+    ],
+    "image": "images/20825671.png"
+  },
+  {
+    "year": 2026,
+    "title": "Git + Artificial Intelligence - Coding with Copilot, OpenHands, GitBob",
+    "venue": "FDM Schulungen @ Universität Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20639390"
+      }
+    ],
+    "image": "images/20639390.png"
+  },
+  {
+    "year": 2026,
+    "title": "How Generative AI impacts [BioImage] Data Science",
+    "venue": "Pasteur BioImage Analysis Course",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20551619"
+      }
+    ],
+    "image": "images/20551619.png"
+  },
+  {
+    "year": 2026,
+    "title": "How Generative Artificial Intelligence impacts Bio-image Data Science",
+    "venue": "SwissBIAS Annual Meeting",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20512957"
+      }
+    ],
+    "image": "images/20512957.png"
+  },
+  {
+    "year": 2026,
+    "title": "Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20494937"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20474586"
+      }
+    ],
+    "image": "images/20474586.png"
+  },
+  {
+    "year": 2026,
+    "title": "Hitchhiking through Data Science - Medical Imaging, Bio Image Analysis and Large Language Models",
+    "venue": "Webinaires Méthodes d'Analyses d'Images par IA",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20442068"
+      }
+    ],
+    "image": "images/20442068.png"
+  },
+  {
+    "year": 2026,
+    "title": "Wie man (k)ein RAG-System baut: Lessons Learned bei der Entwicklung einer intelligenten Suche für Patientenakten",
+    "venue": "KI-MED Webinar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20327535"
+      }
+    ],
+    "image": "images/20327535.png"
+  },
+  {
+    "year": 2026,
+    "title": "Wissenstransfer im Zeitalter von KI-Agenten",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.20123309"
+      }
+    ],
+    "image": "images/20123309.png"
+  },
+  {
+    "year": 2026,
+    "title": "AI & Cybersecurity - Opportunities and risks",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.19690207"
+      }
+    ],
+    "image": "images/19690207.png"
+  },
+  {
+    "year": 2026,
+    "title": "AI4Science Training @ UFZ Magdeburg",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.19246441"
+      }
+    ],
+    "image": "images/19246441.png"
+  },
+  {
+    "year": 2026,
+    "title": "How to use Generative Artificial Intelligence for Science",
+    "venue": "Science: To Be Determined Symposium",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.18804366"
+      }
+    ],
+    "image": "images/18804366.png"
+  },
+  {
+    "year": 2026,
+    "title": "How Generative Artificial Intelligence impacts Bio-Image Data Science",
+    "venue": "Macro to Micro: Quantitative Plant Imaging Across Scales",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.18735653"
+      }
+    ],
+    "image": "images/18735653.png"
+  },
+  {
+    "year": 2026,
+    "title": "How Generative AI impacts research and teaching",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.18377121"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "Vision Language Models & Agentic Systems",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.18297737"
+      }
+    ],
+    "image": "images/18297737.png"
+  },
+  {
+    "year": 2025,
+    "title": "Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17978132"
+      }
+    ],
+    "image": "images/17978132.png"
+  },
+  {
+    "year": 2025,
+    "title": "How LLMs impact BioImage Data Science",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17669681"
+      }
+    ],
+    "image": "images/17669681.png"
+  },
+  {
+    "year": 2025,
+    "title": "How Generative AI impacts research and teaching",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17422917"
+      }
+    ],
+    "image": "images/17422917.png"
+  },
+  {
+    "year": 2025,
+    "title": "AI4Psychology KI-Kompetenz-Training",
+    "venue": "AI4Psychology KI-Kompetenz-Training",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17203260"
+      }
+    ],
+    "image": "images/17203260.png"
+  },
+  {
+    "year": 2025,
+    "title": "Research Data Management",
+    "venue": "AI4Medicine, Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17186869"
+      }
+    ],
+    "image": "images/17186869.png"
+  },
+  {
+    "year": 2025,
+    "title": "Explainable Machine Learning",
+    "venue": "come2data AI4Medicine",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17116758"
+      }
+    ],
+    "image": "images/17116758.png"
+  },
+  {
+    "year": 2025,
+    "title": "Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI",
+    "venue": "EMBO Practical Course on Light Sheet Microscopy",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17085991"
+      }
+    ],
+    "image": "images/17085991.png"
+  },
+  {
+    "year": 2025,
+    "title": "Using Large Language Models for Bio-image Analysis",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17053832"
+      }
+    ],
+    "image": "images/17053832.png"
+  },
+  {
+    "year": 2025,
+    "title": "Autonomous AI Systems for Data Analysis",
+    "venue": "ScaDS.AI Life Science Seminar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.17017890"
+      }
+    ],
+    "image": "images/17017890.png"
+  },
+  {
+    "year": 2025,
+    "title": "Wie Generative KI unsere tägliche Arbeit verändert",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.16894343"
+      }
+    ],
+    "image": "images/16894343.png"
+  },
+  {
+    "year": 2025,
+    "title": "Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15858127"
+      }
+    ],
+    "image": "images/15858127.png"
+  },
+  {
+    "year": 2025,
+    "title": "ScaDS.AI Summer School LLM Tutorial for Computer Scientists",
+    "venue": "ScaDS.AI Summer School",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15743127"
+      }
+    ],
+    "image": "images/15743127.png"
+  },
+  {
+    "year": 2025,
+    "title": "Vision Language Models for Bio-image Data Science",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15735577"
+      }
+    ],
+    "image": "images/15735577.png"
+  },
+  {
+    "year": 2025,
+    "title": "Wie Generative KI Arbeit und Studium verändert",
+    "venue": "Lange Nacht der Wissenschaften Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15706181"
+      }
+    ],
+    "image": "images/15706181.png"
+  },
+  {
+    "year": 2025,
+    "title": "European Union Artificial Intelligence Act (in a nutshell)",
+    "venue": "KI Stammtisch (MeetUp)",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15699459"
+      }
+    ],
+    "image": "images/15699459.png"
+  },
+  {
+    "year": 2025,
+    "title": "DevOps Hands-on Training",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15654889"
+      }
+    ],
+    "image": "images/15654889.png"
+  },
+  {
+    "year": 2025,
+    "title": "Wie Generative Künstliche Intelligenz Arbeit und Studium verändert",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15646539"
+      }
+    ],
+    "image": "images/15646539.png"
+  },
+  {
+    "year": 2025,
+    "title": "KI-Kompetenz-Training",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15516022"
+      }
+    ],
+    "image": "images/15516022.png"
+  },
+  {
+    "year": 2025,
+    "title": "Collaborative working and  Version Control with Git[Hub]",
+    "venue": "RDM Lecture Series",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15379632"
+      }
+    ],
+    "image": "images/15379632.png"
+  },
+  {
+    "year": 2025,
+    "title": "Introduction to Machine Learning",
+    "venue": "AI4Seismology Training School",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15348199"
+      }
+    ],
+    "image": "images/15348199.png"
+  },
+  {
+    "year": 2025,
+    "title": "Learning and Training Bio-image Analysis in the Age of AI",
+    "venue": "GloBIAS DataCarpentry Workshop",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.15165424"
+      }
+    ],
+    "image": "images/15165424.png"
+  },
+  {
+    "year": 2025,
+    "title": "Trainings @ ScaDS.AI & NFDI4BioImage",
+    "venue": "Datenkompetenz-Landkarte",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14848838"
+      }
+    ],
+    "image": "images/14848838.png"
+  },
+  {
+    "year": 2025,
+    "title": "Large Language Models: An Introduction",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14796429"
+      }
+    ],
+    "image": "images/14796429.png"
+  },
+  {
+    "year": 2025,
+    "title": "Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14789187"
+      }
+    ],
+    "image": "images/14789187.png"
+  },
+  {
+    "year": 2025,
+    "title": "Large Language Models: An Introduction",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14789155"
+      }
+    ],
+    "image": "images/14789155.png"
+  },
+  {
+    "year": 2025,
+    "title": "Artificial Intelligence in Everydays Research Routine",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14671792"
+      }
+    ],
+    "image": "images/14671792.png"
+  },
+  {
+    "year": 2025,
+    "title": "Collaborative Working and Version Control with git[hub]",
+    "venue": "Veranstaltungsreihe Forschungsdatenmanagement (FDM) an der Universität Leipzig im WiSe 2024/25",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14626054"
+      }
+    ],
+    "image": "images/14626054.png"
+  },
+  {
+    "year": 2024,
+    "title": "Angebote der NFDI für die Forschung im Bereich Zoologie",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14278058"
+      }
+    ],
+    "image": "images/14278058.png"
+  },
+  {
+    "year": 2024,
+    "title": "Developing a Training Strategy",
+    "venue": "GloBIAS Annual Workshop",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14053758"
+      }
+    ],
+    "image": "images/14053758.png"
+  },
+  {
+    "year": 2024,
+    "title": "Training Computational Skills in the Age of AI",
+    "venue": "GloBIAS Annual Workshop",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14043615"
+      }
+    ],
+    "image": "images/14043615.png"
+  },
+  {
+    "year": 2024,
+    "title": "Bio-image Analysis Code Generation",
+    "venue": "From Images To Knowledge 2024 Virtual Conference",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.14001044"
+      }
+    ],
+    "image": "images/14001044.png"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Bio-image Analysis",
+    "venue": "International Symposium on Image-based Systems Biology",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.13845286"
+      }
+    ],
+    "image": "images/13845286.png"
+  },
+  {
+    "year": 2024,
+    "title": "Towards Preservation of Life Science Data with NFDI4BIOIMAGE",
+    "venue": "NFDI4Microbiota Workshop on Preservation of Life Science Data",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.13640979"
+      }
+    ],
+    "image": "images/13640979.png"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models: An Introduction for Life Scientists",
+    "venue": "GloBIAS Seminar Series",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.13379394"
+      }
+    ],
+    "image": "images/13379394.png"
+  },
+  {
+    "year": 2024,
+    "title": "ChatGPT for Image Analysis",
+    "venue": "Workshop on AI in microscopy",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.13371196"
+      }
+    ],
+    "image": "images/13371196.png"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Bio-image Analysis",
+    "venue": "FUNDAMENTOS DE MICROSCOPÍA – MICROSCOPÍA EN LA SALUD",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.12571082"
+      }
+    ],
+    "image": "images/12571082.png"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Quantiative Bio-image Analysis",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.12518075"
+      }
+    ],
+    "image": "images/12518075.png"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Bio-image Analysis",
+    "venue": "Biological Image Processing and Analysis Sympoisum",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.11650302"
+      }
+    ],
+    "image": "images/11650302.png"
+  },
+  {
+    "year": 2024,
+    "title": "Research Software Management using git and zenodo",
+    "venue": "From Paper to Pixels Workshop",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.11344132"
+      }
+    ],
+    "image": "images/11344132.png"
+  },
+  {
+    "year": 2024,
+    "title": "Prompt Engineering",
+    "venue": "Networking Event \"AI at Leipzig University\"",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.11241837"
+      }
+    ],
+    "image": "images/11241837.png"
+  },
+  {
+    "year": 2024,
+    "title": "Cultivating Open Training to advance Bio-image Analysis",
+    "venue": "FocalPlane features… Microscopy Education Webinar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.11066250"
+      }
+    ],
+    "image": "images/11066250.png"
+  },
+  {
+    "year": 2024,
+    "title": "Open Science, Sharing & Licensing",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10990107"
+      }
+    ],
+    "image": "images/10990107.png"
+  },
+  {
+    "year": 2024,
+    "title": "Kollaboratives Arbeiten und Versionskontrolle mit Git",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10972692"
+      }
+    ],
+    "image": "images/10972692.png"
+  },
+  {
+    "year": 2024,
+    "title": "Datenmanagement",
+    "venue": "DataWeek Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10970869"
+      }
+    ],
+    "image": "images/10970869.png"
+  },
+  {
+    "year": 2024,
+    "title": "Prompt Engineering for Quantitative Bio-image Analysis",
+    "venue": "Monash Advanced Microscopy Seminar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10841765"
+      }
+    ],
+    "image": "images/10841765.png"
+  },
+  {
+    "year": 2024,
+    "title": "Sharing & licensing",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10837102"
+      }
+    ],
+    "image": "images/10837102.png"
+  },
+  {
+    "year": 2024,
+    "title": "Cultivating Open Training",
+    "venue": "SaxFDM Digital Kitchen",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10816895"
+      }
+    ],
+    "image": "images/10816895.png"
+  },
+  {
+    "year": 2024,
+    "title": "Bio-image Analysis with the Help of Large Language Models",
+    "venue": "Leibnitz IPHT Seminar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10815329"
+      }
+    ],
+    "image": "images/10815329.png"
+  },
+  {
+    "year": 2024,
+    "title": "Bio-image Analysis using Large Language Models",
+    "venue": "IMOL Seminar",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10784549"
+      }
+    ],
+    "image": "images/10784549.png"
+  },
+  {
+    "year": 2024,
+    "title": "Cultivating Open Training",
+    "venue": "Workshop on Efficiently Communicating Bio-image Analysis",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.10658484"
+      }
+    ],
+    "image": "images/10658484.png"
+  },
+  {
+    "year": 2026,
     "title": "Weather data visualization",
     "links": [
       {
