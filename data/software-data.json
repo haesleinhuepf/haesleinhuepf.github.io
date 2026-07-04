@@ -123,28 +123,32 @@
     "category": "GPU-accelerated image processing",
     "title": "pyclesperanto_prototype",
     "url": "https://github.com/clEsperanto/pyclesperanto_prototype",
-    "description": "GPU-accelerated image processing in Python."
+    "description": "GPU-accelerated image processing in Python.",
+    "image": "https://github.com/clEsperanto/pyclesperanto_prototype/raw/master/docs/images/banner.png"
   },
   {
     "type": "software",
     "category": "GPU-accelerated image processing",
     "title": "pyclesperanto",
     "url": "https://github.com/clEsperanto/pyclesperanto",
-    "description": "GPU-accelerated image processing in Python."
+    "description": "GPU-accelerated image processing in Python.",
+    "image": "https://github.com/clEsperanto/pyclesperanto/raw/main/docs/demos/images/multi-device-tiling.png?raw=true"
   },
   {
     "type": "software",
     "category": "GPU-accelerated image processing",
     "title": "CLIJ",
     "url": "https://clij.github.io",
-    "description": "GPU-accelerated image processing in ImageJ."
+    "description": "GPU-accelerated image processing in ImageJ.",
+    "image": "https://clij.github.io/images/clij25.gif"
   },
   {
     "type": "software",
     "category": "GPU-accelerated image processing",
     "title": "APOC",
     "url": "https://github.com/haesleinhuepf/apoc",
-    "description": "GPU-accelerated pixel and object classification in Python."
+    "description": "GPU-accelerated pixel and object classification in Python.",
+    "image": "https://github.com/haesleinhuepf/apoc/raw/main/docs/graphical_abstract.png?raw=true"
   },
   {
     "type": "data",
