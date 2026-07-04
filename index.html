@@ -197,15 +197,10 @@
       margin: 0 0 7px;
     }
 
-    .training-list {
-      border-top: 1px solid var(--line);
-    }
-
     .publication-list {
       border-top: 1px solid var(--line);
     }
 
-    .training-item,
     .publication-item {
       display: grid;
       grid-template-columns: 72px minmax(0, 1fr);
@@ -219,7 +214,6 @@
       font-weight: 700;
     }
 
-    .training-item h3,
     .publication-item h3 {
       margin: 0 0 3px;
     }
@@ -294,7 +288,6 @@
         text-align: left;
       }
 
-      .training-item,
       .publication-item {
         grid-template-columns: 1fr;
         gap: 4px;
@@ -325,7 +318,7 @@
     <nav class="tabs" aria-label="Content sections">
       <button class="tab-button" type="button" aria-selected="true" aria-controls="profile" id="tab-profile">CV</button>
       <button class="tab-button" type="button" aria-selected="false" aria-controls="open" id="tab-open">Open Source Software + Open Data</button>
-      <button class="tab-button" type="button" aria-selected="false" aria-controls="training" id="tab-training">Training materials</button>
+      <button class="tab-button" type="button" aria-selected="false" aria-controls="training" id="tab-training">Talks &amp; Training materials</button>
       <button class="tab-button" type="button" aria-selected="false" aria-controls="publications" id="tab-publications">Publications</button>
     </nav>
 
@@ -401,7 +394,7 @@ Humboldtstrasse 25
         <input class="search" id="trainingSearch" type="search" placeholder="Search training materials" aria-label="Search training materials">
         <span class="count" id="trainingCount"></span>
       </div>
-      <div class="training-list" id="trainingList"></div>
+      <div class="gallery" id="trainingGallery"></div>
     </section>
 
     <section class="tab-panel" id="publications" role="tabpanel" aria-labelledby="tab-publications">
@@ -468,16 +461,23 @@ Humboldtstrasse 25
       const query = document.getElementById("trainingSearch").value.trim().toLowerCase();
       const items = state.trainingItems.filter((item) => includesText(item, query));
       document.getElementById("trainingCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
-      document.getElementById("trainingList").innerHTML = items.map((item) => {
+      document.getElementById("trainingGallery").innerHTML = items.map((item) => {
+        const primaryLink = (item.links || [])[0]?.url || "#";
         const links = (item.links || []).map((link) =>
           `<a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a>`
         ).join("");
+        const venue = item.venue ? ` &middot; ${escapeHtml(item.venue)}` : "";
+        const image = item.image ? `
+          <a href="${escapeHtml(primaryLink)}">
+            <img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.style.display='none'">
+          </a>
+        ` : "";
         return `
-          <article class="training-item">
-            <div class="year">${escapeHtml(item.year)}</div>
-            <div>
-              <h3>${escapeHtml(item.title)}</h3>
-              <p class="meta">${escapeHtml(item.venue)}</p>
+          <article class="card">
+            ${image}
+            <div class="card-body">
+              <h3><a href="${escapeHtml(primaryLink)}">${escapeHtml(item.title)}</a></h3>
+              <p class="meta">${escapeHtml(item.year)}${venue}</p>
               <div class="link-list">${links}</div>
             </div>
           </article>
@@ -533,7 +533,7 @@ Humboldtstrasse 25
       renderPublicationItems();
     }).catch((error) => {
       document.getElementById("openGallery").textContent = error.message;
-      document.getElementById("trainingList").textContent = error.message;
+      document.getElementById("trainingGallery").textContent = error.message;
       document.getElementById("publicationList").textContent = error.message;
     });
   </script>
