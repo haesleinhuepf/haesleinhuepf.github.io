@@ -193,7 +193,8 @@
     "category": "Training data",
     "title": "NFDI4BioImage Training Materials",
     "url": "https://github.com/nfDI4BIOIMAGE/training",
-    "description": "Open training materials for bio-image data management and analysis."
+    "description": "Open training materials for bio-image data management and analysis.",
+    "image": "https://github.com/NFDI4BIOIMAGE/training/blob/main/docs/how_to_use.png?raw=true"
   },
   {
     "type": "data",
@@ -222,19 +223,5 @@
     "title": "Example Data for clesperanto",
     "url": "https://github.com/clEsperanto/clesperanto_example_data",
     "description": "Example data for GPU-accelerated image processing with clesperanto."
-  },
-  {
-    "type": "data",
-    "category": "Metadata",
-    "title": "Napari plugin download statistics",
-    "url": "https://github.com/haesleinhuepf/napari-pypistats",
-    "description": "Download statistics for napari plugins."
-  },
-  {
-    "type": "data",
-    "category": "Metadata",
-    "title": "Awesome napari-plugins that are not on the napari-hub yet",
-    "url": "https://github.com/haesleinhuepf/awesome-napari-plugins-that-are-not-on-the-napari-hub-yet",
-    "description": "Curated list of napari plugins that are not yet listed on the napari hub."
   }
 ]

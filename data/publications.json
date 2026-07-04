@@ -1,40 +1,5 @@
 [
   {
-    "source": "website",
-    "entryType": "profile",
-    "key": "github",
-    "title": "Github",
-    "url": "https://github.com/haesleinhuepf"
-  },
-  {
-    "source": "website",
-    "entryType": "profile",
-    "key": "google-scholar",
-    "title": "Google Scholar",
-    "url": "https://scholar.google.de/citations?user=giB4g-MAAAAJ"
-  },
-  {
-    "source": "website",
-    "entryType": "profile",
-    "key": "orcid",
-    "title": "ORCID",
-    "url": "http://orcid.org/0000-0001-5949-2327"
-  },
-  {
-    "source": "website",
-    "entryType": "profile",
-    "key": "twitter",
-    "title": "Twitter",
-    "url": "https://twitter.com/haesleinhuepf"
-  },
-  {
-    "source": "website",
-    "entryType": "profile",
-    "key": "youtube",
-    "title": "YouTube",
-    "url": "https://youtube.com/haesleinhuepf"
-  },
-  {
     "source": "literature.bib",
     "entryType": "article",
     "key": "wetzker2026fluorescence",

@@ -87,8 +87,11 @@
 
     .portrait {
       width: 220px;
+      height: 220px;
       max-width: 100%;
-      border: 1px solid var(--line);
+      border: 6px solid #ffffff;
+      border-radius: 50%;
+      object-fit: cover;
     }
 
     address {
@@ -236,6 +239,33 @@
       font-size: 0.9rem;
     }
 
+    .profile-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin: 8px 0 18px;
+      padding: 0;
+      list-style: none;
+    }
+
+    .profile-links li {
+      margin: 0;
+    }
+
+    .profile-links a {
+      display: inline-flex;
+      gap: 5px;
+      align-items: center;
+      font-size: 0.95rem;
+    }
+
+    .profile-links img {
+      width: 16px;
+      height: 16px;
+      object-fit: contain;
+    }
+
     .columns {
       columns: 2 280px;
       column-gap: 38px;
@@ -256,6 +286,7 @@
 
       .portrait {
         width: 180px;
+        height: 180px;
       }
 
       .tab-button {
@@ -277,7 +308,15 @@
       <div class="intro">
         <div>
           <h1>Robert Haase</h1>
-          <h2>AI-agents, Computer Vision, Bio-image Analysis and anything about data analysis</h2>
+          <h2><small>AI-agents, Computer Vision, Bio-image Analysis and anything about data analysis</small></h2>
+          <ul class="profile-links" aria-label="Profile links">
+            <li><a href="https://www.linkedin.com/in/robert-haase-2349a8163/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" aria-hidden="true">LinkedIn</a></li>
+            <li><a href="https://github.com/haesleinhuepf"><img src="https://cdn.simpleicons.org/github/181717" alt="" aria-hidden="true">Github</a></li>
+            <li><a href="https://scholar.google.de/citations?user=giB4g-MAAAAJ"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="" aria-hidden="true">Google Scholar</a></li>
+            <li><a href="http://orcid.org/0000-0001-5949-2327"><img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="" aria-hidden="true">ORCID</a></li>
+            <li><a href="https://bsky.app/profile/haesleinhuepf.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="" aria-hidden="true">Bluesky</a></li>
+            <li><a href="https://youtube.com/haesleinhuepf"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="" aria-hidden="true">YouTube</a></li>
+          </ul>
         </div>
         <img class="portrait" src="haase.jpg" alt="Robert Haase">
       </div>
@@ -436,7 +475,7 @@ Humboldtstrasse 25
       document.getElementById("openGallery").innerHTML = items.map((item) => `
         <article class="card">
           <a href="${escapeHtml(item.url)}">
-            <img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.src='haase.jpg'">
+            <img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.style.display='none'">
           </a>
           <div class="card-body">
             <h3><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></h3>
