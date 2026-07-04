@@ -8,9 +8,11 @@ Dr. rer. medic. Robert Haase
 Lecturer, Training Coordinator
 ScaDS.AI Dresden/Leipzig
 Data Science Center
-Universität Leipzig
+Leipzig University
 Humboldtstraße 25
 04105 Leipzig
+
+robert.haase@uni-leipzig.de
 </pre>
 
 ## Research interests
@@ -366,17 +368,47 @@ Humboldtstraße 25
 
 * Generative AI / LLMs:
   * [sand-bob](https://haesleinhuepf.github.io/sand-bob/) 
+    ![teaser](https://github.com/haesleinhuepf/sand-bob/blob/main/docs/alice-teaser-small.gif?raw=true)
+
   * [bia-bob](https://github.com/haesleinhuepf/bia-bob): Code generation in Jupyter Notebooks
-  * [unprompted](https://github.com/haesleinhuepf/unprompted): Feedback and suggestions in Jupyter Notebooks
+    ![teaser](https://github.com/haesleinhuepf/bia-bob/blob/main/docs/images/screencast.gif?raw=true)
+
   * [git-bob](https://github.com/haesleinhuepf/git-bob): Answering GitHub/Lab issues
-  * [bluesky-bob](https://github.com/haesleinhuepf/bluesky-bob): Answer posts on bluesky
+    ![teaser](https://github.com/haesleinhuepf/git-bob/blob/main/docs/images/banner2.png?raw=true)
+  
+  * [jupyter-vibe-coding](https://github.com/haesleinhuepf/jupyter-vibe-coding): LLM-integration for code generation and bug fixing in Jupyter Notebooks
+    ![](https://github.com/haesleinhuepf/ipyexplain/raw/main/docs/images/teaser.gif?raw=true)
+
+  * [vest](https://github.com/scads/vest): Interactive vision embedding space travelling
+    ![teaser](https://github.com/ScaDS/vest/raw/main/docs/images/vest-butterflies-small.gif?raw=true)
+
+  * [unprompted](https://github.com/haesleinhuepf/unprompted): Feedback and suggestions in Jupyter Notebooks
+    ![teaser](https://github.com/haesleinhuepf/unprompted/raw/main/docs/images/teaser.gif?raw=true)
+  
+  * [bluesky-bob](https://github.com/haesleinhuepf/bluesky-bob): Answer posts on bluesky automatically
+    ![teaser](https://github.com/haesleinhuepf/bluesky-bob/blob/main/bluesky-teaser.png?raw=true)
+
   * [outlook-bob](https://github.com/haesleinhuepf/outlook-bob): Answer Emails
+    ![teaser](https://github.com/haesleinhuepf/outlook-bob/raw/main/docs/images/outlook_screenshot1.png?raw=true)
+
   * [screenshot-question-answerer](https://github.com/haesleinhuepf/screenshot-question-answerer): Answer questions on screen
+    ![teaser](https://github.com/haesleinhuepf/screenshot-question-answerer/raw/main/docs/demo.gif?raw=true)
+
   * [Benchmarking LLMs for Bio-image Analysis](http://github.com/haesleinhuepf/human-eval-bia): How good is AI-written code for bio-image analysis?
+    ![teaser](https://github.com/haesleinhuepf/human-eval-bia/raw/main/docs/paper/pass_rate_llms.png?raw=true)
+
   * [story-writer](https://github.com/haesleinhuepf/story-writer): Writing stories for kids, including pictures.
+    ![teaser](https://github.com/haesleinhuepf/story-writer/raw/main/docs/images/teaser1.png?raw=true)
+
   * [vlm-pictionary](https://github.com/haesleinhuepf/vlm-pictionary): AI playing Pictionary
+    ![teaser](https://github.com/haesleinhuepf/vlm-pictionary/raw/main/demo.gif?raw=true)
+
   * [ipy-llm-kernel](https://github.com/haesleinhuepf/ipy-llm-kernel): Asking LLMs directly in Jupyter
+    ![teaser](https://github.com/haesleinhuepf/ipy-llm-kernel/raw/main/docs/images/img_1.png?raw=true)
+    
 * [stackview](https://github.com/haesleinhuepf/stackview): Interactive image visualization in Jupyter
+  ![teaser](https://raw.githubusercontent.com/haesleinhuepf/stackview/main/docs/images/banner2.gif?raw=true)
+
 * [clesperanto](https://clesperanto.net): GPU-accelerated image processing
   * [pyclesperanto_prototype](https://github.com/clEsperanto/pyclesperanto_prototype): GPU-accelerated image processing in Python
   * [pyclesperanto](https://github.com/clEsperanto/pyclesperanto): GPU-accelerated image processing in Python
