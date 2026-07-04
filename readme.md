@@ -445,6 +445,13 @@ robert.haase@uni-leipzig.de
 * [CLIJ – GPU accelerated image processing in ImageJ Macro](https://clij.github.io/clij2-docs/CLIJ2-cheatsheet_V3.pdf)
 
 ## Data
+* [DWD Rainfall data](https://huggingface.co/datasets/haesleinhuepf/dwd_precipitation_july2026)
+* [DWD Air temperature data](https://huggingface.co/datasets/haesleinhuepf/dwd_temperature_july2026)
+* [Bio Image Analysis Question and Answers](https://huggingface.co/datasets/haesleinhuepf/bio-image-analysis-qa)
+* [Satellite images](https://doi.org/10.5281/zenodo.19635483)
+* [AI-generated logos](https://doi.org/10.5281/zenodo.19633744)
+* [Selected meta data of accepted contributions to some AI/ML conferences 2020-2025](https://doi.org/10.5281/zenodo.17478159)
+* [NFDI4BioImage Training Materials](https://github.com/nfDI4BIOIMAGE/training)
 * [Tribolium castaneum embryo development as seen with lightsheet microscopy ("Lund" sample, first 36h)](https://zenodo.org/record/5837363)
 * [Example data for using napari-pyclesperanto-assistant](https://zenodo.org/record/5090508)
 * [Strausberg_Tribolium_LA-GFP_tailpole_run](https://zenodo.org/record/3981193)
