@@ -1,0 +1,206 @@
+[
+  {
+    "year": 2026,
+    "title": "How Generative AI impacts BioImage Data Science",
+    "venue": "Institut Pasteur Paris",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.20527125"}]
+  },
+  {
+    "year": 2026,
+    "title": "Wie Generative Kuenstliche Intelligenz Arbeit und Studium veraendert",
+    "venue": "DataWeek Leipzig",
+    "links": [{"label": "Exercises", "url": "https://scads.github.io/genai-dataweek-2026/"}, {"label": "Slides", "url": "https://doi.org/10.5281/zenodo.20474585"}]
+  },
+  {
+    "year": 2026,
+    "title": "AI & Cybersecurity - Opportunities and risks",
+    "venue": "Arqus University Alliance Lecture",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.19690206"}]
+  },
+  {
+    "year": 2026,
+    "title": "AI4Science Training",
+    "venue": "UFZ Magdeburg",
+    "links": [{"label": "Exercise", "url": "https://scads.github.io/ai4science-ufz-madgeburg-2026/"}, {"label": "Slides", "url": "https://doi.org/10.5281/zenodo.19239480"}]
+  },
+  {
+    "year": 2026,
+    "title": "How to use Generative Artificial Intelligence for Science",
+    "venue": "GRK NeuroTune, Leipzig University",
+    "links": [{"label": "Exercise", "url": "https://scads.github.io/ai4science-grk-neurotune-2026/"}, {"label": "Slides", "url": "https://zenodo.org/records/18908461"}]
+  },
+  {
+    "year": 2026,
+    "title": "How Generative Artificial Intelligence impacts Bio-image Data Science",
+    "venue": "Danish BioImaging, University of Copenhagen",
+    "links": [{"label": "Video", "url": "https://www.youtube.com/watch?v=Nw40Mbh8eLI"}, {"label": "Exercise", "url": "https://scads.github.io/llm-data-analysis-2026"}, {"label": "Slides", "url": "https://zenodo.org/records/18879906"}]
+  },
+  {
+    "year": 2026,
+    "title": "Vision Language Models and Agentic Systems",
+    "venue": "Guest lectures in Secrets of LLMs, TU Dresden",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.18219166"}]
+  },
+  {
+    "year": 2025,
+    "title": "AI4Science Training",
+    "venue": "UFZ Leipzig",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.17901300"}, {"label": "Exercises", "url": "https://scads.github.io/ai4science-ufz-2025"}]
+  },
+  {
+    "year": 2025,
+    "title": "Using Large Language Models for Bio-image Analysis",
+    "venue": "EMBO Practical Course on Advanced Bio Image Analysis, EMBL Heidelberg",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.17053831"}, {"label": "Exercises", "url": "https://scads.github.io/llm-bia-2025/intro.html"}]
+  },
+  {
+    "year": 2025,
+    "title": "How Large Language Models impact Bio-Image Data Science",
+    "venue": "Janelia & EMBL BioImaging Seminar Series",
+    "links": [{"label": "Video", "url": "https://www.youtube.com/watch?v=p1tmseAkLsg"}, {"label": "Slides", "url": "https://zenodo.org/records/17102027"}, {"label": "Website", "url": "https://www.janelia.org/content/oig-embl"}]
+  },
+  {
+    "year": 2025,
+    "title": "AI4Psychology Training",
+    "venue": "Faculty of Life Sciences, Leipzig University",
+    "links": [{"label": "Slides", "url": "https://doi.org/10.5281/zenodo.17174433"}, {"label": "Exercises", "url": "https://scads.github.io/ai4psychology-2025"}]
+  },
+  {
+    "year": 2025,
+    "title": "Bio-image Data Science Lectures",
+    "venue": "Uni Leipzig / ScaDS.AI",
+    "links": [{"label": "Slides", "url": "https://zenodo.org/records/15481680"}, {"label": "Exercises", "url": "https://github.com/ScaDS/BIDS-lecture-2025"}]
+  },
+  {
+    "year": 2025,
+    "title": "Research Data Management and Open Science",
+    "venue": "AI4Seismology Training at ScaDS.AI",
+    "links": [{"label": "Slides", "url": "https://zenodo.org/records/15363084"}, {"label": "Website", "url": "https://scads.github.io/ai4seismology-2025"}]
+  },
+  {
+    "year": 2025,
+    "title": "Large Language Models: A practical Introduction for Computer Scientists",
+    "venue": "SECAI Spring Meeting",
+    "links": [{"label": "Slides", "url": "https://zenodo.org/records/15006767"}, {"label": "Exercises", "url": "https://scads.github.io/secai_llm_training/intro.html"}]
+  },
+  {
+    "year": 2025,
+    "title": "Explainable AI for Computer Vision",
+    "venue": "Training material",
+    "links": [{"label": "Slides", "url": "https://zenodo.org/records/14996127"}, {"label": "Exercises", "url": "https://haesleinhuepf.github.io/xai"}]
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models: An Introduction for Life Scientists",
+    "venue": "KI Stammtisch, University Library Medicine and Natural Sciences Leipzig",
+    "links": [{"label": "Slides", "url": "https://zenodo.org/records/14418209"}]
+  },
+  {
+    "year": 2024,
+    "title": "Bio-Image Analysis Code Generation using bia-bob",
+    "venue": "German BioImaging Python Webinar Series",
+    "links": [{"label": "Video", "url": "https://www.youtube.com/watch?v=5u1MPgrjpAU"}, {"label": "Slides", "url": "https://zenodo.org/records/13908108"}]
+  },
+  {
+    "year": 2024,
+    "title": "Bio-image Data Science Lecture + Practicals",
+    "venue": "Leipzig University",
+    "links": [{"label": "Materials", "url": "https://github.com/ScaDS/BIDS-lecture-2024"}, {"label": "Slides", "url": "https://zenodo.org/records/12623730"}]
+  },
+  {
+    "year": 2024,
+    "title": "ScaDS.AI Bio-image Data Science Training School",
+    "venue": "ScaDS.AI",
+    "links": [{"label": "Website", "url": "https://scads.github.io/BIDS-training-2024"}]
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Bio-image Analysis",
+    "venue": "ScaDS.AI Living Lab Lecture",
+    "links": [{"label": "Video", "url": "https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp"}, {"label": "Slides", "url": "https://zenodo.org/records/10822115"}]
+  },
+  {
+    "year": 2023,
+    "title": "Prompt Engineering Tutorial",
+    "venue": "ScaDS.AI Living Lab",
+    "links": [{"label": "Slides + Notebooks", "url": "https://scads.github.io/prompt-engineering-tutorial-2023/intro.html"}]
+  },
+  {
+    "year": 2023,
+    "title": "Napari Tutorial",
+    "venue": "ScaDS.AI Life Science Jour Fixe",
+    "links": [{"label": "Slides + Notebooks", "url": "https://scads.github.io/napari-tutorial-2023/intro.html"}]
+  },
+  {
+    "year": 2023,
+    "title": "Generative Artificial Intelligence for Bio-image Analysis",
+    "venue": "I2K2023 Tutorial",
+    "links": [{"label": "Video", "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"}, {"label": "Slides", "url": "https://f1000research.com/slides/12-1353"}]
+  },
+  {
+    "year": 2023,
+    "title": "PoL Bio-Image Analysis Training Schools",
+    "venue": "Dresden",
+    "links": [{"label": "Early Career Materials", "url": "https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html"}, {"label": "GPU Materials", "url": "https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html"}]
+  },
+  {
+    "year": 2023,
+    "title": "NEUBIAS Pasteur course on Bioimage Analysis",
+    "venue": "Institut Pasteur, Paris",
+    "links": [{"label": "Website", "url": "https://research.pasteur.fr/en/course/neubias-pasteur-course-on-bioimage-analysis/"}, {"label": "Materials", "url": "https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html"}]
+  },
+  {
+    "year": 2022,
+    "title": "Image data science with Python and Napari",
+    "venue": "EPFL Lausanne",
+    "links": [{"label": "Slides", "url": "https://biapol.github.io/Image-data-science-with-Python-and-Napari-EPFL2022/intro.html"}]
+  },
+  {
+    "year": 2022,
+    "title": "3D Image Data Science with open tools & CLIJ crash course",
+    "venue": "EMBO Practical Course on Lightsheet Microscopy, CEITEC Brno",
+    "links": [{"label": "Website", "url": "https://meetings.embo.org/event/22-light-sheet-micro"}, {"label": "Slides", "url": "https://f1000research.com/slides/11-946"}]
+  },
+  {
+    "year": 2021,
+    "title": "Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
+    "venue": "CMCB, TU Dresden",
+    "links": [{"label": "Materials", "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03"}]
+  },
+  {
+    "year": 2021,
+    "title": "Bio-image analysis island hopping: From Fiji to Napari and back",
+    "venue": "EuroBioImaging Virtual Pub",
+    "links": [{"label": "Slides", "url": "https://f1000research.com/slides/10-313"}, {"label": "Video", "url": "https://www.youtube.com/watch?v=MERVnf5_QkI"}]
+  },
+  {
+    "year": 2020,
+    "title": "Applied Bio-Image Analysis",
+    "venue": "BIOTEC, TU Dresden",
+    "links": [{"label": "Videos", "url": "https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U"}, {"label": "Slides", "url": "https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020"}]
+  },
+  {
+    "year": 2019,
+    "title": "GPU-accelerated Image Processing in ImageJ Macro",
+    "venue": "NEUBIAS Training School 13, Porto",
+    "links": [{"label": "Website", "url": "http://eubias.org/NEUBIAS/training-schools/staff/ts13-porto-2019/"}, {"label": "Slides", "url": "https://git.mpi-cbg.de/rhaase/neubias_ts13"}]
+  },
+  {
+    "year": 2018,
+    "title": "Working with Pixels and Objects in 2D and 3D",
+    "venue": "NEUBIAS Training School 8, Edinburgh",
+    "links": [{"label": "Website", "url": "http://eubias.org/NEUBIAS/training-schools/eci/ts8-edinburgh-2018/"}, {"label": "Slides", "url": "https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels"}]
+  },
+  {
+    "year": 2017,
+    "title": "Introduction to ImageJ macro programming",
+    "venue": "Scientific Computing Facility, MPI CBG Dresden",
+    "links": [{"label": "Website", "url": "https://indico.mpi-cbg.de/event/39/"}, {"label": "Slides", "url": "https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01"}]
+  },
+  {
+    "year": 2016,
+    "title": "Introduction to Image Analysis with Fiji",
+    "venue": "Scientific Computing Facility, MPI CBG Dresden",
+    "links": [{"label": "Website", "url": "https://indico.mpi-cbg.de/event/33/"}, {"label": "Slides", "url": "https://github.com/mpicbg-scicomp/CourseIntroToIA"}]
+  }
+]

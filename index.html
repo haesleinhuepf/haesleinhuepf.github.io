@@ -1,0 +1,523 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robert Haase</title>
+  <style>
+    :root {
+      --text: #333333;
+      --muted: #666666;
+      --line: #dddddd;
+      --soft: #f7f9fb;
+      --blue: #1f73b7;
+      --blue-dark: #14578d;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #ffffff;
+      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      line-height: 1.55;
+    }
+
+    a {
+      color: var(--blue-dark);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+      text-decoration: underline;
+    }
+
+    .page {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 28px 20px 48px;
+    }
+
+    header {
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 22px;
+      padding-bottom: 20px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: #222222;
+    }
+
+    h2 {
+      margin: 28px 0 12px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 6px;
+      font-size: 1.35rem;
+      color: #222222;
+    }
+
+    h3 {
+      margin: 22px 0 8px;
+      font-size: 1.05rem;
+      color: #222222;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    li {
+      margin: 5px 0;
+    }
+
+    .intro {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 220px;
+      gap: 28px;
+      align-items: start;
+    }
+
+    .portrait {
+      width: 220px;
+      max-width: 100%;
+      border: 1px solid var(--line);
+    }
+
+    address {
+      white-space: pre-line;
+      font-style: normal;
+      color: #444444;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 22px;
+    }
+
+    .tab-button {
+      appearance: none;
+      border: 1px solid var(--line);
+      border-bottom: 0;
+      border-top: 5px solid transparent;
+      border-radius: 0;
+      background: var(--soft);
+      color: var(--text);
+      cursor: pointer;
+      font: inherit;
+      padding: 9px 12px 10px;
+    }
+
+    .tab-button[aria-selected="true"] {
+      border-top-color: var(--blue);
+      background: #ffffff;
+      color: #111111;
+      font-weight: 700;
+    }
+
+    .tab-panel {
+      display: none;
+    }
+
+    .tab-panel.active {
+      display: block;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin: 18px 0;
+    }
+
+    .search {
+      width: min(100%, 420px);
+      border: 1px solid #bbbbbb;
+      border-top: 5px solid var(--blue);
+      border-radius: 0;
+      padding: 9px 10px;
+      color: var(--text);
+      font: inherit;
+    }
+
+    .count {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-top: 5px solid var(--blue);
+      background: #ffffff;
+      min-height: 100%;
+    }
+
+    .card img {
+      display: block;
+      width: 100%;
+      height: 145px;
+      object-fit: contain;
+      background: #f2f4f7;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .card-body {
+      padding: 12px;
+    }
+
+    .card h3 {
+      margin-top: 0;
+      margin-bottom: 6px;
+      font-size: 1rem;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 7px;
+    }
+
+    .training-list {
+      border-top: 1px solid var(--line);
+    }
+
+    .publication-list {
+      border-top: 1px solid var(--line);
+    }
+
+    .training-item,
+    .publication-item {
+      display: grid;
+      grid-template-columns: 72px minmax(0, 1fr);
+      gap: 14px;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .year {
+      color: var(--blue-dark);
+      font-weight: 700;
+    }
+
+    .training-item h3,
+    .publication-item h3 {
+      margin: 0 0 3px;
+    }
+
+    .link-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 8px;
+    }
+
+    .link-list a {
+      border: 1px solid var(--line);
+      border-top: 3px solid var(--blue);
+      padding: 3px 7px;
+      background: #ffffff;
+      font-size: 0.9rem;
+    }
+
+    .columns {
+      columns: 2 280px;
+      column-gap: 38px;
+    }
+
+    .columns li {
+      break-inside: avoid;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 20px 14px 36px;
+      }
+
+      .intro {
+        grid-template-columns: 1fr;
+      }
+
+      .portrait {
+        width: 180px;
+      }
+
+      .tab-button {
+        width: 100%;
+        text-align: left;
+      }
+
+      .training-item,
+      .publication-item {
+        grid-template-columns: 1fr;
+        gap: 4px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <div class="intro">
+        <div>
+          <h1>Robert Haase</h1>
+        </div>
+        <img class="portrait" src="haase.jpg" alt="Robert Haase">
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="Content sections">
+      <button class="tab-button" type="button" aria-selected="true" aria-controls="profile" id="tab-profile">CV</button>
+      <button class="tab-button" type="button" aria-selected="false" aria-controls="open" id="tab-open">Open Source Software + Open Data</button>
+      <button class="tab-button" type="button" aria-selected="false" aria-controls="training" id="tab-training">Training materials</button>
+      <button class="tab-button" type="button" aria-selected="false" aria-controls="publications" id="tab-publications">Publications</button>
+    </nav>
+
+    <section class="tab-panel active" id="profile" role="tabpanel" aria-labelledby="tab-profile">
+      <h2>Contact</h2>
+      <address>Dr. rer. medic. Robert Haase
+robert.haase@uni-leipzig.de
+
+Lecturer, Training Coordinator
+ScaDS.AI Dresden/Leipzig
+Data Science Center
+Leipzig University
+Humboldtstrasse 25
+04105 Leipzig</address>
+
+      <h2>Research interests</h2>
+      <ul>
+        <li><a href="https://haesleinhuepf.github.io/sand-bob/">AI-agents solving data analysis tasks in parallel</a></li>
+        <li><a href="https://github.com/haesleinhuepf/git-bob?tab=readme-ov-file">AI-Systems solving Github issues</a></li>
+        <li><a href="https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3">Benchmarking Large Language Models for Bio-image Analysis Code Generation</a></li>
+        <li><a href="https://doi.org/10.1038/s41592-019-0650-1">GPU-accelerated image processing</a></li>
+        <li><a href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451">Software bridging bio-imaging and image data science</a></li>
+      </ul>
+
+      <h2>Affiliations / organizations</h2>
+      <ul>
+        <li><a href="https://scads.ai">Center of Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden / Leipzig, Leipzig University</a></li>
+        <li><a href="https://eubias.org/NEUBIAS/">Network of European BioImage Analysts (NEUBIAS)</a></li>
+        <li><a href="https://www.globias.org/">Global BioImage Analysis Society (GloBIAS)</a></li>
+        <li><a href="https://gerbi-gmb.de/">German Bioimaging (GerBI)</a></li>
+        <li><a href="https://nfdi4bioimage.de/en/start/">NFDI4BioImage</a></li>
+      </ul>
+
+      <h2>Curriculum vitae</h2>
+      <ul>
+        <li>Since 2023 Lecturer and Training Coordinator, Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), Leipzig University</li>
+        <li>2020-2023 Group Leader, Bio-image Analysis Technology Development Group, DFG Cluster of Excellence "Physics of Life", University of Technology, TU Dresden</li>
+        <li>2017-2020 Postdoctoral researcher, Gene Myers lab, Max Planck Institute for Molecular Cell Biology and Genetics Dresden / Center for Systems Biology Dresden</li>
+        <li>2015-2017 Bio-Image Analyst, Scientific Computing Facility, Max Planck Institute for Molecular Cell Biology and Genetics Dresden / Scionics GmbH</li>
+        <li>2013-2015 Scientific Assistant, High-Precision Radiotherapy Group, OncoRay, Medical Faculty Carl Gustav Carus, TU Dresden</li>
+        <li>2010-2013 PhD Student, Scientific Assistant, Biological and Molecular Imaging Group, OncoRay, Medical Faculty Carl Gustav Carus, TU Dresden</li>
+        <li>2006-2010 Student of Computer Science, University of Applied Sciences, HTW Dresden</li>
+        <li>2001-2005 IT specialist training and junior IT project leadership, Spiritlink GmbH, Erlangen</li>
+      </ul>
+
+      <h2>Funding</h2>
+      <ul>
+        <li>CZI Essential Open Source Software program: <a href="https://chanzuckerberg.com/eoss/proposals/gpu-accelerating-fiji-and-friends-using-distributed-clij-neubias-style/">GPU-accelerating Fiji and Friends Using Distributed CLIJ, NEUBIAS-style (2021-2024)</a></li>
+        <li>CZI Napari Plugin grants: <a href="https://chanzuckerberg.com/science/programs-resources/imaging/napari/improving-image-processing/">Improving Image Processing (2021-2022)</a> and <a href="https://chanzuckerberg.com/science/programs-resources/imaging/napari/seamless-integration-of-quantitative-bio-image-analysis-plugins/">Seamless Integration of Quantitative Bio-Image Analysis Plugins (2022-2023)</a></li>
+        <li>DFG National Research Data Management Initiative: <a href="https://nfdi4bioimage.de/en/start">NFDI4BioImage (2023-2028)</a></li>
+        <li>ANR-DFG French-German Collaboration: DeepLineage project (2022-2025)</li>
+        <li>BMBF Program for Interdisciplinary Collaborations: PACETherapy project (2022-2025)</li>
+        <li>CZI Advancing Imaging Through Collaborative Projects: <a href="https://chanzuckerberg.com/science/programs-resources/imaging/community/?cycle=advancing-imaging-through-collaborative-projects">Society for Knowledge Exchange in BioImage Analysis (2023-2025)</a></li>
+      </ul>
+    </section>
+
+    <section class="tab-panel" id="open" role="tabpanel" aria-labelledby="tab-open">
+      <h2>Open Source Software + Open Data</h2>
+      <div class="toolbar">
+        <input class="search" id="openSearch" type="search" placeholder="Search software and data" aria-label="Search software and data">
+        <span class="count" id="openCount"></span>
+      </div>
+      <div class="gallery" id="openGallery"></div>
+    </section>
+
+    <section class="tab-panel" id="training" role="tabpanel" aria-labelledby="tab-training">
+      <h2>Open-Access Training Materials & Talks</h2>
+      <ul>
+        <li><a href="https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html">Bio-image Analysis Notebooks</a></li>
+        <li><a href="https://scads.github.io/generative-ai-notebooks/intro.html">Generative Artificial Intelligence Notebooks</a></li>
+      </ul>
+      <div class="toolbar">
+        <input class="search" id="trainingSearch" type="search" placeholder="Search training materials" aria-label="Search training materials">
+        <span class="count" id="trainingCount"></span>
+      </div>
+      <div class="training-list" id="trainingList"></div>
+    </section>
+
+    <section class="tab-panel" id="publications" role="tabpanel" aria-labelledby="tab-publications">
+      <h2>Publications</h2>
+      <div class="toolbar">
+        <input class="search" id="publicationSearch" type="search" placeholder="Search publications" aria-label="Search publications">
+        <span class="count" id="publicationCount"></span>
+      </div>
+      <div class="publication-list" id="publicationList"></div>
+
+      <h2>Blog posts</h2>
+      <ul class="columns">
+        <li><a href="https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/">If you license it, it will be harder to steal it. Why we should license our work</a></li>
+        <li><a href="https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/">Sharing research data with Zenodo</a></li>
+        <li><a href="https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/">Scientific Data Analysis: User Documentation 101</a></li>
+        <li><a href="https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/">Managing Scientific Python environments using Conda, Mamba and friends</a></li>
+        <li><a href="https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/">Explorative image data science with napari</a></li>
+        <li><a href="https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/">Collaborative bio-image analysis script editing with git</a></li>
+        <li><a href="https://focalplane.biologists.com/2020/07/14/how-clij-can-make-your-image-analysis-incredibly-fast/">How CLIJ2 can make your bio-image analysis workflows incredibly fast</a></li>
+        <li><a href="https://biapol.github.io/blog/robert_haase/ms_build_tools">Installing Microsoft buildtools on Windows</a></li>
+        <li><a href="https://biapol.github.io/blog/robert_haase/stardist_gpu">Using StarDist in napari with GPU-support in Windows</a></li>
+        <li><a href="https://biapol.github.io/blog/robert_haase/cupy_cucim">GPU-accelerated image processing using cupy and cucim</a></li>
+        <li><a href="https://biapol.github.io/blog/robert_haase/browsing_idr">Browsing the Open Microscopy Image Data Resource with Python</a></li>
+        <li><a href="https://biapol.github.io/blog/robert_haase/clesperanto_google_colab">GPU-accelerated image processing in the cloud using Google Colab and clEsperanto</a></li>
+      </ul>
+
+      <h2>Cheat Sheets</h2>
+      <ul>
+        <li><a href="https://github.com/BiAPoL/imagej-macro-cheat-sheet">ImageJ Macro</a></li>
+        <li><a href="https://clij.github.io/clij2-docs/CLIJ2-cheatsheet_V3.pdf">CLIJ - GPU accelerated image processing in ImageJ Macro</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <script>
+    const state = {
+      openItems: [],
+      trainingItems: [],
+      publicationItems: []
+    };
+
+    const escapeHtml = (value) => String(value || "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;");
+
+    const includesText = (item, query) => JSON.stringify(item).toLowerCase().includes(query);
+
+    async function loadJsonArray(path) {
+      const response = await fetch(path);
+      if (!response.ok) {
+        throw new Error(`Could not load ${path}`);
+      }
+      return JSON.parse(await response.text());
+    }
+
+    function activateTab(button) {
+      document.querySelectorAll(".tab-button").forEach((tab) => {
+        tab.setAttribute("aria-selected", String(tab === button));
+      });
+      document.querySelectorAll(".tab-panel").forEach((panel) => {
+        panel.classList.toggle("active", panel.id === button.getAttribute("aria-controls"));
+      });
+    }
+
+    function renderOpenItems() {
+      const query = document.getElementById("openSearch").value.trim().toLowerCase();
+      const items = state.openItems.filter((item) => includesText(item, query));
+      document.getElementById("openCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
+      document.getElementById("openGallery").innerHTML = items.map((item) => `
+        <article class="card">
+          <a href="${escapeHtml(item.url)}">
+            <img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.src='haase.jpg'">
+          </a>
+          <div class="card-body">
+            <h3><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a></h3>
+            <p class="meta">${escapeHtml(item.type)} &middot; ${escapeHtml(item.category)}</p>
+            <p>${escapeHtml(item.description)}</p>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function renderTrainingItems() {
+      const query = document.getElementById("trainingSearch").value.trim().toLowerCase();
+      const items = state.trainingItems.filter((item) => includesText(item, query));
+      document.getElementById("trainingCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
+      document.getElementById("trainingList").innerHTML = items.map((item) => {
+        const links = (item.links || []).map((link) =>
+          `<a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a>`
+        ).join("");
+        return `
+          <article class="training-item">
+            <div class="year">${escapeHtml(item.year)}</div>
+            <div>
+              <h3>${escapeHtml(item.title)}</h3>
+              <p class="meta">${escapeHtml(item.venue)}</p>
+              <div class="link-list">${links}</div>
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    function renderPublicationItems() {
+      const query = document.getElementById("publicationSearch").value.trim().toLowerCase();
+      const items = state.publicationItems.filter((item) => includesText(item, query));
+      document.getElementById("publicationCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
+      document.getElementById("publicationList").innerHTML = items.map((item) => {
+        const year = item.year || "Link";
+        const venue = [item.venue, item.volume, item.number, item.pages ? `pp. ${item.pages}` : ""].filter(Boolean).join(", ");
+        const authors = item.authors ? `<p class="meta">${escapeHtml(item.authors)}</p>` : "";
+        const details = venue ? `<p>${escapeHtml(venue)}</p>` : "";
+        const link = item.url || (item.doi ? `https://doi.org/${item.doi}` : "");
+        const title = link
+          ? `<a href="${escapeHtml(link)}">${escapeHtml(item.title)}</a>`
+          : escapeHtml(item.title);
+        return `
+          <article class="publication-item">
+            <div class="year">${escapeHtml(year)}</div>
+            <div>
+              <h3>${title}</h3>
+              ${authors}
+              ${details}
+              <p class="meta">${escapeHtml(item.entryType)} &middot; ${escapeHtml(item.source)}</p>
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    document.querySelectorAll(".tab-button").forEach((button) => {
+      button.addEventListener("click", () => activateTab(button));
+    });
+
+    document.getElementById("openSearch").addEventListener("input", renderOpenItems);
+    document.getElementById("trainingSearch").addEventListener("input", renderTrainingItems);
+    document.getElementById("publicationSearch").addEventListener("input", renderPublicationItems);
+
+    Promise.all([
+      loadJsonArray("data/software-data.json"),
+      loadJsonArray("data/training.json"),
+      loadJsonArray("data/publications.json")
+    ]).then(([openItems, trainingItems, publicationItems]) => {
+      state.openItems = openItems;
+      state.trainingItems = trainingItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
+      state.publicationItems = publicationItems;
+      renderOpenItems();
+      renderTrainingItems();
+      renderPublicationItems();
+    }).catch((error) => {
+      document.getElementById("openGallery").textContent = error.message;
+      document.getElementById("trainingList").textContent = error.message;
+      document.getElementById("publicationList").textContent = error.message;
+    });
+  </script>
+</body>
+</html>

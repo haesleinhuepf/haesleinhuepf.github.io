@@ -1,0 +1,240 @@
+[
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "sand-bob",
+    "url": "https://haesleinhuepf.github.io/sand-bob/",
+    "description": "AI agents solving data analysis tasks in parallel.",
+    "image": "https://github.com/haesleinhuepf/sand-bob/blob/main/docs/alice-teaser-small.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "bia-bob",
+    "url": "https://github.com/haesleinhuepf/bia-bob",
+    "description": "Code generation in Jupyter Notebooks.",
+    "image": "https://github.com/haesleinhuepf/bia-bob/blob/main/docs/images/screencast.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "git-bob",
+    "url": "https://github.com/haesleinhuepf/git-bob",
+    "description": "Answering GitHub and GitLab issues.",
+    "image": "https://github.com/haesleinhuepf/git-bob/blob/main/docs/images/banner2.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "jupyter-vibe-coding",
+    "url": "https://github.com/haesleinhuepf/jupyter-vibe-coding",
+    "description": "LLM integration for code generation and bug fixing in Jupyter Notebooks.",
+    "image": "https://github.com/haesleinhuepf/ipyexplain/raw/main/docs/images/teaser.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "vest",
+    "url": "https://github.com/scads/vest",
+    "description": "Interactive vision embedding space travelling.",
+    "image": "https://github.com/ScaDS/vest/raw/main/docs/images/vest-butterflies-small.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "unprompted",
+    "url": "https://github.com/haesleinhuepf/unprompted",
+    "description": "Feedback and suggestions in Jupyter Notebooks.",
+    "image": "https://github.com/haesleinhuepf/unprompted/raw/main/docs/images/teaser.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "bluesky-bob",
+    "url": "https://github.com/haesleinhuepf/bluesky-bob",
+    "description": "Answer posts on Bluesky automatically.",
+    "image": "https://github.com/haesleinhuepf/bluesky-bob/blob/main/bluesky-teaser.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "outlook-bob",
+    "url": "https://github.com/haesleinhuepf/outlook-bob",
+    "description": "Answer emails.",
+    "image": "https://github.com/haesleinhuepf/outlook-bob/raw/main/docs/images/outlook_screenshot1.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "screenshot-question-answerer",
+    "url": "https://github.com/haesleinhuepf/screenshot-question-answerer",
+    "description": "Answer questions visible on screen.",
+    "image": "https://github.com/haesleinhuepf/screenshot-question-answerer/raw/main/docs/demo.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "human-eval-bia",
+    "url": "http://github.com/haesleinhuepf/human-eval-bia",
+    "description": "Benchmarking LLMs for bio-image analysis code generation.",
+    "image": "https://github.com/haesleinhuepf/human-eval-bia/raw/main/docs/paper/pass_rate_llms.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "story-writer",
+    "url": "https://github.com/haesleinhuepf/story-writer",
+    "description": "Writing stories for kids, including pictures.",
+    "image": "https://github.com/haesleinhuepf/story-writer/raw/main/docs/images/teaser1.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "vlm-pictionary",
+    "url": "https://github.com/haesleinhuepf/vlm-pictionary",
+    "description": "AI playing Pictionary.",
+    "image": "https://github.com/haesleinhuepf/vlm-pictionary/raw/main/demo.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "ipy-llm-kernel",
+    "url": "https://github.com/haesleinhuepf/ipy-llm-kernel",
+    "description": "Asking LLMs directly in Jupyter.",
+    "image": "https://github.com/haesleinhuepf/ipy-llm-kernel/raw/main/docs/images/img_1.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "stackview",
+    "url": "https://github.com/haesleinhuepf/stackview",
+    "description": "Interactive image visualization in Jupyter.",
+    "image": "https://raw.githubusercontent.com/haesleinhuepf/stackview/main/docs/images/banner2.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "clesperanto",
+    "url": "https://clesperanto.net",
+    "description": "GPU-accelerated image processing across programming languages."
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "pyclesperanto_prototype",
+    "url": "https://github.com/clEsperanto/pyclesperanto_prototype",
+    "description": "GPU-accelerated image processing in Python."
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "pyclesperanto",
+    "url": "https://github.com/clEsperanto/pyclesperanto",
+    "description": "GPU-accelerated image processing in Python."
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "CLIJ",
+    "url": "https://clij.github.io",
+    "description": "GPU-accelerated image processing in ImageJ."
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "APOC",
+    "url": "https://github.com/haesleinhuepf/apoc",
+    "description": "GPU-accelerated pixel and object classification in Python."
+  },
+  {
+    "type": "data",
+    "category": "Weather and environment",
+    "title": "DWD Rainfall data",
+    "url": "https://huggingface.co/datasets/haesleinhuepf/dwd_precipitation_july2026",
+    "description": "Rainfall data from the German Weather Service."
+  },
+  {
+    "type": "data",
+    "category": "Weather and environment",
+    "title": "DWD Air temperature data",
+    "url": "https://huggingface.co/datasets/haesleinhuepf/dwd_temperature_july2026",
+    "description": "Air temperature data from the German Weather Service."
+  },
+  {
+    "type": "data",
+    "category": "Bio-image analysis",
+    "title": "Bio Image Analysis Question and Answers",
+    "url": "https://huggingface.co/datasets/haesleinhuepf/bio-image-analysis-qa",
+    "description": "Question-answer data for bio-image analysis."
+  },
+  {
+    "type": "data",
+    "category": "Open data",
+    "title": "Satellite images",
+    "url": "https://doi.org/10.5281/zenodo.19635483",
+    "description": "Satellite image data on Zenodo."
+  },
+  {
+    "type": "data",
+    "category": "Open data",
+    "title": "AI-generated logos",
+    "url": "https://doi.org/10.5281/zenodo.19633744",
+    "description": "AI-generated logo collection."
+  },
+  {
+    "type": "data",
+    "category": "Open data",
+    "title": "AI/ML conference metadata",
+    "url": "https://doi.org/10.5281/zenodo.17478159",
+    "description": "Selected metadata of accepted contributions to AI/ML conferences 2020-2025."
+  },
+  {
+    "type": "data",
+    "category": "Training data",
+    "title": "NFDI4BioImage Training Materials",
+    "url": "https://github.com/nfDI4BIOIMAGE/training",
+    "description": "Open training materials for bio-image data management and analysis."
+  },
+  {
+    "type": "data",
+    "category": "Microscopy",
+    "title": "Tribolium castaneum embryo development",
+    "url": "https://zenodo.org/record/5837363",
+    "description": "Lightsheet microscopy recording of Tribolium embryo development."
+  },
+  {
+    "type": "data",
+    "category": "Microscopy",
+    "title": "Example data for napari-pyclesperanto-assistant",
+    "url": "https://zenodo.org/record/5090508",
+    "description": "Example data for napari and pyclesperanto workflows."
+  },
+  {
+    "type": "data",
+    "category": "Microscopy",
+    "title": "Strausberg_Tribolium_LA-GFP_tailpole_run",
+    "url": "https://zenodo.org/record/3981193",
+    "description": "Tribolium microscopy example dataset."
+  },
+  {
+    "type": "data",
+    "category": "Microscopy",
+    "title": "Example Data for clesperanto",
+    "url": "https://github.com/clEsperanto/clesperanto_example_data",
+    "description": "Example data for GPU-accelerated image processing with clesperanto."
+  },
+  {
+    "type": "data",
+    "category": "Metadata",
+    "title": "Napari plugin download statistics",
+    "url": "https://github.com/haesleinhuepf/napari-pypistats",
+    "description": "Download statistics for napari plugins."
+  },
+  {
+    "type": "data",
+    "category": "Metadata",
+    "title": "Awesome napari-plugins that are not on the napari-hub yet",
+    "url": "https://github.com/haesleinhuepf/awesome-napari-plugins-that-are-not-on-the-napari-hub-yet",
+    "description": "Curated list of napari plugins that are not yet listed on the napari hub."
+  }
+]
