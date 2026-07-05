@@ -7,6 +7,9 @@
       {
         "label": "Slides",
         "url": "https://doi.org/10.5281/zenodo.20825671"
+      },{
+        "label": "Exercises",
+        "url": "https://scads.github.io/rag-2026/intro.html"
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/20825671.png?raw=true"
@@ -18,7 +21,7 @@
     "links": [
       {
         "label": "Slides",
-        "url": "https://doi.org/10.5281/zenodo.20639390"
+        "url": "https://doi.org/10.5281/zenodo.20639389"
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/20639390.png?raw=true"
