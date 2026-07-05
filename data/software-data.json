@@ -114,13 +114,6 @@
   {
     "type": "software",
     "category": "GPU-accelerated image processing",
-    "title": "clesperanto",
-    "url": "https://clesperanto.net",
-    "description": "GPU-accelerated image processing across programming languages."
-  },
-  {
-    "type": "software",
-    "category": "GPU-accelerated image processing",
     "title": "pyclesperanto_prototype",
     "url": "https://github.com/clEsperanto/pyclesperanto_prototype",
     "description": "GPU-accelerated image processing in Python.",
