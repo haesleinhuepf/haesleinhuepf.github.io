@@ -66,7 +66,7 @@
     "venue": "Frontiers in Computer Science",
     "volume": "7",
     "pages": "1562358",
-    "publisher": "Frontiers Media SA"
+    "publisher": "Frontiers Media SA",
     "url": "https://doi.org/10.3389/fcomp.2025.1562358"
   },
   {
@@ -233,7 +233,7 @@
     "volume": "21",
     "number": "2",
     "pages": "195-212",
-    "publisher": "Nature Publishing Group US New York"
+    "publisher": "Nature Publishing Group US New York",
     "url": "https://doi.org/10.1038/s41592-023-02151-z"
   },
   {
@@ -884,7 +884,7 @@
     "authors": "Haase, Robert",
     "venue": "Blog",
     "url": "https://haesleinhuepf.github.io/run_jython_scripts_from_ide/"
-  }
+  },
   {
     "source": "Cheat Sheet",
     "entryType": "cheatsheet",
