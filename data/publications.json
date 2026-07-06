@@ -10,7 +10,8 @@
     "venue": "Journal of Microscopy",
     "volume": "301",
     "number": "1",
-    "pages": "91-106"
+    "pages": "91-106",
+    "url": "https://doi.org/10.1111/jmi.70036"
   },
   {
     "source": "literature.bib",
@@ -22,29 +23,8 @@
     "year": "2026",
     "venue": "Nature Methods",
     "pages": "1-2",
-    "publisher": "Nature Publishing Group US New York"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "fazeli2025decision",
-    "originalKey": "fazeli2025decision",
-    "title": "A decision tree for designing bioimage analysis pipelines",
-    "authors": "Fazeli, Elnaz and Haase, Robert and Doube, Michael and Miura, Kota and Legland, David",
-    "year": "2025",
-    "venue": "GloBIAS Conference 2025 Kobe"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "okafornta2025cell",
-    "originalKey": "okafornta2025cell",
-    "title": "Cell size reduction scales spindle elongation but not chromosome segregation in C. elegans",
-    "authors": "Okafornta, Chukwuebuka William and Farhadifar, Reza and Fabig, Gunar and Wu, Hai-Yin and Koeckert, Maria and Vogel, Martin and Baum, Daniel and Haase, Robert and Shelley, Michael J and Needleman, Daniel J and others",
-    "year": "2025",
-    "venue": "bioRxiv",
-    "pages": "2025-10",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Nature Publishing Group US New York",
+    "url": "https://doi.org/10.1038/s41592-026-03060-7"
   },
   {
     "source": "literature.bib",
@@ -58,30 +38,8 @@
     "volume": "22",
     "number": "2",
     "pages": "283-286",
-    "publisher": "Nature Publishing Group US New York"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "nicolay2025establishing",
-    "originalKey": "nicolay2025establishing",
-    "title": "Establishing a highcontent imaging workflow to investigate the effect of environmental chemicals on macrophages and enteric neurons in zebrafish larvae",
-    "authors": "Nicolay, EK and Massei, R and Trofimova, D and Haase, R and Isensee, F and Tal, T",
-    "year": "2025",
-    "venue": "NEUROGASTROENTEROLOGY AND MOTILITY",
-    "volume": "37"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "wetzker2025fluorescence",
-    "originalKey": "wetzker2025fluorescence",
-    "title": "Fluorescence Lifetime Unmixing: A New Workflow for FLIM Live-Cell Imaging",
-    "authors": "Wetzker, Cornelia and Zoccoler, Marcelo Leomil and Iarovenko, Svetlana and Okafornta, Chukwuebuka William and Nobst, Anja and Hartmann, Hella and Mueller-Reichert, Thomas and Haase, Robert and Fabig, Gunar",
-    "year": "2025",
-    "venue": "bioRxiv",
-    "pages": "2025-03",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Nature Publishing Group US New York",
+    "url": "https://www.nature.com/articles/s41592-024-02562-6"
   },
   {
     "source": "literature.bib",
@@ -94,7 +52,8 @@
     "venue": "Journal of Microscopy",
     "volume": "300",
     "number": "3",
-    "pages": "384-408"
+    "pages": "384-408",
+    "url": "https://doi.org/10.1111/jmi.70021"
   },
   {
     "source": "literature.bib",
@@ -108,6 +67,7 @@
     "volume": "7",
     "pages": "1562358",
     "publisher": "Frontiers Media SA"
+    "url": "https://doi.org/10.3389/fcomp.2025.1562358"
   },
   {
     "source": "literature.bib",
@@ -119,7 +79,8 @@
     "year": "2025",
     "venue": "bioRxiv",
     "pages": "2025-12",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Cold Spring Harbor Laboratory",
+    "url": "https://doi.org/10.64898/2025.12.10.693416"
   },
   {
     "source": "literature.bib",
@@ -133,7 +94,8 @@
     "volume": "11",
     "number": "19",
     "pages": "eadu6843",
-    "publisher": "American Association for the Advancement of Science"
+    "publisher": "American Association for the Advancement of Science",
+    "url": "https://doi.org/10.1126/sciadv.adu6843"
   },
   {
     "source": "literature.bib",
@@ -147,7 +109,8 @@
     "volume": "5",
     "number": "4",
     "pages": "271-272",
-    "publisher": "Nature Publishing Group US New York"
+    "publisher": "Nature Publishing Group US New York",
+    "url": "https://doi.org/10.1038/s43588-025-00781-1"
   },
   {
     "source": "literature.bib",
@@ -159,7 +122,8 @@
     "year": "2025",
     "venue": "bioRxiv",
     "pages": "2025-01",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Cold Spring Harbor Laboratory",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.01.17.633501v1"
   },
   {
     "source": "literature.bib",
@@ -168,7 +132,8 @@
     "originalKey": "haase2024call",
     "title": "A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis",
     "authors": "Haase, Robert and Tischer, Christian and Bankhead, Peter and Miura, Kota and Cimini, Beth A",
-    "year": "2024"
+    "year": "2024",
+    "url": "https://osf.io/preprints/osf/2zgmc"
   },
   {
     "source": "literature.bib",
@@ -182,7 +147,8 @@
     "volume": "187",
     "number": "23",
     "pages": "6742-6759",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.cell.2024.09.047"
   },
   {
     "source": "literature.bib",
@@ -195,7 +161,8 @@
     "venue": "Frontiers in molecular neuroscience",
     "volume": "17",
     "pages": "1398447",
-    "publisher": "Frontiers Media SA"
+    "publisher": "Frontiers Media SA",
+    "url": "https://doi.org/10.3389/fnmol.2024.1398447"
   },
   {
     "source": "literature.bib",
@@ -207,7 +174,8 @@
     "year": "2024",
     "venue": "bioRxiv",
     "pages": "2024-04",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Cold Spring Harbor Laboratory",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3"
   },
   {
     "source": "literature.bib",
@@ -220,17 +188,8 @@
     "venue": "Journal of Microscopy",
     "volume": "294",
     "number": "3",
-    "pages": "338-349"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "rigaud2024clesperanto",
-    "originalKey": "rigaud2024clesperanto",
-    "title": "clEsperanto/pyclesperanto: 0.16. 0",
-    "authors": "Rigaud, Stephane and Haase, Robert and Soltwedel, Johannes and Albert, Marvin and Rajasekhar, Pradeep and others",
-    "year": "2024",
-    "venue": "Zenodo"
+    "pages": "338-349",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jmi.13192"
   },
   {
     "source": "literature.bib",
@@ -244,19 +203,8 @@
     "volume": "7",
     "number": "1",
     "pages": "1187",
-    "publisher": "Nature Publishing Group UK London"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "davutoglu2024gliding",
-    "originalKey": "davutoglu2024gliding",
-    "title": "Gliding motility of the diatom Craspedostauros australis correlates with the intracellular movement of raphid-specific myosins",
-    "authors": "Davutoglu, Metin G and Geyer, Veikko F and Niese, Lukas and Soltwedel, Johannes R and Zoccoler, Marcelo L and Haase, Robert and Kroeger, Nils and Diez, Stefan and Poulsen, Nicole",
-    "year": "2024",
-    "venue": "bioRxiv",
-    "pages": "2024-03",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Nature Publishing Group UK London",
+    "url": "https://doi.org/10.1038/s42003-024-06889-w"
   },
   {
     "source": "literature.bib",
@@ -270,7 +218,8 @@
     "volume": "137",
     "number": "20",
     "pages": "jcs261950",
-    "publisher": "The Company of Biologists Ltd"
+    "publisher": "The Company of Biologists Ltd",
+    "url": "https://doi.org/10.1242/jcs.261950"
   },
   {
     "source": "literature.bib",
@@ -285,6 +234,7 @@
     "number": "2",
     "pages": "195-212",
     "publisher": "Nature Publishing Group US New York"
+    "url": "https://doi.org/10.1038/s41592-023-02151-z"
   },
   {
     "source": "literature.bib",
@@ -298,7 +248,8 @@
     "volume": "137",
     "number": "20",
     "pages": "jcs262322",
-    "publisher": "The Company of Biologists Ltd"
+    "publisher": "The Company of Biologists Ltd",
+    "url": "https://doi.org/10.1242/jcs.262322"
   },
   {
     "source": "literature.bib",
@@ -312,59 +263,19 @@
     "volume": "14",
     "number": "1",
     "pages": "4687",
-    "publisher": "Nature Publishing Group UK London"
+    "publisher": "Nature Publishing Group UK London",
+    "url": "https://doi.org/10.1038/s41467-023-40158-4"
   },
   {
     "source": "literature.bib",
-    "entryType": "article",
+    "entryType": "preprint",
     "key": "zhang2023bio",
     "originalKey": "zhang2023bio",
     "title": "Bio-Image Informatics Index BIII: A unique database of image analysis tools and workflows for and by the bioimaging community",
     "authors": "Zhang, Chong and Gaignard, Alban and Kalas, Matus and Levet, Florian and Delestro, Felipe and Lindblad, Joakim and Sladoje, Natasa and Plantard, Laure and Latour, Alain and Haase, Robert and others",
     "year": "2023",
-    "venue": "arXiv preprint arXiv:2312.11256"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "haase2023clesperanto",
-    "originalKey": "haase2023clesperanto",
-    "title": "clEsperanto/pyclesperanto_prototype: 0.24. 1",
-    "authors": "Haase, Robert and Rajasekhar, Pradeep and Lambert, Talley and Nunez-Iglesias, Juan and Caporal, Clement and Avenel, Christophe and Sandaltzopoulou, Elissavet and others",
-    "year": "2023",
-    "venue": "Zenodo"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "haase2023haesleinhuepf",
-    "originalKey": "haase2023haesleinhuepf",
-    "title": "haesleinhuepf/napari-accelerated-pixel-and-object-classification: 0.14. 1",
-    "authors": "Haase, Robert and Lee, Dohyeon and Doncila Pop, Draga and Zigutyte, Laura",
-    "year": "2023",
-    "venue": "Zenodo"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "yamauchi2023morphometrics",
-    "originalKey": "yamauchi2023morphometrics",
-    "title": "morphometrics/morphometrics: v0. 0.9",
-    "authors": "Yamauchi, Kevin and Haase, Robert and Sobolewski, Peter",
-    "year": "2023",
-    "venue": "Zenodo"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "saraiva2023nanopyx",
-    "originalKey": "saraiva2023nanopyx",
-    "title": "NanoPyx: super-fast bioimage analysis powered by adaptive machine learning",
-    "authors": "Saraiva, Bruno M and Cunha, Ines M and Brito, Ant\\'onio D and Follain, Gautier and Portela, Raquel and Haase, Robert and Pereira, Pedro M and Jacquemet, Guillaume and Henriques, Ricardo",
-    "year": "2023",
-    "venue": "bioRxiv",
-    "pages": "2023-08",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "venue": "arXiv preprint arXiv:2312.11256",
+    "url": "https://arxiv.org/abs/2312.11256"
   },
   {
     "source": "literature.bib",
@@ -377,19 +288,8 @@
     "venue": "Radiotherapy and Oncology",
     "volume": "182",
     "pages": "109591",
-    "publisher": "Elsevier"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "lange2023zebrahub",
-    "originalKey": "lange2023zebrahub",
-    "title": "Zebrahub-multimodal zebrafish developmental atlas reveals the state-transition dynamics of late-vertebrate pluripotent axial progenitors",
-    "authors": "Lange, Merlin and Granados, Alejandro and VijayKumar, Shruthi and Bragantini, Jordao and Ancheta, Sarah and Santhosh, Sreejith and Borja, Michael and Kobayashi, Hirofumi and McGeever, Erin and Solak, Ahmet Can and others",
-    "year": "2023",
-    "venue": "BioRxiv",
-    "pages": "2023-03",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Elsevier",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167814023001299"
   },
   {
     "source": "literature.bib",
@@ -402,17 +302,8 @@
     "venue": "FEBS letters",
     "volume": "596",
     "number": "19",
-    "pages": "2472-2485"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "haase2022clij",
-    "originalKey": "haase2022clij",
-    "title": "clij/TrackMate-clij2: 2.5. 1.3-doi",
-    "authors": "Haase, Robert",
-    "year": "2022",
-    "venue": "Zenodo"
+    "pages": "2472-2485",
+    "url": "https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451"
   },
   {
     "source": "literature.bib",
@@ -424,17 +315,8 @@
     "year": "2022",
     "venue": "Bioimage Data Analysis Workflows-Advanced Components and Methods",
     "pages": "89-114",
-    "publisher": "Springer International Publishing Cham"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "hohlbein2022hohlbeinlab",
-    "originalKey": "hohlbein2022hohlbeinlab",
-    "title": "HohlbeinLab/OpenMicroscopy: V01_release",
-    "authors": "Hohlbein, Johannes and Diederich, Benedict and Prakash, Kirti and Shepherd, Doug and Jahr, Wiebke and Smit, Jochem and Tutkus, Marijonas and Haase, Robert and Moore, Josh and Barth, Anders and others",
-    "year": "2022",
-    "venue": "Zenodo"
+    "publisher": "Springer International Publishing Cham",
+    "url": "https://doi.org/10.1007/978-3-030-76394-7_5"
   },
   {
     "source": "literature.bib",
@@ -447,7 +329,8 @@
     "venue": "Frontiers in computer science",
     "volume": "4",
     "pages": "777728",
-    "publisher": "Frontiers Media SA"
+    "publisher": "Frontiers Media SA",
+    "url": "https://doi.org/10.3389/fcomp.2022.777728"
   },
   {
     "source": "literature.bib",
@@ -460,7 +343,8 @@
     "venue": "Frontiers in bioinformatics",
     "volume": "2",
     "pages": "889755",
-    "publisher": "Frontiers Media SA"
+    "publisher": "Frontiers Media SA",
+    "url": "https://doi.org/10.3389/fbinf.2022.889755"
   },
   {
     "source": "literature.bib",
@@ -474,7 +358,8 @@
     "volume": "19",
     "number": "9",
     "pages": "1020-1025",
-    "publisher": "Nature Publishing Group US New York"
+    "publisher": "Nature Publishing Group US New York",
+    "url": "https://www.nature.com/articles/s41592-022-01602-3"
   },
   {
     "source": "literature.bib",
@@ -487,7 +372,8 @@
     "venue": "Hepatology",
     "volume": "75",
     "number": "4",
-    "pages": "881-897"
+    "pages": "881-897",
+    "url": "https://doi.org/10.1002/hep.32153"
   },
   {
     "source": "literature.bib",
@@ -500,29 +386,8 @@
     "venue": "Advanced biology",
     "volume": "6",
     "number": "4",
-    "pages": "2101182"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "sadier2021bat",
-    "originalKey": "sadier2021bat",
-    "title": "Bat teeth illuminate the diversification of mammalian tooth classes",
-    "authors": "Sadier, Alexa and Anthwal, Neal and Krause, Andrew L and Dessalles, Renaud and Lake, Michael and Bentolila, Laurent and Haase, Robert and Nieves, Natalie and Santana, Sharlene and Sears, Karen",
-    "year": "2021",
-    "venue": "bioRxiv",
-    "pages": "2021-12",
-    "publisher": "Cold Spring Harbor Laboratory"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "reinke2021common",
-    "originalKey": "reinke2021common",
-    "title": "Common limitations of image processing metrics: A picture story",
-    "authors": "Reinke, Annika and Tizabi, Minu D and Sudre, Carole H and Eisenmann, Matthias and Raedsch, Tim and Baumgartner, Michael and Acion, Laura and Antonelli, Michela and Arbel, Tal and Bakas, Spyridon and others",
-    "year": "2021",
-    "venue": "arXiv preprint arXiv:2104.05642"
+    "pages": "2101182",
+    "url": "https://doi.org/10.1002/adbi.202101182"
   },
   {
     "source": "literature.bib",
@@ -534,7 +399,8 @@
     "year": "2021",
     "venue": "F1000Research",
     "volume": "10",
-    "pages": "302"
+    "pages": "302",
+    "url": "https://doi.org/10.12688/f1000research.52531.1"
   },
   {
     "source": "literature.bib",
@@ -546,7 +412,8 @@
     "year": "2021",
     "venue": "F1000Research",
     "volume": "10",
-    "pages": "334"
+    "pages": "334",
+    "url": "https://f1000research.com/articles/10-334"
   },
   {
     "source": "literature.bib",
@@ -558,11 +425,12 @@
     "year": "2021",
     "venue": "Frontiers in Computer Science",
     "pages": "105",
-    "publisher": "Frontiers"
+    "publisher": "Frontiers",
+    "url": "https://doi.org/10.3389/fcomp.2021.774396"
   },
   {
     "source": "literature.bib",
-    "entryType": "article",
+    "entryType": "blogpost",
     "key": "haase2021fiji",
     "originalKey": "haase2021fiji",
     "title": "The Fiji Updater, My favorite image analysis tool, by Neubias members",
@@ -570,7 +438,8 @@
     "year": "2021",
     "venue": "Imaging and Microscopy",
     "number": "March 2021",
-    "publisher": "Wiley Analytical Science"
+    "publisher": "Wiley Analytical Science",
+    "url": "https://analyticalscience.wiley.com/content/article-do/fiji-updater"
   },
   {
     "source": "literature.bib",
@@ -584,7 +453,8 @@
     "volume": "17",
     "number": "1",
     "pages": "5-6",
-    "publisher": "Nature Publishing Group US New York"
+    "publisher": "Nature Publishing Group US New York",
+    "url": "https://www.nature.com/articles/s41592-019-0650-1"
   },
   {
     "source": "literature.bib",
@@ -597,17 +467,8 @@
     "venue": "Radiotherapy and Oncology",
     "volume": "143",
     "pages": "44-50",
-    "publisher": "Elsevier"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "kalavs2020edam",
-    "originalKey": "kalavs2020edam",
-    "title": "EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)",
-    "authors": "Kalas, Mat\\'us and Plantard, Laure and Sladoje, Natasa and Lindblad, Joakim and Kirschmann, Moritz Alexander and Jones, Martin and Chessel, Anatole and Scholz, Leandro Aluisio and Roessler, Fabienne and Dufour, Alexandre and others",
-    "year": "2020",
-    "venue": "ELIXIR All Hands 2020"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.radonc.2019.11.002"
   },
   {
     "source": "literature.bib",
@@ -620,7 +481,8 @@
     "venue": "Aging Cell",
     "volume": "19",
     "number": "10",
-    "pages": "e13214"
+    "pages": "e13214",
+    "url": "https://doi.org/10.1111/acel.13214"
   },
   {
     "source": "literature.bib",
@@ -633,7 +495,8 @@
     "venue": "Radiotherapy and Oncology",
     "volume": "146",
     "pages": "205-212",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.radonc.2020.02.023"
   },
   {
     "source": "literature.bib",
@@ -645,7 +508,8 @@
     "year": "2020",
     "venue": "bioRxiv",
     "pages": "2020-11",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "publisher": "Cold Spring Harbor Laboratory",
+    "url": "https://www.biorxiv.org/content/10.1101/2020.11.19.386565v1"
   },
   {
     "source": "literature.bib",
@@ -659,7 +523,8 @@
     "volume": "11",
     "number": "1",
     "pages": "5604",
-    "publisher": "Nature Publishing Group UK London"
+    "publisher": "Nature Publishing Group UK London",
+    "url": "https://doi.org/10.1038/s41467-020-19356-x"
   },
   {
     "source": "literature.bib",
@@ -670,7 +535,8 @@
     "authors": "Weigert, Martin and Schmidt, Uwe and Haase, Robert and Sugawara, Ko and Myers, Gene",
     "year": "2020",
     "venue": "Proceedings of the IEEE/CVF winter conference on applications of computer vision",
-    "pages": "3666-3673"
+    "pages": "3666-3673",
+    "url": "https://arxiv.org/abs/1908.03636"
   },
   {
     "source": "literature.bib",
@@ -682,19 +548,8 @@
     "year": "2019",
     "venue": "JoVE (Journal of Visualized Experiments)",
     "number": "148",
-    "pages": "e58587"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "haase2019clij",
-    "originalKey": "haase2019clij",
-    "title": "CLIJ: Enabling GPU-accelerated image processing in Fiji",
-    "authors": "Haase, Robert and Royer, Loic A and Steinbach, Peter and Schmidt, Deborah and Dibrov, Alexandr and Schmidt, Uwe and Weigert, Martin and Maghelli, Nicola and Tomancak, Pavel and Jug, Florian and others",
-    "year": "2019",
-    "venue": "bioRxiv",
-    "pages": "660704",
-    "publisher": "Cold Spring Harbor Laboratory"
+    "pages": "e58587",
+    "url": "https://dx.doi.org/10.3791/58587"
   },
   {
     "source": "literature.bib",
@@ -707,7 +562,8 @@
     "venue": "Clinical and translational radiation oncology",
     "volume": "15",
     "pages": "108-112",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.ctro.2019.02.002"
   },
   {
     "source": "literature.bib",
@@ -720,32 +576,8 @@
     "venue": "Radiotherapy and Oncology",
     "volume": "130",
     "pages": "97-103",
-    "publisher": "Elsevier"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "bandurska2018publications",
-    "originalKey": "bandurska2018publications",
-    "title": "Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf",
-    "authors": "Bandurska-Luque, A and Loeck, S and Haase, R and Richter, C and Zoephel, K and Perrin, R and Seidlitz, A and Zschaeck, S and Appold, S and Krause, M and others",
-    "year": "2018",
-    "venue": "Radiotherapy and Oncology",
-    "volume": "127",
-    "number": "1",
-    "pages": "S588"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "bandurska2018prognostic",
-    "originalKey": "bandurska2018prognostic",
-    "title": "The prognostic value of FMISO-PET-based synchronous tumor and lymph node hypoxia outperforms that of tumor hypoxia only in patients with advanced stage HNSSC-secondary analysis of Dresden FMISO trail",
-    "authors": "Bandurska-Luque, A and Loeck, S and Haase, R and Richter, C and Zoephel, K and Perrin, R and Seidlitz, A and Zschaeck, S and Appold, S and Krause, M and others",
-    "year": "2018",
-    "venue": "ONCOLOGY RESEARCH AND TREATMENT",
-    "volume": "41",
-    "pages": "186-186"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.radonc.2018.09.008"
   },
   {
     "source": "literature.bib",
@@ -759,7 +591,8 @@
     "volume": "122",
     "number": "3",
     "pages": "437-444",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.radonc.2017.01.019"
   },
   {
     "source": "literature.bib",
@@ -772,7 +605,8 @@
     "venue": "Physics and Imaging in Radiation Oncology",
     "volume": "4",
     "pages": "32-38",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.phro.2017.11.003"
   },
   {
     "source": "literature.bib",
@@ -786,7 +620,8 @@
     "volume": "43",
     "number": "9",
     "pages": "5028-5039",
-    "publisher": "American Association of Physicists in Medicine"
+    "publisher": "American Association of Physicists in Medicine",
+    "url": "https://doi.org/10.1118/1.4960366"
   },
   {
     "source": "literature.bib",
@@ -798,7 +633,8 @@
     "year": "2016",
     "venue": "Molecular Radio-Oncology",
     "pages": "175-187",
-    "publisher": "Springer Berlin Heidelberg Berlin, Heidelberg"
+    "publisher": "Springer Berlin Heidelberg Berlin, Heidelberg",
+    "url": "https://doi.org/10.1007/978-3-662-49651-0_9"
   },
   {
     "source": "literature.bib",
@@ -812,20 +648,8 @@
     "volume": "61",
     "number": "8",
     "pages": "3084-3108",
-    "publisher": "IOP Publishing"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "seidlitz201510lba",
-    "originalKey": "seidlitz201510lba",
-    "title": "10LBA Final results of the prospective DDFMISO-trial validating hypoxiaspecific PET imaging during radiochemotherapy for local control of locally advanced head-and-neck cancer",
-    "authors": "Seidlitz, A and Perrin, R and Bandurska-Luque, A and Zoephel, K and Loeck, S and Abolmaali, N and Haase, R and Zschaeck, S and Krause, M and Steinbach, J and others",
-    "year": "2015",
-    "venue": "European Journal of Cancer",
-    "volume": "3",
-    "number": "51",
-    "pages": "S714"
+    "publisher": "IOP Publishing",
+    "url": "https://doi.org/10.1088/0031-9155/61/8/3084"
   },
   {
     "source": "literature.bib",
@@ -839,19 +663,8 @@
     "volume": "92",
     "number": "5",
     "pages": "1165-1174",
-    "publisher": "Elsevier"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "dietrich2015image",
-    "originalKey": "dietrich2015image",
-    "title": "Image Guided orthotopic Tumor Models in Small Animals",
-    "authors": "Dietrich, A and Buetof, R and Fursov, A and Tillner, F and Loeck, S and Haase, R and Baumann, M and Krause, M",
-    "year": "2015",
-    "venue": "STRAHLENTHERAPIE UND ONKOLOGIE",
-    "volume": "191",
-    "pages": "S24-S25"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.ijrobp.2015.04.031"
   },
   {
     "source": "literature.bib",
@@ -865,19 +678,8 @@
     "volume": "54",
     "number": "9",
     "pages": "1658-1664",
-    "publisher": "Taylor & Francis"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "jakobi2015po",
-    "originalKey": "jakobi2015po",
-    "title": "PO-0898: Identification of individual NTCP benefit of dose-escalated IMPT in advanced HNC patients",
-    "authors": "Jakobi, A and Bandurska-Luque, A and Stuetzer, K and Haase, R and Loeck, S and Wack, L and Moennich, D and Thorwarth, D and Kovacevic, M and Perez, D and others",
-    "year": "2015",
-    "venue": "Radiotherapy and Oncology",
-    "number": "115",
-    "pages": "S462-S463"
+    "publisher": "Taylor & Francis",
+    "url": "https://doi.org/10.3109/0284186X.2015.1071920"
   },
   {
     "source": "literature.bib",
@@ -891,41 +693,8 @@
     "volume": "54",
     "number": "9",
     "pages": "1355-1363",
-    "publisher": "Taylor & Francis"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "leger201418",
-    "originalKey": "leger201418",
-    "title": "18 Reproducible and Accurate Automatic Correction of Intensity Non-Uniformity in MRI Data",
-    "authors": "Leger, S and Loeck, S and Hietschold, V and Haase, R and Boehme, HJ and Abolmaali, N",
-    "year": "2014",
-    "venue": "Joint Conference of the SSRMP, DGMP, OeGMP",
-    "pages": "45"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "stutzer201473",
-    "originalKey": "stutzer201473",
-    "title": "73 Characterization of deformation vector fields for the registration of dose distributions in adaptive treatment planning and sequential boost protocols",
-    "authors": "Stuetzer, K and Jakobi, A and Haase, R and Bandurska-Luque, A and Loeck, S and Krause, M and Zoephel, K and Zips, D and Kotzerke, J and Steinbach, J and others",
-    "year": "2014",
-    "venue": "Joint Conference of the SSRMP, DGMP, OeGMP",
-    "pages": "140"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase2014influence",
-    "originalKey": "haase2014influence",
-    "title": "Influence of deformable Image Registration of PET/CT Data on Signal Values wihin a Contour: Deformation on Contours or Image Data?",
-    "authors": "Haase, R and Lohaus, F and Ruehaak, J and van Straaten, D and Zoephel, K and Richter, C",
-    "year": "2014",
-    "venue": "STRAHLENTHERAPIE UND ONKOLOGIE",
-    "volume": "190",
-    "pages": "59-59"
+    "publisher": "Taylor & Francis",
+    "url": "https://doi.org/10.3109/0284186X.2015.1074720"
   },
   {
     "source": "literature.bib",
@@ -935,86 +704,8 @@
     "title": "Optimisation and Validation of a Swarm Intelligence Based Segmentation Algorithm for Low Contrast Positron Emission Tomography",
     "authors": "Haase, Robert",
     "year": "2014",
-    "venue": "Technische Universitaet Dresden"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "bandurska2014po",
-    "originalKey": "bandurska2014po",
-    "title": "PO-0958: Hypoxia in tumor and LN metastases in course of radiochemotherapy of advanced head-and-neck cancers",
-    "authors": "Bandurska-Luque, A and Abolmaali, N and Haase, R and Loeck, S and Zips, D and Zoephel, K and Perrin, R and Richter, C and Krause, M and Baumann, M",
-    "year": "2014",
-    "venue": "Radiotherapy and Oncology",
-    "number": "111",
-    "pages": "S129-S130"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "zschaeck2014stabilitat",
-    "originalKey": "zschaeck2014stabilitat",
-    "title": "Stabilitaet des Hypoxietracers [18 F]-FMISO waehrend sequentieller PET-Untersuchungen bei Patienten mit radiochemotherapierten HNO-Tumoren und Korrelation von funktionellen Tumor-Subvolumina zur Rezidivlokalisation",
-    "authors": "Zschaeck, S and Haase, R and Zoephel, Klaus and Abolmaali, Nasreddin and Perrin, Rosalind and Kotzerke, Joerg and Steinbach, Joerg and Zips, Daniel and Krause, Mechthild and Baumann, Michael",
-    "year": "2014",
-    "venue": "Strahlentherapie und Onkologie"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "zschaeck2014stability",
-    "originalKey": "zschaeck2014stability",
-    "title": "Stability of the Hypoxia Tracer 18F-FMISO during sequential PET-Studies in Patients with radio chemotherapy ENT-Tumors and Correlation of functional Tumor-Subvolumes for Recurrence Localization",
-    "authors": "Zschaeck, S and Haase, R and Zophel, K and Abolmaali, N and Perrin, R and Kotzerke, J and Steinbach, J and Zips, D and Krause, M and Baumann, M",
-    "year": "2014",
-    "venue": "Strahlentherapie und Onkologie",
-    "volume": "190",
-    "pages": "52-52",
-    "publisher": "Urban & Vogel"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "zophel2013fluor",
-    "originalKey": "zophel2013fluor",
-    "title": "Fluor-18-Misonidazol-PET/CT unter kurativ intendierter Radiochemotherapie bei Patienten mit lokal fortgeschrittenen Kopf-Hals-Tumoren (KHT)-eine prospektive Explorationsstudie",
-    "authors": "Zoephel, Klaus and Zips, Daniel and Abolmaali, Nasreddin and Perrin, Rosalind and Abramyuk, Andrij and Haase, R and Appold, S and Steinbach, Joerg and Baumann, Michael and Kotzerke, Joerg",
-    "year": "2013",
-    "venue": "Nuklearmedizin"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "zophel2013publications",
-    "originalKey": "zophel2013publications",
-    "title": "Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf",
-    "authors": "Zoephel, K and Zips, D and Abolmaali, N and Perrin, R and Abramyuk, A and Haase, R and Appold, S and Steinbach, J and Baumann, M and Kotzerke, J",
-    "year": "2013",
-    "venue": "Nuklearmedizin",
-    "volume": "52",
-    "pages": "A52-A53"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase2013segmentation",
-    "originalKey": "haase2013segmentation",
-    "title": "Segmentation of subsequent FMISO-PET before and during radiochemotherapy: Experts versus swarm intelligence",
-    "authors": "Haase, R and Perrin, R and Zoephel, K and Boehme, HJ and Abolmaali, N",
-    "year": "2013",
-    "venue": "EUROPEAN JOURNAL OF CANCER",
-    "volume": "49",
-    "pages": "S246-S246"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase2013swarm",
-    "originalKey": "haase2013swarm",
-    "title": "Swarm intelligence allows automatic volume analysis basing on low contrast [18 F]-fluoromisonidazole-PET of head and neck cancer patients",
-    "authors": "Haase, R and Perrin, R and Zoephel, K and Boehme, H-J and Abolmaali, N and others",
-    "year": "2013",
-    "venue": "European Congress of Radiology-ECR 2013"
+    "venue": "Technische Universitaet Dresden",
+    "url": "https://doi.org/10.5281/zenodo.7209861"
   },
   {
     "source": "literature.bib",
@@ -1028,7 +719,8 @@
     "volume": "105",
     "number": "1",
     "pages": "21-28",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "url": "https://doi.org/10.1016/j.radonc.2012.08.019"
   },
   {
     "source": "literature.bib",
@@ -1039,29 +731,8 @@
     "authors": "Haase, Robert and Boehme, Hans-Joachim and Perrin, Rosalind and Zoephel, Klaus and Abolmaali, Nasreddin",
     "year": "2012",
     "venue": "International Conference on Swarm Intelligence",
-    "pages": "316-323"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "haase2012usefulness",
-    "originalKey": "haase2012usefulness",
-    "title": "Usefulness of voxel-wise Pearson correlation coefficient for reproducibility and repeatability measurements in PET",
-    "authors": "Haase, R and Zoephel, Klaus and Andreeff, Michael and Steinbach, Joerg and Kotzerke, Joerg and Abolmaali, N",
-    "year": "2012",
-    "venue": "Nuklearmedizin"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "abolmaali2011publications",
-    "originalKey": "abolmaali2011publications",
-    "title": "Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf",
-    "authors": "Abolmaali, N and Haase, R and Koch, A and Zips, D and Steinbach, J and Baumann, M and Kotzerke, J and Zoephel, K",
-    "year": "2011",
-    "venue": "Nuklearmedizin",
-    "volume": "50",
-    "pages": "22-27"
+    "pages": "316-323",
+    "url": "https://doi.org/10.1007/978-3-642-32650-9_33"
   },
   {
     "source": "literature.bib",
@@ -1072,7 +743,8 @@
     "authors": "Haase, Robert and Boehme, Hans-Joachim and Zips, Daniel and Abolmaali, Nasreddin",
     "year": "2011",
     "venue": "Annual Conference on Artificial Intelligence",
-    "pages": "111-121"
+    "pages": "111-121",
+    "url": "https://doi.org/10.1007/978-3-642-24455-1_10"
   },
   {
     "source": "literature.bib",
@@ -1086,87 +758,8 @@
     "volume": "50",
     "number": "01",
     "pages": "22-27",
-    "publisher": "Schattauer GmbH"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase2011virtuelle",
-    "originalKey": "haase2011virtuelle",
-    "title": "Virtuelle Ameisen zur Segmentierung von Positronen-Emissions-Tomographie Daten: Auswirkungen auf die Receiver Operating Characteristic",
-    "authors": "Haase, R and Hietschold, V and Andreeff, M and Boehme, HJ and Abolmaali, N",
-    "year": "2011",
-    "venue": "RoeFo-Fortschritte auf dem Gebiet der Roentgenstrahlen und der bildgebenden Verfahren",
-    "volume": "183",
-    "number": "S 01",
-    "pages": "WI_PO2"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase2010new",
-    "originalKey": "haase2010new",
-    "title": "A new segmentation algorithm for low contrast positron emission tomography based on ant colony optimization",
-    "authors": "Haase, Robert and Hietschold, Volker and Andreeff, Michael and Boehme, Hans-Joachim and Abolmaali, Nasreddin",
-    "year": "2010",
-    "venue": "Crossing Borders within the ABC: Automation, Biomedical Engineering and Computer Science",
-    "volume": "55",
-    "pages": "505-510"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "abolmaali2010weit",
-    "originalKey": "abolmaali2010weit",
-    "title": "Wie weit bewegen sich die Schwerpunkte hypoxischer Tumorsubvolumina von HNO-Tumoren unter kombinierter Radiochemotherapie.",
-    "authors": "Abolmaali, Nasreddin and Zoephel, Klaus and Koch, Arne and Haase, R and Steinbach, Joerg and Baumann, Michael",
-    "year": "2010",
-    "venue": "Nuklearmedizin"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "techreport",
-    "key": "henning2009registration",
-    "originalKey": "henning2009registration",
-    "title": "Registration of histological 3D-Data sets and fusion using in vivo MRT",
-    "authors": "Henning, F and Haase, R and Tokalov, S and Just, U and Haase, M and Baumann, M and Abolmaali, N",
-    "year": "2009"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "inproceedings",
-    "key": "haase125",
-    "originalKey": "haase125",
-    "title": "125 Automated lesion contouring in PET: Inter-algorithm-variability is a surrogate for contour accuracy",
-    "authors": "Haase, R and Lohaus, F and Abolmaali, N and Zoephel, K and Kotzerke, J and Krause, M and Baumann, M and Richter, C",
-    "venue": "Joint Conference of the SSRMP, DGMP, OeGMP",
-    "pages": "232"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "davutoglugliding",
-    "originalKey": "davutoglugliding",
-    "title": "Gliding motility of the diatom",
-    "authors": "Davutoglu, Metin G and Geyer, Veikko F and Niese, Lukas and Soltwedel, Johannes R and Zoccoler, Marcelo L and Sabatino, Valeria and Haase, Robert and Kroeger, Nils and Diez, Stefan and Poulsen, Nicole"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "hohlbeinhohlbeinlab",
-    "originalKey": "hohlbeinhohlbeinlab",
-    "title": "HohlbeinLab/OpenMicroscopy",
-    "authors": "Hohlbein, Johannes and Diederich, Benedict and Prakash, Kirti and Shepherd, Doug and Jahr, Wiebke and Tutkus, Marijonas and Smit, Jochem and Haase, Robert and Moore, Josh and Barth, Anders and others",
-    "venue": "Wageningen University & Research",
-    "publisher": "Wageningen University & Research"
-  },
-  {
-    "source": "literature.bib",
-    "entryType": "article",
-    "key": "henningregistration",
-    "originalKey": "henningregistration",
-    "title": "Registration of complete 3D histological tumor datasets with in vivo MRI: first experience",
-    "authors": "Henning, Flora and Haase, Robert and Tokalov, Sergey and Schulze, Thomas and Abolmaali, Nasreddin"
+    "publisher": "Schattauer GmbH",
+    "url": "https://doi.org/10.3413/nukmed-00328-10-07"
   },
   {
     "source": "FocalPlane",
@@ -1283,6 +876,15 @@
     "venue": "BiAPoL Blog",
     "url": "https://biapol.github.io/blog/robert_haase/clesperanto_google_colab"
   },
+  {
+    "source": "BiAPoL Blog",
+    "entryType": "blogpost",
+    "key": "imagej-jyton-ide",
+    "title": "How to develop, deploy and run ImageJ/Fiji scripts and Java plugins within your IDE simultaneously",
+    "authors": "Haase, Robert",
+    "venue": "Blog",
+    "url": "https://haesleinhuepf.github.io/run_jython_scripts_from_ide/"
+  }
   {
     "source": "Cheat Sheet",
     "entryType": "cheatsheet",
