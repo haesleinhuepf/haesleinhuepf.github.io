@@ -4,7 +4,7 @@
     "category": "Generative AI / LLMs",
     "title": "sand-bob",
     "url": "https://haesleinhuepf.github.io/sand-bob/",
-    "description": "AI agents solving data analysis tasks in parallel.",
+    "description": "AI agents solving data analysis tasks in sandboxed environments, parallel and iteratively.",
     "image": "https://github.com/haesleinhuepf/sand-bob/blob/main/docs/alice-teaser-small.gif?raw=true"
   },
   {
@@ -20,8 +20,32 @@
     "category": "Generative AI / LLMs",
     "title": "git-bob",
     "url": "https://github.com/haesleinhuepf/git-bob",
-    "description": "Answering GitHub and GitLab issues.",
+    "description": "AI-agent answering and solving GitHub / GitLab issues.",
     "image": "https://github.com/haesleinhuepf/git-bob/blob/main/docs/images/banner2.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "cli-bob",
+    "url": "https://github.com/haesleinhuepf/cli-bob",
+    "description": "AI-assistant for the terminal.",
+    "image": "https://github.com/haesleinhuepf/cli-bob/raw/main/docs/screenshot1.png"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "mensa-tud-mcp",
+    "description": "Model Context Protocol adapter for the Mensa / Canteen food plan at TU Dresden",
+    "url": "https://github.com/ScaDS/mensa-tud-mcp",
+    "image": "https://github.com/ScaDS/mensa-tud-mcp/raw/main/docs/images/teaser.png"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "zenodo-bluesky-bob",
+    "description": "A bot that runs in the Github CI and posts on Bluesky semi-automatically, whenever a new record has be published in a Zenodo community.",
+    "url": "https://github.com/haesleinhuepf/zenodo-bluesky-bob"
+
   },
   {
     "type": "software",
@@ -44,7 +68,7 @@
     "category": "Generative AI / LLMs",
     "title": "unprompted",
     "url": "https://github.com/haesleinhuepf/unprompted",
-    "description": "Feedback and suggestions in Jupyter Notebooks.",
+    "description": "AI-generated feedback and suggestions you did not ask for in Jupyter Notebooks.",
     "image": "https://github.com/haesleinhuepf/unprompted/raw/main/docs/images/teaser.gif?raw=true"
   },
   {
@@ -52,7 +76,7 @@
     "category": "Generative AI / LLMs",
     "title": "bluesky-bob",
     "url": "https://github.com/haesleinhuepf/bluesky-bob",
-    "description": "Answer posts on Bluesky automatically.",
+    "description": "AI-agent answering posts on Bluesky automatically.",
     "image": "https://github.com/haesleinhuepf/bluesky-bob/blob/main/bluesky-teaser.png?raw=true"
   },
   {
@@ -60,7 +84,7 @@
     "category": "Generative AI / LLMs",
     "title": "outlook-bob",
     "url": "https://github.com/haesleinhuepf/outlook-bob",
-    "description": "Answer emails.",
+    "description": "Answer emails with LLM-support.",
     "image": "https://github.com/haesleinhuepf/outlook-bob/raw/main/docs/images/outlook_screenshot1.png?raw=true"
   },
   {
@@ -68,7 +92,7 @@
     "category": "Generative AI / LLMs",
     "title": "screenshot-question-answerer",
     "url": "https://github.com/haesleinhuepf/screenshot-question-answerer",
-    "description": "Answer questions visible on screen.",
+    "description": "A GUI to make vision-language models answer questions visible on your screen.",
     "image": "https://github.com/haesleinhuepf/screenshot-question-answerer/blob/main/docs/demo.gif?raw=true"
   },
   {
@@ -84,7 +108,7 @@
     "category": "Generative AI / LLMs",
     "title": "story-writer",
     "url": "https://github.com/haesleinhuepf/story-writer",
-    "description": "Writing stories for kids, including pictures.",
+    "description": "AI-generating stories for kids, including pictures.",
     "image": "https://github.com/haesleinhuepf/story-writer/raw/main/docs/images/teaser1.png?raw=true"
   },
   {
@@ -92,7 +116,7 @@
     "category": "Generative AI / LLMs",
     "title": "vlm-pictionary",
     "url": "https://github.com/haesleinhuepf/vlm-pictionary",
-    "description": "AI playing Pictionary.",
+    "description": "Vision language models playing Pictionary against each other.",
     "image": "https://github.com/haesleinhuepf/vlm-pictionary/raw/main/demo.gif?raw=true"
   },
   {
@@ -108,7 +132,7 @@
     "category": "Bio-image analysis",
     "title": "stackview",
     "url": "https://github.com/haesleinhuepf/stackview",
-    "description": "Interactive image visualization in Jupyter.",
+    "description": "Interactive image [stack] visualization in Jupyter.",
     "image": "https://raw.githubusercontent.com/haesleinhuepf/stackview/main/docs/images/banner2.gif?raw=true"
   },
   {
@@ -116,7 +140,7 @@
     "category": "GPU-accelerated image processing",
     "title": "pyclesperanto_prototype",
     "url": "https://github.com/clEsperanto/pyclesperanto_prototype",
-    "description": "GPU-accelerated image processing in Python.",
+    "description": "GPU-accelerated image processing in Python (deprecated).",
     "image": "https://github.com/clEsperanto/pyclesperanto_prototype/raw/master/docs/images/banner.png"
   },
   {
@@ -132,7 +156,7 @@
     "category": "GPU-accelerated image processing",
     "title": "CLIJ",
     "url": "https://clij.github.io",
-    "description": "GPU-accelerated image processing in ImageJ.",
+    "description": "GPU-accelerated image processing in ImageJ and Java.",
     "image": "https://clij.github.io/images/clij25.gif"
   },
   {
@@ -183,11 +207,19 @@
   },
   {
     "type": "software",
-    "category": "Generative AI / LLMs",
-    "title": "cli-bob",
-    "url": "https://github.com/haesleinhuepf/cli-bob",
-    "description": "AI-assistant for the terminal.",
-    "image": "https://github.com/haesleinhuepf/cli-bob/raw/main/docs/screenshot1.png"
+    "category": "Bio-image analysis",
+    "title": "napari-workflow-inspector",
+    "url": "https://github.com/haesleinhuepf/napari-workflow-inspector",
+    "description": "Inspect and visualize napari workflows.",
+    "image": "https://github.com/haesleinhuepf/napari-workflow-inspector/raw/main/docs/screenshot_script_editor.png"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-workflow-optimizer",
+    "url": "https://github.com/haesleinhuepf/napari-workflow-optimizer",
+    "description": "Optimize parameters of bio-image analysis workflows in napari automatically.",
+    "image": "https://github.com/haesleinhuepf/napari-workflow-optimizer/raw/main/docs/screenshot1_start_raw.png"
   },
   {
     "type": "software",

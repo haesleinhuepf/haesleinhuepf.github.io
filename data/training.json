@@ -1,5 +1,25 @@
 [
   {
+    "year": 2024,
+    "title": "Bio-image Analysis Notebooks",
+    "links": [
+      {
+        "label": "Materials",
+        "url": "https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Generative Artificial Intelligence Notebooks",
+    "links": [
+      {
+        "label": "Materials",
+        "url": "https://scads.github.io/generative-ai-notebooks/intro.html"
+      }
+    ]
+  },
+  {
     "year": 2026,
     "title": "Navigating in Latent Space and Retrieval-Augmented Generation",
     "venue": "ScaDS.AI Summer School 2026 on Neuro+Symbolic AI",
