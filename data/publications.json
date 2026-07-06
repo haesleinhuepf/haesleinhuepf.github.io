@@ -1,6 +1,6 @@
 [
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "wetzker2026fluorescence",
     "originalKey": "wetzker2026fluorescence",
@@ -14,7 +14,7 @@
     "url": "https://doi.org/10.1111/jmi.70036"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "corbat2026globias",
     "originalKey": "corbat2026globias",
@@ -27,7 +27,7 @@
     "url": "https://doi.org/10.1038/s41592-026-03060-7"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "saraiva2025efficiently",
     "originalKey": "saraiva2025efficiently",
@@ -42,7 +42,7 @@
     "url": "https://www.nature.com/articles/s41592-024-02562-6"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "fazeli2025cells",
     "originalKey": "fazeli2025cells",
@@ -56,7 +56,7 @@
     "url": "https://doi.org/10.1111/jmi.70021"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "joas2025leveraging",
     "originalKey": "joas2025leveraging",
@@ -70,8 +70,8 @@
     "url": "https://doi.org/10.3389/fcomp.2025.1562358"
   },
   {
-    "source": "literature.bib",
-    "entryType": "article",
+    "source": "Google Scholar",
+    "entryType": "preprint",
     "key": "girstmair2025mastodon",
     "originalKey": "girstmair2025mastodon",
     "title": "Mastodon: the Command Center for Large-Scale Lineage-Tracing Microscopy Datasets",
@@ -83,7 +83,7 @@
     "url": "https://doi.org/10.64898/2025.12.10.693416"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "ferme2025timely",
     "originalKey": "ferme2025timely",
@@ -98,7 +98,7 @@
     "url": "https://doi.org/10.1126/sciadv.adu6843"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2025towards",
     "originalKey": "haase2025towards",
@@ -113,8 +113,8 @@
     "url": "https://doi.org/10.1038/s43588-025-00781-1"
   },
   {
-    "source": "literature.bib",
-    "entryType": "article",
+    "source": "Google Scholar",
+    "entryType": "preprint",
     "key": "joas2025zero",
     "originalKey": "joas2025zero",
     "title": "Zero-Shot, Big-Shot, Active-Shot-How to estimate cell confluence, lazily",
@@ -126,8 +126,8 @@
     "url": "https://www.biorxiv.org/content/10.1101/2025.01.17.633501v1"
   },
   {
-    "source": "literature.bib",
-    "entryType": "article",
+    "source": "Google Scholar",
+    "entryType": "preprint",
     "key": "haase2024call",
     "originalKey": "haase2024call",
     "title": "A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis",
@@ -136,7 +136,7 @@
     "url": "https://osf.io/preprints/osf/2zgmc"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "lange2024multimodal",
     "originalKey": "lange2024multimodal",
@@ -151,7 +151,7 @@
     "url": "https://doi.org/10.1016/j.cell.2024.09.047"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "seidemann2024automated",
     "originalKey": "seidemann2024automated",
@@ -165,8 +165,8 @@
     "url": "https://doi.org/10.3389/fnmol.2024.1398447"
   },
   {
-    "source": "literature.bib",
-    "entryType": "article",
+    "source": "Google Scholar",
+    "entryType": "preprint",
     "key": "haase2024benchmarking",
     "originalKey": "haase2024benchmarking",
     "title": "Benchmarking large language models for bio-image analysis code generation",
@@ -178,7 +178,7 @@
     "url": "https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "soltwedel2024challenges",
     "originalKey": "soltwedel2024challenges",
@@ -192,7 +192,7 @@
     "url": "https://onlinelibrary.wiley.com/doi/10.1111/jmi.13192"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "davutoglu2024gliding-2",
     "originalKey": "davutoglu2024gliding",
@@ -207,7 +207,7 @@
     "url": "https://doi.org/10.1038/s42003-024-06889-w"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "sorensen2024gut",
     "originalKey": "sorensen2024gut",
@@ -222,7 +222,7 @@
     "url": "https://doi.org/10.1242/jcs.261950"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "maier2024metrics",
     "originalKey": "maier2024metrics",
@@ -237,7 +237,7 @@
     "url": "https://doi.org/10.1038/s41592-023-02151-z"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "cimini2024crucial",
     "originalKey": "cimini2024crucial",
@@ -252,7 +252,7 @@
     "url": "https://doi.org/10.1242/jcs.262322"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "sadier2023bat",
     "originalKey": "sadier2023bat",
@@ -267,7 +267,7 @@
     "url": "https://doi.org/10.1038/s41467-023-40158-4"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "zhang2023bio",
     "originalKey": "zhang2023bio",
@@ -278,7 +278,7 @@
     "url": "https://arxiv.org/abs/2312.11256"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "soltwedel2023slice2volume",
     "originalKey": "soltwedel2023slice2volume",
@@ -292,7 +292,7 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0167814023001299"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2022hitchhiker",
     "originalKey": "haase2022hitchhiker",
@@ -306,7 +306,7 @@
     "url": "https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "incollection",
     "key": "vorkel2022gpu",
     "originalKey": "vorkel2022gpu",
@@ -319,7 +319,7 @@
     "url": "https://doi.org/10.1007/978-3-030-76394-7_5"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "arzt2022labkit",
     "originalKey": "arzt2022labkit",
@@ -333,7 +333,7 @@
     "url": "https://doi.org/10.3389/fcomp.2022.777728"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "schlaeppi2022meeting",
     "originalKey": "schlaeppi2022meeting",
@@ -347,7 +347,7 @@
     "url": "https://doi.org/10.3389/fbinf.2022.889755"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "hohlbein2022open",
     "originalKey": "hohlbein2022open",
@@ -362,7 +362,7 @@
     "url": "https://www.nature.com/articles/s41592-022-01602-3"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "subramanian2022rna",
     "originalKey": "subramanian2022rna",
@@ -376,7 +376,7 @@
     "url": "https://doi.org/10.1002/hep.32153"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "girstmair2022time",
     "originalKey": "girstmair2022time",
@@ -390,7 +390,7 @@
     "url": "https://doi.org/10.1002/adbi.202101182"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "levet2021developing",
     "originalKey": "levet2021developing",
@@ -403,7 +403,7 @@
     "url": "https://doi.org/10.12688/f1000research.52531.1"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "martins2021highlights",
     "originalKey": "martins2021highlights",
@@ -416,7 +416,7 @@
     "url": "https://f1000research.com/articles/10-334"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2021image",
     "originalKey": "haase2021image",
@@ -429,7 +429,7 @@
     "url": "https://doi.org/10.3389/fcomp.2021.774396"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "blogpost",
     "key": "haase2021fiji",
     "originalKey": "haase2021fiji",
@@ -442,7 +442,7 @@
     "url": "https://analyticalscience.wiley.com/content/article-do/fiji-updater"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2020clij",
     "originalKey": "haase2020clij",
@@ -457,7 +457,7 @@
     "url": "https://www.nature.com/articles/s41592-019-0650-1"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "butof2020dose",
     "originalKey": "butof2020dose",
@@ -471,7 +471,7 @@
     "url": "https://doi.org/10.1016/j.radonc.2019.11.002"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "kaptan2020exogenous",
     "originalKey": "kaptan2020exogenous",
@@ -485,7 +485,7 @@
     "url": "https://doi.org/10.1111/acel.13214"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "suckert2020high",
     "originalKey": "suckert2020high",
@@ -499,8 +499,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2020.02.023"
   },
   {
-    "source": "literature.bib",
-    "entryType": "article",
+    "source": "Google Scholar",
+    "entryType": "preprint",
     "key": "haase2020interactive",
     "originalKey": "haase2020interactive",
     "title": "Interactive design of GPU-accelerated image data flow graphs and cross-platform deployment using multi-lingual code generation",
@@ -512,7 +512,7 @@
     "url": "https://www.biorxiv.org/content/10.1101/2020.11.19.386565v1"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "jain2020regionalized",
     "originalKey": "jain2020regionalized",
@@ -527,7 +527,7 @@
     "url": "https://doi.org/10.1038/s41467-020-19356-x"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "weigert2020star",
     "originalKey": "weigert2020star",
@@ -539,7 +539,7 @@
     "url": "https://arxiv.org/abs/1908.03636"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "viktorinova2019analysis",
     "originalKey": "viktorinova2019analysis",
@@ -552,7 +552,7 @@
     "url": "https://dx.doi.org/10.3791/58587"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "bandurska2019correlation",
     "originalKey": "bandurska2019correlation",
@@ -566,7 +566,7 @@
     "url": "https://doi.org/10.1016/j.ctro.2019.02.002"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "bandurska2019fmiso",
     "originalKey": "bandurska2019fmiso",
@@ -580,7 +580,7 @@
     "url": "https://doi.org/10.1016/j.radonc.2018.09.008"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "zschaeck2017fdg",
     "originalKey": "zschaeck2017fdg",
@@ -595,7 +595,7 @@
     "url": "https://doi.org/10.1016/j.radonc.2017.01.019"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "leger2017physical",
     "originalKey": "leger2017physical",
@@ -609,7 +609,7 @@
     "url": "https://doi.org/10.1016/j.phro.2017.11.003"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "stutzer2016evaluation",
     "originalKey": "stutzer2016evaluation",
@@ -624,7 +624,7 @@
     "url": "https://doi.org/10.1118/1.4960366"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2016reliability",
     "originalKey": "haase2016reliability",
@@ -637,7 +637,7 @@
     "url": "https://doi.org/10.1007/978-3-662-49651-0_9"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "tillner2016precise",
     "originalKey": "tillner2016precise",
@@ -652,7 +652,7 @@
     "url": "https://doi.org/10.1088/0031-9155/61/8/3084"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "jakobi2015identification",
     "originalKey": "jakobi2015identification",
@@ -667,7 +667,7 @@
     "url": "https://doi.org/10.1016/j.ijrobp.2015.04.031"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "jakobi2015ntcp",
     "originalKey": "jakobi2015ntcp",
@@ -682,7 +682,7 @@
     "url": "https://doi.org/10.3109/0284186X.2015.1071920"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "zschaeck2015spatial",
     "originalKey": "zschaeck2015spatial",
@@ -697,7 +697,7 @@
     "url": "https://doi.org/10.3109/0284186X.2015.1074720"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "phdthesis",
     "key": "haase2014optimisation",
     "originalKey": "haase2014optimisation",
@@ -708,7 +708,7 @@
     "url": "https://doi.org/10.5281/zenodo.7209861"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "zips2012exploratory",
     "originalKey": "zips2012exploratory",
@@ -723,7 +723,7 @@
     "url": "https://doi.org/10.1016/j.radonc.2012.08.019"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "haase2012self",
     "originalKey": "haase2012self",
@@ -735,7 +735,7 @@
     "url": "https://doi.org/10.1007/978-3-642-32650-9_33"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "haase2011swarm",
     "originalKey": "haase2011swarm",
@@ -747,7 +747,7 @@
     "url": "https://doi.org/10.1007/978-3-642-24455-1_10"
   },
   {
-    "source": "literature.bib",
+    "source": "Google Scholar",
     "entryType": "article",
     "key": "abolmaali2011two",
     "originalKey": "abolmaali2011two",
