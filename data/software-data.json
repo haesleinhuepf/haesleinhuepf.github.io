@@ -144,22 +144,115 @@
     "image": "https://github.com/haesleinhuepf/apoc/raw/main/docs/graphical_abstract.png?raw=true"
   },
   {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "docx2markdown",
+    "url": "https://github.com/haesleinhuepf/docx2markdown",
+    "description": "Convert docx files to markdown and back."
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "devbio-napari",
+    "url": "https://github.com/haesleinhuepf/devbio-napari",
+    "description": "Distribution of napari plugins for bio-image analysis."
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "embeddoor",
+    "url": "https://github.com/haesleinhuepf/embeddoor",
+    "description": "Embedding-based search and exploration in tabular data, texts and images.",
+    "image": "https://github.com/haesleinhuepf/embeddoor/raw/main/docs/images/embeddoor-teaser.gif"
+  },
+  {
+    "type": "software",
+    "category": "Productivity",
+    "title": "pdf2gif",
+    "url": "https://github.com/haesleinhuepf/pdf2gif",
+    "description": "Convert PDF files to animated GIFs.",
+    "image": "https://github.com/haesleinhuepf/pdf2gif/raw/main/docs/images/sendto.png"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "bia-bubbles",
+    "url": "https://github.com/haesleinhuepf/bia-bubbles",
+    "description": "A game for playing with bio-image analysis workflow steps in bubbles.",
+    "image": "https://github.com/haesleinhuepf/bia-bubbles/raw/main/docs/teaser.gif"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "cli-bob",
+    "url": "https://github.com/haesleinhuepf/cli-bob",
+    "description": "AI-assistant for the terminal.",
+    "image": "https://github.com/haesleinhuepf/cli-bob/raw/main/docs/screenshot1.png"
+  },
+  {
+    "type": "software",
+    "category": "Productivity",
+    "title": "translate-pptx",
+    "url": "https://github.com/haesleinhuepf/translate-pptx",
+    "description": "LLM-asssited translation of PowerPoint presentations between languages.",
+    "image": "https://github.com/haesleinhuepf/translate-pptx/raw/main/docs/images/banner.png"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-segment-blobs-and-things-with-membranes",
+    "url": "https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes",
+    "description": "Napari plugin for segmenting blob- and membrane-like structures.",
+    "image": "https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes/raw/main/docs/tools_menu_screenshot.png"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "the-segmentation-game",
+    "url": "https://github.com/haesleinhuepf/the-segmentation-game",
+    "description": "Interactive game for learning image segmentation quality metrics.",
+    "image": "https://raw.githubusercontent.com/haesleinhuepf/the-segmentation-game/refs/heads/main/images/screencast.gif"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-workflow-inspector",
+    "url": "https://github.com/haesleinhuepf/napari-workflow-inspector",
+    "description": "Inspect and visualize napari workflows.",
+    "image": "https://github.com/haesleinhuepf/the-segmentation-game/blob/main/images/screencast.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "natari",
+    "url": "https://github.com/haesleinhuepf/natari",
+    "description": "Arcade-style games for the napari platform.",
+    "image": "https://github.com/haesleinhuepf/natari/blob/master/images/cell_counting_arcade.gif?raw=true"
+  },
+  { "type": "software",
+    "category": "Bio-image analysis",
+    "title": "IJMMD",
+    "url": "https://github.com/haesleinhuepf/imagejmacromarkdown",
+    "description": "Write ImageJ macros and Markdown interleaved to create notebooks.",
+    "image": "https://github.com/haesleinhuepf/imagejmacromarkdown/raw/master/images/screenshot.png"
+  },
+  {
     "type": "data",
-    "category": "Weather and environment",
+    "category": "Open data",
     "title": "DWD Rainfall data",
     "url": "https://huggingface.co/datasets/haesleinhuepf/dwd_precipitation_july2026",
     "description": "Rainfall data from the German Weather Service."
   },
   {
     "type": "data",
-    "category": "Weather and environment",
+    "category": "Open data",
     "title": "DWD Air temperature data",
     "url": "https://huggingface.co/datasets/haesleinhuepf/dwd_temperature_july2026",
     "description": "Air temperature data from the German Weather Service."
   },
   {
     "type": "data",
-    "category": "Bio-image analysis",
+    "category": "Open data",
     "title": "Bio Image Analysis Question and Answers",
     "url": "https://huggingface.co/datasets/haesleinhuepf/bio-image-analysis-qa",
     "description": "Question-answer data for bio-image analysis."
@@ -187,7 +280,7 @@
   },
   {
     "type": "data",
-    "category": "Training data",
+    "category": "Open data",
     "title": "NFDI4BioImage Training Materials",
     "url": "https://github.com/nfDI4BIOIMAGE/training",
     "description": "Open training materials for bio-image data management and analysis.",
@@ -195,28 +288,28 @@
   },
   {
     "type": "data",
-    "category": "Microscopy",
+    "category": "Open data",
     "title": "Tribolium castaneum embryo development",
     "url": "https://zenodo.org/record/5837363",
     "description": "Lightsheet microscopy recording of Tribolium embryo development."
   },
   {
     "type": "data",
-    "category": "Microscopy",
+    "category": "Open data",
     "title": "Example data for napari-pyclesperanto-assistant",
     "url": "https://zenodo.org/record/5090508",
     "description": "Example data for napari and pyclesperanto workflows."
   },
   {
     "type": "data",
-    "category": "Microscopy",
+    "category": "Open data",
     "title": "Strausberg_Tribolium_LA-GFP_tailpole_run",
     "url": "https://zenodo.org/record/3981193",
     "description": "Tribolium microscopy example dataset."
   },
   {
     "type": "data",
-    "category": "Microscopy",
+    "category": "Open data",
     "title": "Example Data for clesperanto",
     "url": "https://github.com/clEsperanto/clesperanto_example_data",
     "description": "Example data for GPU-accelerated image processing with clesperanto."
