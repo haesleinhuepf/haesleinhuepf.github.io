@@ -1,5 +1,13 @@
 [
   {
+    "type":"software",
+    "description":"Generative AI / LLMs",
+    "title":"reviewer3",
+    "url":"https://github.com/haesleinhuepf/reviewer3/",
+    "description": "A command line tool that uses LLMs to give constructive feedback about scientific .docx manuscripts.",
+    "image": "https://github.com/haesleinhuepf/reviewer3/raw/main/docs/images/screenshot.png?raw=true"
+  },
+  {
     "type": "software",
     "category": "Generative AI / LLMs",
     "title": "sand-bob",
