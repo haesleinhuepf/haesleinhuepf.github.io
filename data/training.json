@@ -1031,6 +1031,42 @@
   },
   {
     "year": 2023,
+    "title": "Generative Artificial Intelligence for Bio-image Analysis",
+    "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119571.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-971.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Quality assurance for GPU-accelerated bio-image analysis",
+    "venue": "Microscience Microscopy Congress, 2023",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://f1000research.com/slides/12-778"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-778.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Quantitative Bio-image Data Analysis in the age of Machine Learning",
+    "venue": "Lecture in Advanced Methods & Human Cell Technologies, CMCB, TU Dresden",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119447.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-597.png?raw=true"
+  },
+  {
+    "year": 2023,
     "title": "PoL Bio-Image Analysis Training Schools",
     "venue": "Dresden",
     "links": [
@@ -1056,8 +1092,89 @@
       {
         "label": "Materials",
         "url": "https://biapol.github.io/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis/intro.html"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119443.1"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119440.1"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119429.1"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119427.1"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-563.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Generative artificial intelligence: foundations, applications and implications",
+    "venue": "Interview seminar, ScaDS.AI, Leipzig University",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119413.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-519.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Challenges and opportunities for bio-image analysis core-facilities",
+    "venue": "PoL Bio-image Analysis Symposium",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119605.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia-facilities-2023.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Bio-image analysis using Napari and Python",
+    "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119574.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-972.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
+    "venue": "CMCB, TU Dresden",
+    "links": [
+      {
+        "label": "Materials",
+        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2023.07.17"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
+  },
+  {
+    "year": 2022,
+    "title": "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing",
+    "venue": "NEUBIAS Defragmentation Training School, 2022",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://eubias.org/NEUBIAS/training-schools/neubias-academy-home/defragmentation-training-school-2022/"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119154.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-11-1171.png?raw=true"
   },
   {
     "year": 2022,
@@ -1072,7 +1189,7 @@
   },
   {
     "year": 2022,
-    "title": "3D Image Data Science with open tools & CLIJ crash course",
+    "title": "3D Image Data Science with open tools, IT Infrastructure, CLIJ crash course",
     "venue": "EMBO Practical Course on Lightsheet Microscopy, CEITEC Brno",
     "links": [
       {
@@ -1082,21 +1199,57 @@
       {
         "label": "Slides",
         "url": "https://f1000research.com/slides/11-946"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119089.1"
+      },
+      {
+        "label": "Slides",
+        "url": "https://f1000research.com/slides/11-963"
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/3d-image-data-science.png?raw=true"    
   },
   {
-    "year": 2021,
-    "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
-    "venue": "CMCB, TU Dresden",
+    "year": 2022,
+    "title": "Tracking cells in microscopy image data",
+    "venue": "EMBO Course on 3D Developmental Imaging 2022",
     "links": [
       {
-        "label": "Materials",
-        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03"
+        "label": "Website",
+        "url": "https://meetings.embo.org/event/22-3d-dev-imaging"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119025.1"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-11-744.png?raw=true"
+  },
+  {
+    "year": 2022,
+    "title": "Advanced bio-image analysis, image data science & AI",
+    "venue": "6th European Zebrafish PI Meeting 2022",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118937.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-11-373.png?raw=true"
+  },
+  {
+    "year": 2022,
+    "title": "Customizing ImageJ/Fiji using ImageJ Macro",
+    "venue": "Image analysis and data processing in the super-resolution microscopy, Charles Uni Prague",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119102.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-11-973.png?raw=true"
   },
   {
     "year": 2022,
@@ -1111,13 +1264,73 @@
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
   },
   {
-    "year": 2023,
+    "year": 2021,
+    "title":"Object tracking in images", 
+    "venue": "Seminar at HZDR Dresden",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118797.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-962.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "Interactive Data Visualization 101 with Fiji & Friends",
+    "venue": "HIP Summer School (Virtual Meeting), 2021",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118801.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-978.png?raw=true"
+  },
+  {
+    "year": 2021,  
+    "title": "Quantitative Bio-image Analysis",
+    "venue": "DIGS BB Course Principles of Light Microscopy, 2021",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118789.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-934.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "GPU-accelerated bio-image analysis focusing on processing segmented images",
+    "venue": "LS2 Switzerland Webinar 2021",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118625.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-610.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "User friendly GPU-accelerated bio-image analysis beyond cell segmentation",
+    "venue": "PSB Symposium Frontiers in Bioimaging",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118582.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-530.png?raw=true"
+  },
+  {
+    "year": 2021,
     "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
     "venue": "CMCB, TU Dresden",
     "links": [
       {
         "label": "Materials",
-        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2023.07.17"
+        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03"
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
@@ -1137,6 +1350,46 @@
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/fiji-napari.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "ImageJ Macro Programming",
+    "venue": "The Centre for Cellular Imaging - Courses 2021, Uni Gothenburg",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118812.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-1000.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "Sharing and licensing material",
+    "venue": "EMBO Workshop on Advanced Methods in Bio-image Analysis, 2021",
+    "links":  [
+      {
+        "label": "Website",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/bia21-01/"
+      },
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118579.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-519.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "On-the-fly image processing with Python and napari",
+    "venue": "Smart Microscopy Workshop - Image analysis to improve remote image acquisition, 2021, Uni Gothenburg",
+    "links":[
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1118558.1"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-10-390.png?raw=true"
   },
   {
     "year": 2020,
