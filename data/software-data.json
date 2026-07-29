@@ -42,14 +42,6 @@
   {
     "type": "software",
     "category": "Generative AI / LLMs",
-    "title": "svg-vision-reflection",
-    "url": "https://github.com/haesleinhuepf/svg-vision-reflection/",
-    "description": "A small Python library that generates SVG images from text prompts using an OpenAI-compatible LLM, and iteratively refines them by feeding the rendered PNG back to the model (vision-based reflection).",
-    "image": "https://github.com/haesleinhuepf/svg-vision-reflection/raw/main/docs/images/demo.gif?raw=true"
-  },
-  {
-    "type": "software",
-    "category": "Generative AI / LLMs",
     "title": "mensa-tud-mcp",
     "description": "Model Context Protocol adapter for the Mensa / Canteen food plan at TU Dresden",
     "url": "https://github.com/ScaDS/mensa-tud-mcp",
