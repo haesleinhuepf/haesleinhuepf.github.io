@@ -1,7 +1,7 @@
 [
   {
     "type":"software",
-    "description":"Generative AI / LLMs",
+    "category":"Generative AI / LLMs",
     "title":"reviewer3",
     "url":"https://github.com/haesleinhuepf/reviewer3/",
     "description": "A command line tool that uses LLMs to give constructive feedback about scientific .docx manuscripts.",
@@ -38,6 +38,14 @@
     "url": "https://github.com/haesleinhuepf/cli-bob",
     "description": "AI-assistant for the terminal.",
     "image": "https://github.com/haesleinhuepf/cli-bob/raw/main/docs/screenshot1.png"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "svg-vision-reflection",
+    "url": "https://github.com/haesleinhuepf/svg-vision-reflection/",
+    "description": "A small Python library that generates SVG images from text prompts using an OpenAI-compatible LLM, and iteratively refines them by feeding the rendered PNG back to the model (vision-based reflection).",
+    "image": "https://github.com/haesleinhuepf/svg-vision-reflection/raw/main/docs/images/demo.gif?raw=true"
   },
   {
     "type": "software",
@@ -170,10 +178,34 @@
   {
     "type": "software",
     "category": "GPU-accelerated image processing",
+    "description": "clicy is a bridge between Icy and clij.",
+    "title": "clicy",
+    "url": "https://github.com/clij/clicy/",
+    "image": "https://github.com/clij/clicy/raw/master/images/clicy-screenshot.png"
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "description": "clatlab is a bridge between MATLAB and clij.",
+    "title": "clatlab",
+    "url": "https://github.com/clij/clatlab/",
+    "image": "https://github.com/clij/clatlab/raw/master/images/clablab-screenshot.png"
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
     "title": "APOC",
     "url": "https://github.com/haesleinhuepf/apoc",
     "description": "GPU-accelerated pixel and object classification in Python.",
     "image": "https://github.com/haesleinhuepf/apoc/raw/main/docs/graphical_abstract.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "GPU-accelerated image processing",
+    "title": "clijx-accelerated-pixel-and-object-classification",
+    "description": "GPU-accelerated pixel and object classification in ImageJ.",
+    "url": "https://github.com/clij/clijx-accelerated-pixel-and-object-classification",
+    "image": "https://github.com/clij/clijx-accelerated-pixel-and-object-classification/raw/main/docs/screenshot.png"
   },
   {
     "type": "software",
@@ -212,6 +244,14 @@
     "url": "https://github.com/haesleinhuepf/bia-bubbles",
     "description": "A game for playing with bio-image analysis workflow steps in bubbles.",
     "image": "https://github.com/haesleinhuepf/bia-bubbles/raw/main/docs/teaser.gif"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-assistant",
+    "description": "The napari-assistant is a napari meta-plugin for building image processing workflows.",
+    "url": "https://github.com/haesleinhuepf/napari-assistant",
+    "image": "https://github.com/haesleinhuepf/napari-assistant/raw/main/docs/napari-assistant-screenshot.png"
   },
   {
     "type": "software",
@@ -268,6 +308,54 @@
     "url": "https://github.com/haesleinhuepf/natari",
     "description": "Arcade-style games for the napari platform.",
     "image": "https://github.com/haesleinhuepf/natari/blob/master/images/cell_counting_arcade.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-folder-browser", 
+    "description": "A napari plugin for browsing and opening images from folders.",
+    "url": "https://github.com/haesleinhuepf/napari-folder-browser/",
+    "image": "https://github.com/haesleinhuepf/napari-folder-browser/raw/main/docs/napari-folder-browser.gif"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-brightness-contrast",
+    "description": "A napari plugin for adjusting brightness and contrast of images.",
+    "url": "https://github.com/haesleinhuepf/napari-brightness-contrast/",
+    "image": "https://github.com/haesleinhuepf/napari-brightness-contrast/raw/main/docs/images/napari-brightness-contrast3.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Bio-image analysis",
+    "title": "napari-accelerated-pixel-and-object-classification",
+    "description": "clesperanto meets scikit-learn to classify pixels and objects in images, on a GPU using OpenCL in napari.",
+    "url": "https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification/",
+    "image": "https://github.com/haesleinhuepf/napari-accelerated-pixel-and-object-classification/raw/main/images/screencast.gif"
+  },
+  {
+    "type": "software",
+    "category": "Productivity",
+    "title": "napari-owncloud",
+    "description": "A napari plugin for browsing and opening images from ownCloud.",
+    "url": "https://github.com/haesleinhuepf/napari-owncloud/",
+    "image": "https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/login.png"
+  },
+  {
+    "type": "software",
+    "category": "Productivity",
+    "title": "touch-stage",
+    "url": "https://github.com/haesleinhuepf/touch-stage",
+    "description": "Push around images on a touch screen.",
+    "image": "https://github.com/haesleinhuepf/touch-stage/raw/main/docs/images/touch-stage.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Productivity",
+    "title": "extend-macro-autocompletion",
+    "description": "Extending ImageJ Macro auto completion in Fijis script editor",
+    "url": "https://github.com/haesleinhuepf/extend-macro-autocompletion/",
+    "image": "https://github.com/haesleinhuepf/extend-macro-autocompletion/raw/master/images/custom_autocomplete_screenshot.png"
   },
   { "type": "software",
     "category": "Bio-image analysis",
