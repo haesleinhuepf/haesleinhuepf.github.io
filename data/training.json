@@ -7,7 +7,8 @@
         "label": "Materials",
         "url": "https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia-book.png?raw=true"
   },
   {
     "year": 2025,
@@ -17,7 +18,8 @@
         "label": "Materials",
         "url": "https://scads.github.io/generative-ai-notebooks/intro.html"
       }
-    ]
+    ],
+    "image":"https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/genai-book.png?raw=true"
   },
   {
     "year": 2026,
@@ -1021,19 +1023,12 @@
   {
     "year": 2023,
     "title": "Generative Artificial Intelligence for Bio-image Analysis",
-    "venue": "I2K2023 Tutorial",
+    "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
     "links": [
       {
         "label": "Video",
         "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"
-      }
-    ]
-  },
-  {
-    "year": 2023,
-    "title": "Generative Artificial Intelligence for Bio-image Analysis",
-    "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
-    "links": [
+      },
       {
         "label": "Slides",
         "url": "https://doi.org/10.7490/f1000research.1119571.1"
@@ -1185,7 +1180,8 @@
         "label": "Slides",
         "url": "https://biapol.github.io/Image-data-science-with-Python-and-Napari-EPFL2022/intro.html"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/epfl2022.png?raw=true"
   },
   {
     "year": 2022,
