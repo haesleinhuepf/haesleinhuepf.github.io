@@ -424,13 +424,42 @@ Humboldtstrasse 25
       return JSON.parse(await response.text());
     }
 
-    function activateTab(button) {
+    function updateUrl() {
+      const url = new URL(window.location.href);
+      const activeTab = document.querySelector('.tab-button[aria-selected="true"]');
+      const panelId = activeTab?.getAttribute("aria-controls");
+      const searchInputs = {
+        open: "openSearch",
+        training: "trainingSearch",
+        publications: "publicationSearch"
+      };
+      const query = searchInputs[panelId]
+        ? document.getElementById(searchInputs[panelId]).value.trim()
+        : "";
+
+      if (panelId && panelId !== "profile") {
+        url.searchParams.set("tab", panelId);
+      } else {
+        url.searchParams.delete("tab");
+      }
+      if (query) {
+        url.searchParams.set("search", query);
+      } else {
+        url.searchParams.delete("search");
+      }
+      window.history.replaceState(null, "", url);
+    }
+
+    function activateTab(button, updateAddress = true) {
       document.querySelectorAll(".tab-button").forEach((tab) => {
         tab.setAttribute("aria-selected", String(tab === button));
       });
       document.querySelectorAll(".tab-panel").forEach((panel) => {
         panel.classList.toggle("active", panel.id === button.getAttribute("aria-controls"));
       });
+      if (updateAddress) {
+        updateUrl();
+      }
     }
 
     function renderOpenItems() {
@@ -510,9 +539,34 @@ Humboldtstrasse 25
       button.addEventListener("click", () => activateTab(button));
     });
 
-    document.getElementById("openSearch").addEventListener("input", renderOpenItems);
-    document.getElementById("trainingSearch").addEventListener("input", renderTrainingItems);
-    document.getElementById("publicationSearch").addEventListener("input", renderPublicationItems);
+    document.getElementById("openSearch").addEventListener("input", () => {
+      renderOpenItems();
+      updateUrl();
+    });
+    document.getElementById("trainingSearch").addEventListener("input", () => {
+      renderTrainingItems();
+      updateUrl();
+    });
+    document.getElementById("publicationSearch").addEventListener("input", () => {
+      renderPublicationItems();
+      updateUrl();
+    });
+
+    const initialParams = new URLSearchParams(window.location.search);
+    const initialSearch = initialParams.get("search") || "";
+    const requestedPanel = initialParams.get("tab") || (initialSearch ? "open" : "profile");
+    const requestedTab = document.querySelector(`.tab-button[aria-controls="${CSS.escape(requestedPanel)}"]`);
+    if (requestedTab) {
+      activateTab(requestedTab, false);
+      const searchInputs = {
+        open: "openSearch",
+        training: "trainingSearch",
+        publications: "publicationSearch"
+      };
+      if (initialSearch && searchInputs[requestedPanel]) {
+        document.getElementById(searchInputs[requestedPanel]).value = initialSearch;
+      }
+    }
 
     Promise.all([
       loadJsonArray("data/software-data.json"),
