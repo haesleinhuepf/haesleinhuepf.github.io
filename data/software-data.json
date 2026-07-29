@@ -20,7 +20,7 @@
     "category": "Generative AI / LLMs",
     "title": "bia-bob",
     "url": "https://github.com/haesleinhuepf/bia-bob",
-    "description": "Code generation in Jupyter Notebooks.",
+    "description": "BIA Bob is a Jupyter+LLM-based assistant for interacting with image data and for working on Bio-image Analysis tasks.",
     "image": "https://github.com/haesleinhuepf/bia-bob/blob/main/docs/images/screencast.gif?raw=true"
   },
   {
@@ -28,7 +28,7 @@
     "category": "Generative AI / LLMs",
     "title": "git-bob",
     "url": "https://github.com/haesleinhuepf/git-bob",
-    "description": "AI-agent answering and solving GitHub / GitLab issues.",
+    "description": "git-bob uses AI to solve Github-issues. It runs inside the Github CI, no need to install anything on your computer.",
     "image": "https://github.com/haesleinhuepf/git-bob/blob/main/docs/images/banner2.png?raw=true"
   },
   {
@@ -36,7 +36,7 @@
     "category": "Generative AI / LLMs",
     "title": "cli-bob",
     "url": "https://github.com/haesleinhuepf/cli-bob",
-    "description": "AI-assistant for the terminal.",
+    "description": "cli-bob uses AI to generate command line code in case you can't remember the exact syntax.",
     "image": "https://github.com/haesleinhuepf/cli-bob/raw/main/docs/screenshot1.png"
   },
   {
