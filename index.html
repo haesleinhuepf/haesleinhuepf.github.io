@@ -414,7 +414,8 @@ Humboldtstrasse 25
       .replaceAll(">", "&gt;")
       .replaceAll('"', "&quot;");
 
-    const includesText = (item, query) => JSON.stringify(item).toLowerCase().includes(query);
+    const includesText = (values, query) =>
+      values.filter(Boolean).join(" ").toLowerCase().includes(query);
 
     async function loadJsonArray(path) {
       const response = await fetch(path);
@@ -464,7 +465,9 @@ Humboldtstrasse 25
 
     function renderOpenItems() {
       const query = document.getElementById("openSearch").value.trim().toLowerCase();
-      const items = state.openItems.filter((item) => includesText(item, query));
+      const items = state.openItems.filter((item) =>
+        includesText([item.title, item.type, item.category, item.description], query)
+      );
       document.getElementById("openCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
       document.getElementById("openGallery").innerHTML = items.map((item) => `
         <article class="card">
@@ -482,7 +485,14 @@ Humboldtstrasse 25
 
     function renderTrainingItems() {
       const query = document.getElementById("trainingSearch").value.trim().toLowerCase();
-      const items = state.trainingItems.filter((item) => includesText(item, query));
+      const items = state.trainingItems.filter((item) =>
+        includesText([
+          item.title,
+          item.year,
+          item.venue,
+          ...(item.links || []).map((link) => link.label)
+        ], query)
+      );
       document.getElementById("trainingCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
       document.getElementById("trainingGallery").innerHTML = items.map((item) => {
         const primaryLink = (item.links || [])[0]?.url || "#";
@@ -510,7 +520,19 @@ Humboldtstrasse 25
 
     function renderPublicationItems() {
       const query = document.getElementById("publicationSearch").value.trim().toLowerCase();
-      const items = state.publicationItems.filter((item) => includesText(item, query));
+      const items = state.publicationItems.filter((item) =>
+        includesText([
+          item.title,
+          item.authors,
+          item.year,
+          item.venue,
+          item.volume,
+          item.number,
+          item.pages,
+          item.entryType,
+          item.source
+        ], query)
+      );
       document.getElementById("publicationCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
       document.getElementById("publicationList").innerHTML = items.map((item) => {
         const year = item.year || "Link";
