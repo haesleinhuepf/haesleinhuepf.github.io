@@ -1003,7 +1003,8 @@
         "label": "Slides + Notebooks",
         "url": "https://scads.github.io/prompt-engineering-tutorial-2023/intro.html"
       }
-    ]
+    ],
+    "image": "https://scads.github.io/prompt-engineering-tutorial-2023/_images/teaser.png"
   },
   {
     "year": 2023,
@@ -1014,7 +1015,8 @@
         "label": "Slides + Notebooks",
         "url": "https://scads.github.io/napari-tutorial-2023/intro.html"
       }
-    ]
+    ],
+    "image": "https://scads.github.io/napari-tutorial-2023/_images/napari-apoc-teaser.gif"
   },
   {
     "year": 2023,
@@ -1024,10 +1026,6 @@
       {
         "label": "Video",
         "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"
-      },
-      {
-        "label": "Slides",
-        "url": "https://f1000research.com/slides/12-1353"
       }
     ]
   },
@@ -1085,18 +1083,44 @@
         "label": "Slides",
         "url": "https://f1000research.com/slides/11-946"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/3d-image-data-science.png?raw=true"    
   },
   {
     "year": 2021,
-    "title": "Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
+    "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
     "venue": "CMCB, TU Dresden",
     "links": [
       {
         "label": "Materials",
         "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
+  },
+  {
+    "year": 2022,
+    "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
+    "venue": "CMCB, TU Dresden",
+    "links": [
+      {
+        "label": "Materials",
+        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2022.07.28"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Lecture Bio-Image Analysis, Biostatistics, Programming and Machine Learning",
+    "venue": "CMCB, TU Dresden",
+    "links": [
+      {
+        "label": "Materials",
+        "url": "https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2023.07.17"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia2023.png?raw=true"
   },
   {
     "year": 2021,
@@ -1111,7 +1135,8 @@
         "label": "Video",
         "url": "https://www.youtube.com/watch?v=MERVnf5_QkI"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/fiji-napari.png?raw=true"
   },
   {
     "year": 2020,
@@ -1126,7 +1151,8 @@
         "label": "Slides",
         "url": "https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/applied_bia_2020.png?raw=true"
   },
   {
     "year": 2019,
@@ -1141,7 +1167,8 @@
         "label": "Slides",
         "url": "https://git.mpi-cbg.de/rhaase/neubias_ts13"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia_gpu_2019.png?raw=true"
   },
   {
     "year": 2018,
@@ -1156,7 +1183,8 @@
         "label": "Slides",
         "url": "https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/bia-2018.png?raw=true"
   },
   {
     "year": 2017,
@@ -1171,10 +1199,11 @@
         "label": "Slides",
         "url": "https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/ij-macro-2017.png?raw=true"
   },
   {
-    "year": 2016,
+    "year": 2017,
     "title": "Introduction to Image Analysis with Fiji",
     "venue": "Scientific Computing Facility, MPI CBG Dresden",
     "links": [
@@ -1186,6 +1215,7 @@
         "label": "Slides",
         "url": "https://github.com/mpicbg-scicomp/CourseIntroToIA"
       }
-    ]
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/ij-2017.png?raw=true"
   }
 ]
