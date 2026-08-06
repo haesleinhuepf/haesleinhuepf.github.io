@@ -1,0 +1,86 @@
+[
+  {
+    "year": 2026,
+    "title": "How Generative Artificial Intelligence impacts Bio-image Data Science",
+    "venue": "Danish BioImaging, University of Copenhagen",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=Nw40Mbh8eLI"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/18879906.png?raw=true"
+  },
+  {
+    "year": 2025,
+    "title": "How Large Language Models impact Bio-Image Data Science",
+    "venue": "Janelia & EMBL BioImaging Seminar Series",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=p1tmseAkLsg"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/17102027.png?raw=true"
+  },
+  {
+    "year": 2024,
+    "title": "Bio-Image Analysis Code Generation using bia-bob",
+    "venue": "German BioImaging Python Webinar Series",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=5u1MPgrjpAU"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/13908108.png?raw=true"
+  },
+  {
+    "year": 2024,
+    "title": "Large Language Models for Bio-image Analysis",
+    "venue": "ScaDS.AI Living Lab Lecture",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/10822115.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Generative Artificial Intelligence for Bio-image Analysis",
+    "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-971.png?raw=true"
+  },
+  {
+    "year": 2021,
+    "title": "Bio-image analysis island hopping: From Fiji to Napari and back",
+    "venue": "EuroBioImaging Virtual Pub",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=MERVnf5_QkI"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/fiji-napari.png?raw=true"
+  },
+  {
+    "year": 2020,
+    "title": "Applied Bio-Image Analysis",
+    "venue": "BIOTEC, TU Dresden",
+    "links": [
+      {
+        "label": "Videos",
+        "url": "https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/applied_bia_2020.png?raw=true"
+  }
+]

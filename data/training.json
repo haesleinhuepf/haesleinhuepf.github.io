@@ -780,10 +780,6 @@
     "venue": "Danish BioImaging, University of Copenhagen",
     "links": [
       {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=Nw40Mbh8eLI"
-      },
-      {
         "label": "Exercise",
         "url": "https://scads.github.io/llm-data-analysis-2026"
       },
@@ -831,10 +827,6 @@
     "title": "How Large Language Models impact Bio-Image Data Science",
     "venue": "Janelia & EMBL BioImaging Seminar Series",
     "links": [
-      {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=p1tmseAkLsg"
-      },
       {
         "label": "Slides",
         "url": "https://zenodo.org/records/17102027"
@@ -944,10 +936,6 @@
     "venue": "German BioImaging Python Webinar Series",
     "links": [
       {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=5u1MPgrjpAU"
-      },
-      {
         "label": "Slides",
         "url": "https://zenodo.org/records/13908108"
       }
@@ -987,10 +975,6 @@
     "venue": "ScaDS.AI Living Lab Lecture",
     "links": [
       {
-        "label": "Video",
-        "url": "https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp"
-      },
-      {
         "label": "Slides",
         "url": "https://zenodo.org/records/10822115"
       }
@@ -1026,10 +1010,6 @@
     "title": "Generative Artificial Intelligence for Bio-image Analysis",
     "venue": "EMBO Practical Course: Advanced Methods in Bioimage Analysis, 2023",
     "links": [
-      {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"
-      },
       {
         "label": "Slides",
         "url": "https://doi.org/10.7490/f1000research.1119571.1"
@@ -1340,10 +1320,6 @@
       {
         "label": "Slides",
         "url": "https://f1000research.com/slides/10-313"
-      },
-      {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=MERVnf5_QkI"
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/fiji-napari.png?raw=true"
@@ -1393,10 +1369,6 @@
     "title": "Applied Bio-Image Analysis",
     "venue": "BIOTEC, TU Dresden",
     "links": [
-      {
-        "label": "Videos",
-        "url": "https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U"
-      },
       {
         "label": "Slides",
         "url": "https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020"

@@ -1,9 +1,29 @@
 [
   {
-    "source": "Google Scholar",
+    "entryType": "article",
+    "key": "Okafornta2026",
+    "title": "Cell size reduction distinctly scales spindle elongation and chromosome segregation in C. elegans",
+    "authors": "Okafornta, Chukwuebuka William and Farhadifar, Reza and Fabig, Gunar and Wu, Hai-Yin and Köckert, Maria and Vogel, Martin and Baum, Daniel and Haase, Robert and Shelley, Michael J. and Needleman, Daniel J. and Müller-Reichert, Thomas",
+    "year": "2026",
+    "venue": "Nature Communications",
+    "volume": "17",
+    "number": "1",
+    "pages": "7929",
+    "url": "https://doi.org/10.1038/s41467-026-76360-3"
+  },
+  {
+    "entryType": "article",
+    "key": "delaballina2026globias",
+    "title": "GloBIAS survey results – An insight into the global bioimage analysis community",
+    "authors": "de la Ballina, L. R. and Walther, C. G. and Condon, N. D. and Felder, A. A. and Schätz, M. and Schmerl, B. and Sugawara, K. and Prats, C. and Klemm, A. and Miura, K. and Sampaio, P. and Tischer, C. and Onami, S. and D'Antuono, R. and Cimini, B. A. and Haase, R. and Corbat, A. and Levet, F.",
+    "year": "2026",
+    "venue": "Journal of Microscopy",
+    "pages": "1-10",
+    "url": "https://doi.org/10.1111/jmi.70153"
+  },
+  {
     "entryType": "article",
     "key": "wetzker2026fluorescence",
-    "originalKey": "wetzker2026fluorescence",
     "title": "A fluorescence lifetime separation approach for FLIM live-cell imaging",
     "authors": "Wetzker, Cornelia and Zoccoler, Marcelo Leomil and Iarovenko, Svetlana and Okafornta, Chukwuebuka William and Nobst, Anja and Hartmann, Hella and Mueller-Reichert, Thomas and Haase, Robert and Fabig, Gunar",
     "year": "2026",
@@ -14,10 +34,8 @@
     "url": "https://doi.org/10.1111/jmi.70036"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "corbat2026globias",
-    "originalKey": "corbat2026globias",
     "title": "GloBIAS: strengthening the foundations of bioimage analysis",
     "authors": "Corbat, Agustin A and Walther, Christa G and de la Ballina, Laura R and Condon, Nicholas D and Felder, Alessandro A and Schaetz, Martin and Schmerl, Bettina and Sugawara, Ko and Prats, Clara and Klemm, Anna and others",
     "year": "2026",
@@ -27,10 +45,8 @@
     "url": "https://doi.org/10.1038/s41592-026-03060-7"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "saraiva2025efficiently",
-    "originalKey": "saraiva2025efficiently",
     "title": "Efficiently accelerated bioimage analysis with NanoPyx, a Liquid Engine-powered Python framework",
     "authors": "Saraiva, Bruno M and Cunha, Ines and Brito, Ant\\'onio D and Follain, Gautier and Portela, Raquel and Haase, Robert and Pereira, Pedro M and Jacquemet, Guillaume and Henriques, Ricardo",
     "year": "2025",
@@ -42,10 +58,8 @@
     "url": "https://www.nature.com/articles/s41592-024-02562-6"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "fazeli2025cells",
-    "originalKey": "fazeli2025cells",
     "title": "From cells to pixels: A decision tree for designing bioimage analysis pipelines",
     "authors": "Fazeli, Elnaz and Haase, Robert and Doube, Michael and Miura, Kota and Legland, David",
     "year": "2025",
@@ -56,10 +70,8 @@
     "url": "https://doi.org/10.1111/jmi.70021"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "joas2025leveraging",
-    "originalKey": "joas2025leveraging",
     "title": "Leveraging foundation models and goal-dependent annotations for automated cell confluence assessment",
     "authors": "Joas, Maximilian Josef and Freund, Daniel and Haase, Robert and Rahm, Erhard and Ewald, Jan",
     "year": "2025",
@@ -70,10 +82,8 @@
     "url": "https://doi.org/10.3389/fcomp.2025.1562358"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "girstmair2025mastodon",
-    "originalKey": "girstmair2025mastodon",
     "title": "Mastodon: the Command Center for Large-Scale Lineage-Tracing Microscopy Datasets",
     "authors": "Girstmair, Johannes and Pietzsch, Tobias and Ulman, Vladimir and Hahmann, Stefan and Arzt, Matthias and Handberg-Thorsager, Mette and Pantze, Samuel and Sugawara, Ko and Haase, Robert and Tinevez, Jean-Yves and others",
     "year": "2025",
@@ -83,10 +93,8 @@
     "url": "https://doi.org/10.64898/2025.12.10.693416"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "ferme2025timely",
-    "originalKey": "ferme2025timely",
     "title": "Timely neurogenesis drives the transition from nematic to crystalline nuclear packing during retinal morphogenesis",
     "authors": "Ferme, Lucrezia C and Ryan, Allyson Q and Haase, Robert and Modes, Carl D and Norden, Caren",
     "year": "2025",
@@ -98,10 +106,8 @@
     "url": "https://doi.org/10.1126/sciadv.adu6843"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2025towards",
-    "originalKey": "haase2025towards",
     "title": "Towards transparency and knowledge exchange in AI-assisted data analysis code generation",
     "authors": "Haase, Robert",
     "year": "2025",
@@ -113,10 +119,8 @@
     "url": "https://doi.org/10.1038/s43588-025-00781-1"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "joas2025zero",
-    "originalKey": "joas2025zero",
     "title": "Zero-Shot, Big-Shot, Active-Shot-How to estimate cell confluence, lazily",
     "authors": "Joas, Maximilian and Freund, Daniel and Haase, Robert and Rahm, Erhard and Ewald, Jan",
     "year": "2025",
@@ -126,20 +130,16 @@
     "url": "https://www.biorxiv.org/content/10.1101/2025.01.17.633501v1"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "haase2024call",
-    "originalKey": "haase2024call",
     "title": "A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis",
     "authors": "Haase, Robert and Tischer, Christian and Bankhead, Peter and Miura, Kota and Cimini, Beth A",
     "year": "2024",
     "url": "https://osf.io/preprints/osf/2zgmc"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "lange2024multimodal",
-    "originalKey": "lange2024multimodal",
     "title": "A multimodal zebrafish developmental atlas reveals the state-transition dynamics of late-vertebrate pluripotent axial progenitors",
     "authors": "Lange, Merlin and Granados, Alejandro and VijayKumar, Shruthi and Bragantini, Jordao and Ancheta, Sarah and Kim, Yang-Joon and Santhosh, Sreejith and Borja, Michael and Kobayashi, Hirofumi and McGeever, Erin and others",
     "year": "2024",
@@ -151,10 +151,8 @@
     "url": "https://doi.org/10.1016/j.cell.2024.09.047"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "seidemann2024automated",
-    "originalKey": "seidemann2024automated",
     "title": "Automated quantification of photoreceptor outer segments in developing and degenerating retinas on microscopy images across scales",
     "authors": "Seidemann, Suse and Salomon, Florian and Hoffmann, Karl B and Kurth, Thomas and Sbalzarini, Ivo F and Haase, Robert and Ader, Marius",
     "year": "2024",
@@ -165,10 +163,8 @@
     "url": "https://doi.org/10.3389/fnmol.2024.1398447"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "haase2024benchmarking",
-    "originalKey": "haase2024benchmarking",
     "title": "Benchmarking large language models for bio-image analysis code generation",
     "authors": "Haase, Robert and Tischer, Christian and Heriche, Jean-Karim and Scherf, Nico",
     "year": "2024",
@@ -178,10 +174,8 @@
     "url": "https://www.biorxiv.org/content/10.1101/2024.04.19.590278v3"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "soltwedel2024challenges",
-    "originalKey": "soltwedel2024challenges",
     "title": "Challenges and opportunities for bioimage analysis core-facilities",
     "authors": "Soltwedel, Johannes Richard and Haase, Robert",
     "year": "2024",
@@ -192,10 +186,8 @@
     "url": "https://onlinelibrary.wiley.com/doi/10.1111/jmi.13192"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "davutoglu2024gliding-2",
-    "originalKey": "davutoglu2024gliding",
     "title": "Gliding motility of the diatom Craspedostauros australis coincides with the intracellular movement of raphid-specific myosins",
     "authors": "Davutoglu, Metin G and Geyer, Veikko F and Niese, Lukas and Soltwedel, Johannes R and Zoccoler, Marcelo L and Sabatino, Valeria and Haase, Robert and Kroeger, Nils and Diez, Stefan and Poulsen, Nicole",
     "year": "2024",
@@ -207,10 +199,8 @@
     "url": "https://doi.org/10.1038/s42003-024-06889-w"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "sorensen2024gut",
-    "originalKey": "sorensen2024gut",
     "title": "Gut Analysis Toolbox-automating quantitative analysis of enteric neurons",
     "authors": "Sorensen, Luke and Humenick, Adam and Poon, Sabrina SB and Han, Myat Noe and Mahdavian, Narges S and Rowe, Matthew C and Hamnett, Ryan and G\\'omez-de-Mariscal, Estibaliz and Neckel, Peter H and Saito, Ayame and others",
     "year": "2024",
@@ -222,10 +212,8 @@
     "url": "https://doi.org/10.1242/jcs.261950"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "maier2024metrics",
-    "originalKey": "maier2024metrics",
     "title": "Metrics reloaded: recommendations for image analysis validation",
     "authors": "Maier-Hein, Lena and Reinke, Annika and Godau, Patrick and Tizabi, Minu D and Buettner, Florian and Christodoulou, Evangelia and Glocker, Ben and Isensee, Fabian and Kleesiek, Jens and Kozubek, Michal and others",
     "year": "2024",
@@ -237,10 +225,8 @@
     "url": "https://doi.org/10.1038/s41592-023-02151-z"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "cimini2024crucial",
-    "originalKey": "cimini2024crucial",
     "title": "The crucial role of bioimage analysts in scientific research and publication",
     "authors": "Cimini, Beth A and Bankhead, Peter and d'Antuono, Rocco and Fazeli, Elnaz and Fernandez-Rodriguez, Julia and Fuster-Barcel\\'o, Caterina and Haase, Robert and Jambor, Helena Klara and Jones, Martin L and Jug, Florian and others",
     "year": "2024",
@@ -252,10 +238,8 @@
     "url": "https://doi.org/10.1242/jcs.262322"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "sadier2023bat",
-    "originalKey": "sadier2023bat",
     "title": "Bat teeth illuminate the diversification of mammalian tooth classes",
     "authors": "Sadier, Alexa and Anthwal, Neal and Krause, Andrew L and Dessalles, Renaud and Lake, Michael and Bentolila, Laurent A and Haase, Robert and Nieves, Natalie A and Santana, Sharlene E and Sears, Karen E",
     "year": "2023",
@@ -267,10 +251,8 @@
     "url": "https://doi.org/10.1038/s41467-023-40158-4"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "zhang2023bio",
-    "originalKey": "zhang2023bio",
     "title": "Bio-Image Informatics Index BIII: A unique database of image analysis tools and workflows for and by the bioimaging community",
     "authors": "Zhang, Chong and Gaignard, Alban and Kalas, Matus and Levet, Florian and Delestro, Felipe and Lindblad, Joakim and Sladoje, Natasa and Plantard, Laure and Latour, Alain and Haase, Robert and others",
     "year": "2023",
@@ -278,10 +260,8 @@
     "url": "https://arxiv.org/abs/2312.11256"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "soltwedel2023slice2volume",
-    "originalKey": "soltwedel2023slice2volume",
     "title": "Slice2Volume: fusion of multimodal medical imaging and light microscopy data of irradiation-injured brain tissue in 3D",
     "authors": "Soltwedel, Johannes and Suckert, Theresa and Beyreuther, Elke and Schneider, Moritz and Boucsein, Marc and Bodenstein, Elisabeth and Nexhipi, Sindi and Stolz-Kieslich, Liane and Krause, Mechthild and von Neubeck, Claere and others",
     "year": "2023",
@@ -292,10 +272,8 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0167814023001299"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2022hitchhiker",
-    "originalKey": "haase2022hitchhiker",
     "title": "A Hitchhiker's guide through the bio-image analysis software universe",
     "authors": "Haase, Robert and Fazeli, Elnaz and Legland, David and Doube, Michael and Culley, Sian and Belevich, Ilya and Jokitalo, Eija and Schorb, Martin and Klemm, Anna and Tischer, Christian",
     "year": "2022",
@@ -306,10 +284,8 @@
     "url": "https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451"
   },
   {
-    "source": "Google Scholar",
     "entryType": "incollection",
     "key": "vorkel2022gpu",
-    "originalKey": "vorkel2022gpu",
     "title": "GPU-accelerating ImageJ Macro image processing workflows using CLIJ",
     "authors": "Vorkel, Daniela and Haase, Robert",
     "year": "2022",
@@ -319,10 +295,8 @@
     "url": "https://doi.org/10.1007/978-3-030-76394-7_5"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "arzt2022labkit",
-    "originalKey": "arzt2022labkit",
     "title": "LABKIT: labeling and segmentation toolkit for big image data",
     "authors": "Arzt, Matthias and Deschamps, Joran and Schmied, Christopher and Pietzsch, Tobias and Schmidt, Deborah and Tomancak, Pavel and Haase, Robert and Jug, Florian",
     "year": "2022",
@@ -333,10 +307,8 @@
     "url": "https://doi.org/10.3389/fcomp.2022.777728"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "schlaeppi2022meeting",
-    "originalKey": "schlaeppi2022meeting",
     "title": "Meeting in the middle: towards successful multidisciplinary bioimage analysis collaboration",
     "authors": "Schlaeppi, Anjalie and Adams, Wilson and Haase, Robert and Huisken, Jan and MacDonald, Ryan B and Eliceiri, Kevin W and Kugler, Elisabeth C",
     "year": "2022",
@@ -347,10 +319,8 @@
     "url": "https://doi.org/10.3389/fbinf.2022.889755"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "hohlbein2022open",
-    "originalKey": "hohlbein2022open",
     "title": "Open microscopy in the life sciences: quo vadis?",
     "authors": "Hohlbein, Johannes and Diederich, Benedict and Marsikova, Barbora and Reynaud, Emmanuel G and Holden, Seamus and Jahr, Wiebke and Haase, Robert and Prakash, Kirti",
     "year": "2022",
@@ -362,10 +332,8 @@
     "url": "https://www.nature.com/articles/s41592-022-01602-3"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "subramanian2022rna",
-    "originalKey": "subramanian2022rna",
     "title": "The RNA binding protein human antigen R is a gatekeeper of liver homeostasis",
     "authors": "Subramanian, Pallavi and Gargani, Sofia and Palladini, Alessandra and Chatzimike, Margarita and Grzybek, Michal and Peitzsch, Mirko and Papanastasiou, Anastasios D and Pyrina, Iryna and Ntafis, Vasileios and Gercken, Bettina and others",
     "year": "2022",
@@ -376,10 +344,8 @@
     "url": "https://doi.org/10.1002/hep.32153"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "girstmair2022time",
-    "originalKey": "girstmair2022time",
     "title": "Time to upgrade: a new OpenSPIM guide to build and operate advanced OpenSPIM configurations",
     "authors": "Girstmair, Johannes and Moon, HongKee and Brillard, Charlene and Haase, Robert and Tomancak, Pavel",
     "year": "2022",
@@ -390,10 +356,8 @@
     "url": "https://doi.org/10.1002/adbi.202101182"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "levet2021developing",
-    "originalKey": "levet2021developing",
     "title": "Developing open-source software for bioimage analysis: opportunities and challenges",
     "authors": "Levet, Florian and Carpenter, Anne E and Eliceiri, Kevin W and Kreshuk, Anna and Bankhead, Peter and Haase, Robert",
     "year": "2021",
@@ -403,10 +367,8 @@
     "url": "https://doi.org/10.12688/f1000research.52531.1"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "martins2021highlights",
-    "originalKey": "martins2021highlights",
     "title": "Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists",
     "authors": "Martins, Gabriel G and Cordelieres, Fabrice P and Colombelli, Julien and D’antuono, Rocco and Golani, Ofra and Guiet, Romain and Haase, Robert and Klemm, Anna H and Louveaux, Marion and Paul-Gilloteaux, Perrine and others",
     "year": "2021",
@@ -416,10 +378,8 @@
     "url": "https://f1000research.com/articles/10-334"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2021image",
-    "originalKey": "haase2021image",
     "title": "Image processing filters for grids of cells analogous to filters processing grids of pixels",
     "authors": "Haase, Robert",
     "year": "2021",
@@ -429,10 +389,8 @@
     "url": "https://doi.org/10.3389/fcomp.2021.774396"
   },
   {
-    "source": "Google Scholar",
     "entryType": "blogpost",
     "key": "haase2021fiji",
-    "originalKey": "haase2021fiji",
     "title": "The Fiji Updater, My favorite image analysis tool, by Neubias members",
     "authors": "Haase, Robert",
     "year": "2021",
@@ -442,10 +400,8 @@
     "url": "https://analyticalscience.wiley.com/content/article-do/fiji-updater"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2020clij",
-    "originalKey": "haase2020clij",
     "title": "CLIJ: GPU-accelerated image processing for everyone",
     "authors": "Haase, Robert and Royer, Loic A and Steinbach, Peter and Schmidt, Deborah and Dibrov, Alexandr and Schmidt, Uwe and Weigert, Martin and Maghelli, Nicola and Tomancak, Pavel and Jug, Florian and others",
     "year": "2020",
@@ -457,10 +413,8 @@
     "url": "https://www.nature.com/articles/s41592-019-0650-1"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "butof2020dose",
-    "originalKey": "butof2020dose",
     "title": "Dose-volume predictors of early esophageal toxicity in non-small cell lung cancer patients treated with accelerated-hyperfractionated radiotherapy",
     "authors": "Buetof, Rebecca and Loeck, Steffen and Soliman, Maher and Haase, Robert and Perrin, Rosalind and Richter, Christian and Appold, Steffen and Krause, Mechthild and Baumann, Michael",
     "year": "2020",
@@ -471,10 +425,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2019.11.002"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "kaptan2020exogenous",
-    "originalKey": "kaptan2020exogenous",
     "title": "Exogenous ethanol induces a metabolic switch that prolongs the survival of Caenorhabditis elegans dauer larva and enhances its resistance to desiccation",
     "authors": "Kaptan, Damla and Penkov, Sider and Zhang, Xingyu and Gade, Vamshidhar R and Raghuraman, Bharath Kumar and Galli, Roberta and Sampaio, J\\'ulio L and Haase, Robert and Koch, Edmund and Shevchenko, Andrej and others",
     "year": "2020",
@@ -485,10 +437,8 @@
     "url": "https://doi.org/10.1111/acel.13214"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "suckert2020high",
-    "originalKey": "suckert2020high",
     "title": "High-precision image-guided proton irradiation of mouse brain sub-volumes",
     "authors": "Suckert, Theresa and Mueller, Johannes and Beyreuther, Elke and Azadegan, Behnam and Brueggemann, Anja and Buetof, Rebecca and Dietrich, Antje and Gotz, Malte and Haase, Robert and Schuerer, Michael and others",
     "year": "2020",
@@ -499,10 +449,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2020.02.023"
   },
   {
-    "source": "Google Scholar",
     "entryType": "preprint",
     "key": "haase2020interactive",
-    "originalKey": "haase2020interactive",
     "title": "Interactive design of GPU-accelerated image data flow graphs and cross-platform deployment using multi-lingual code generation",
     "authors": "Haase, Robert and Jain, Akanksha and Rigaud, Stephane and Vorkel, Daniela and Rajasekhar, Pradeep and Suckert, Theresa and Lambert, Talley J and Nunez-Iglesias, Juan and Poole, Daniel P and Tomancak, Pavel and others",
     "year": "2020",
@@ -512,10 +460,8 @@
     "url": "https://www.biorxiv.org/content/10.1101/2020.11.19.386565v1"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "jain2020regionalized",
-    "originalKey": "jain2020regionalized",
     "title": "Regionalized tissue fluidization is required for epithelial gap closure during insect gastrulation",
     "authors": "Jain, Akanksha and Ulman, Vladimir and Mukherjee, Arghyadip and Prakash, Mangal and Cuenca, Marina B and Pimpale, Lokesh G and Muenster, Stefan and Haase, Robert and Panfilio, Kristen A and Jug, Florian and others",
     "year": "2020",
@@ -527,10 +473,8 @@
     "url": "https://doi.org/10.1038/s41467-020-19356-x"
   },
   {
-    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "weigert2020star",
-    "originalKey": "weigert2020star",
     "title": "Star-convex polyhedra for 3D object detection and segmentation in microscopy",
     "authors": "Weigert, Martin and Schmidt, Uwe and Haase, Robert and Sugawara, Ko and Myers, Gene",
     "year": "2020",
@@ -539,10 +483,8 @@
     "url": "https://arxiv.org/abs/1908.03636"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "viktorinova2019analysis",
-    "originalKey": "viktorinova2019analysis",
     "title": "Analysis of actomyosin dynamics at local cellular and tissue scales using time-lapse movies of cultured drosophila egg chambers",
     "authors": "Viktorinova, Ivana and Haase, Robert and Pietzsch, Tobias and Henry, Ian and Tomancak, Pavel",
     "year": "2019",
@@ -552,10 +494,8 @@
     "url": "https://dx.doi.org/10.3791/58587"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "bandurska2019correlation",
-    "originalKey": "bandurska2019correlation",
     "title": "Correlation between FMISO-PET based hypoxia in the primary tumour and in lymph node metastases in locally advanced HNSCC patients",
     "authors": "Bandurska-Luque, Anna and Loeck, Steffen and Haase, Robert and Richter, Christian and Zoephel, Klaus and Perrin, Rosalind and Appold, Steffen and Krause, Mechthild and Steinbach, Joerg and Kotzerke, Joerg and others",
     "year": "2019",
@@ -566,10 +506,8 @@
     "url": "https://doi.org/10.1016/j.ctro.2019.02.002"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "bandurska2019fmiso",
-    "originalKey": "bandurska2019fmiso",
     "title": "FMISO-PET-based lymph node hypoxia adds to the prognostic value of tumor only hypoxia in HNSCC patients",
     "authors": "Bandurska-Luque, Anna and Loeck, Steffen and Haase, Robert and Richter, Christian and Zoephel, Klaus and Abolmaali, Nasreddin and Seidlitz, Annekatrin and Appold, Steffen and Krause, Mechthild and Steinbach, Joerg and others",
     "year": "2019",
@@ -580,10 +518,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2018.09.008"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "zschaeck2017fdg",
-    "originalKey": "zschaeck2017fdg",
     "title": "FDG uptake in normal tissues assessed by PET during treatment has prognostic value for treatment results in head and neck squamous cell carcinomas undergoing radiochemotherapy",
     "authors": "Zschaeck, Sebastian and Loeck, Steffen and Leger, Stefan and Haase, Robert and Bandurska-Luque, Anna and Appold, Steffen and Kotzerke, Joerg and Zips, Daniel and Richter, Christian and Gudziol, Volker and others",
     "year": "2017",
@@ -595,10 +531,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2017.01.019"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "leger2017physical",
-    "originalKey": "leger2017physical",
     "title": "Physical correction model for automatic correction of intensity non-uniformity in magnetic resonance imaging",
     "authors": "Leger, Stefan and Loeck, Steffen and Hietschold, Volker and Haase, Robert and Boehme, Hans Joachim and Abolmaali, Nasreddin",
     "year": "2017",
@@ -609,10 +543,8 @@
     "url": "https://doi.org/10.1016/j.phro.2017.11.003"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "stutzer2016evaluation",
-    "originalKey": "stutzer2016evaluation",
     "title": "Evaluation of a deformable registration algorithm for subsequent lung computed tomography imaging during radiochemotherapy",
     "authors": "Stuetzer, Kristin and Haase, Robert and Lohaus, Fabian and Barczyk, Steffen and Exner, Florian and Loeck, Steffen and Ruehaak, Jan and Lassen-Schmidt, Bianca and Corr, Doerte and Richter, Christian",
     "year": "2016",
@@ -624,10 +556,8 @@
     "url": "https://doi.org/10.1118/1.4960366"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "haase2016reliability",
-    "originalKey": "haase2016reliability",
     "title": "On the Reliability of Automatic Volume Delineation in Low-Contrast [18F] FMISO-PET Imaging",
     "authors": "Haase, Robert and Andreeff, Michael and Abolmaali, Nasreddin",
     "year": "2016",
@@ -637,10 +567,8 @@
     "url": "https://doi.org/10.1007/978-3-662-49651-0_9"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "tillner2016precise",
-    "originalKey": "tillner2016precise",
     "title": "Precise image-guided irradiation of small animals: a flexible non-profit platform",
     "authors": "Tillner, Falk and Thute, Prasad and Loeck, Steffen and Dietrich, Antje and Fursov, Andriy and Haase, Robert and Lukas, Mathias and Rimarzig, Bernd and Sobiella, Manfred and Krause, Mechthild and others",
     "year": "2016",
@@ -652,10 +580,8 @@
     "url": "https://doi.org/10.1088/0031-9155/61/8/3084"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "jakobi2015identification",
-    "originalKey": "jakobi2015identification",
     "title": "Identification of patient benefit from proton therapy for advanced head and neck cancer patients based on individual and subgroup normal tissue complication probability analysis",
     "authors": "Jakobi, Annika and Bandurska-Luque, Anna and Stuetzer, Kristin and Haase, Robert and Loeck, Steffen and Wack, Linda-Jacqueline and Moennich, David and Thorwarth, Daniela and Perez, Damien and Luehr, Armin and others",
     "year": "2015",
@@ -667,10 +593,8 @@
     "url": "https://doi.org/10.1016/j.ijrobp.2015.04.031"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "jakobi2015ntcp",
-    "originalKey": "jakobi2015ntcp",
     "title": "NTCP reduction for advanced head and neck cancer patients using proton therapy for complete or sequential boost treatment versus photon therapy",
     "authors": "Jakobi, Annika and Stuetzer, Kristin and Bandurska-Luque, Anna and Loeck, Steffen and Haase, Robert and Wack, Linda-Jacqueline and Moennich, David and Thorwarth, Daniel and Perez, Damien and Luehr, Armin and others",
     "year": "2015",
@@ -682,10 +606,8 @@
     "url": "https://doi.org/10.3109/0284186X.2015.1071920"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "zschaeck2015spatial",
-    "originalKey": "zschaeck2015spatial",
     "title": "Spatial distribution of FMISO in head and neck squamous cell carcinomas during radio-chemotherapy and its correlation to pattern of failure",
     "authors": "Zschaeck, Sebastian and Haase, Robert and Abolmaali, Nasreddin and Perrin, Rosalind and Stuetzer, Kristin and Appold, Steffen and Steinbach, Joerg and Kotzerke, Joerg and Zips, Daniel and Richter, Christian and others",
     "year": "2015",
@@ -697,10 +619,8 @@
     "url": "https://doi.org/10.3109/0284186X.2015.1074720"
   },
   {
-    "source": "Google Scholar",
     "entryType": "phdthesis",
     "key": "haase2014optimisation",
-    "originalKey": "haase2014optimisation",
     "title": "Optimisation and Validation of a Swarm Intelligence Based Segmentation Algorithm for Low Contrast Positron Emission Tomography",
     "authors": "Haase, Robert",
     "year": "2014",
@@ -708,10 +628,8 @@
     "url": "https://doi.org/10.5281/zenodo.7209861"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "zips2012exploratory",
-    "originalKey": "zips2012exploratory",
     "title": "Exploratory prospective trial of hypoxia-specific PET imaging during radiochemotherapy in patients with locally advanced head-and-neck cancer",
     "authors": "Zips, Daniel and Zoephel, Klaus and Abolmaali, Nasreddin and Perrin, Rosalind and Abramyuk, Andrij and Haase, Robert and Appold, Steffen and Steinbach, Joerg and Kotzerke, Joerg and Baumann, Michael",
     "year": "2012",
@@ -723,10 +641,8 @@
     "url": "https://doi.org/10.1016/j.radonc.2012.08.019"
   },
   {
-    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "haase2012self",
-    "originalKey": "haase2012self",
     "title": "Self-reproduction versus transition rules in ant colonies for medical volume segmentation",
     "authors": "Haase, Robert and Boehme, Hans-Joachim and Perrin, Rosalind and Zoephel, Klaus and Abolmaali, Nasreddin",
     "year": "2012",
@@ -735,10 +651,8 @@
     "url": "https://doi.org/10.1007/978-3-642-32650-9_33"
   },
   {
-    "source": "Google Scholar",
     "entryType": "inproceedings",
     "key": "haase2011swarm",
-    "originalKey": "haase2011swarm",
     "title": "Swarm intelligence for medical volume segmentation: the contribution of self-reproduction",
     "authors": "Haase, Robert and Boehme, Hans-Joachim and Zips, Daniel and Abolmaali, Nasreddin",
     "year": "2011",
@@ -747,10 +661,8 @@
     "url": "https://doi.org/10.1007/978-3-642-24455-1_10"
   },
   {
-    "source": "Google Scholar",
     "entryType": "article",
     "key": "abolmaali2011two",
-    "originalKey": "abolmaali2011two",
     "title": "Two or four hour [18F] FMISO-PET in HNSCC",
     "authors": "Abolmaali, N and Haase, R and Koch, A and Zips, D and Steinbach, J and Baumann, M and Kotzerke, J and Zoephel, K",
     "year": "2011",
@@ -762,7 +674,6 @@
     "url": "https://doi.org/10.3413/nukmed-00328-10-07"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2023license",
     "title": "If you license it, it will be harder to steal it. Why we should license our work",
@@ -772,7 +683,6 @@
     "url": "https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2023zenodo",
     "title": "Sharing research data with Zenodo",
@@ -782,7 +692,6 @@
     "url": "https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2023documentation",
     "title": "Scientific Data Analysis: User Documentation 101",
@@ -792,7 +701,6 @@
     "url": "https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2022conda",
     "title": "Managing Scientific Python environments using Conda, Mamba and friends",
@@ -802,7 +710,6 @@
     "url": "https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2022napari",
     "title": "Explorative image data science with napari",
@@ -812,7 +719,6 @@
     "url": "https://focalplane.biologists.com/2022/05/23/explorative-image-data-science-with-napari/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2021git",
     "title": "Collaborative bio-image analysis script editing with git",
@@ -822,7 +728,6 @@
     "url": "https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/"
   },
   {
-    "source": "FocalPlane",
     "entryType": "blogpost",
     "key": "haase2020clij2",
     "title": "How CLIJ2 can make your bio-image analysis workflows incredibly fast",
@@ -832,7 +737,6 @@
     "url": "https://focalplane.biologists.com/2020/07/14/how-clij-can-make-your-image-analysis-incredibly-fast/"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "haase-ms-build-tools",
     "title": "Installing Microsoft buildtools on Windows",
@@ -841,7 +745,6 @@
     "url": "https://biapol.github.io/blog/robert_haase/ms_build_tools"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "haase-stardist-gpu",
     "title": "Using StarDist in napari with GPU-support in Windows",
@@ -850,7 +753,6 @@
     "url": "https://biapol.github.io/blog/robert_haase/stardist_gpu"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "haase-cupy-cucim",
     "title": "GPU-accelerated image processing using cupy and cucim",
@@ -859,7 +761,6 @@
     "url": "https://biapol.github.io/blog/robert_haase/cupy_cucim"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "haase-browsing-idr",
     "title": "Browsing the Open Microscopy Image Data Resource with Python",
@@ -868,7 +769,6 @@
     "url": "https://biapol.github.io/blog/robert_haase/browsing_idr"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "haase-clesperanto-google-colab",
     "title": "GPU-accelerated image processing in the cloud using Google Colab and clEsperanto",
@@ -877,7 +777,6 @@
     "url": "https://biapol.github.io/blog/robert_haase/clesperanto_google_colab"
   },
   {
-    "source": "BiAPoL Blog",
     "entryType": "blogpost",
     "key": "imagej-jyton-ide",
     "title": "How to develop, deploy and run ImageJ/Fiji scripts and Java plugins within your IDE simultaneously",
@@ -886,7 +785,6 @@
     "url": "https://haesleinhuepf.github.io/run_jython_scripts_from_ide/"
   },
   {
-    "source": "Cheat Sheet",
     "entryType": "cheatsheet",
     "key": "imagej-macro-cheat-sheet",
     "title": "ImageJ Macro",
@@ -894,7 +792,6 @@
     "url": "https://github.com/BiAPoL/imagej-macro-cheat-sheet"
   },
   {
-    "source": "Cheat Sheet",
     "entryType": "cheatsheet",
     "key": "clij2-cheatsheet-v3",
     "title": "CLIJ - GPU accelerated image processing in ImageJ Macro",

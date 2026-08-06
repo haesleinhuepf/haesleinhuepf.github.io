@@ -319,6 +319,7 @@
       <button class="tab-button" type="button" aria-selected="true" aria-controls="profile" id="tab-profile">CV</button>
       <button class="tab-button" type="button" aria-selected="false" aria-controls="open" id="tab-open">Open Source Software + Open Data</button>
       <button class="tab-button" type="button" aria-selected="false" aria-controls="training" id="tab-training">Talks &amp; Training materials</button>
+      <button class="tab-button" type="button" aria-selected="false" aria-controls="videos" id="tab-videos">Videos</button>
       <button class="tab-button" type="button" aria-selected="false" aria-controls="publications" id="tab-publications">Publications</button>
     </nav>
 
@@ -391,6 +392,15 @@ Humboldtstrasse 25
       <div class="gallery" id="trainingGallery"></div>
     </section>
 
+    <section class="tab-panel" id="videos" role="tabpanel" aria-labelledby="tab-videos">
+      <h2>Videos</h2>
+      <div class="toolbar">
+        <input class="search" id="videoSearch" type="search" placeholder="Search videos" aria-label="Search videos">
+        <span class="count" id="videoCount"></span>
+      </div>
+      <div class="gallery" id="videoGallery"></div>
+    </section>
+
     <section class="tab-panel" id="publications" role="tabpanel" aria-labelledby="tab-publications">
       <h2>Publications</h2>
       <div class="toolbar">
@@ -405,6 +415,7 @@ Humboldtstrasse 25
     const state = {
       openItems: [],
       trainingItems: [],
+      videoItems: [],
       publicationItems: []
     };
 
@@ -432,6 +443,7 @@ Humboldtstrasse 25
       const searchInputs = {
         open: "openSearch",
         training: "trainingSearch",
+        videos: "videoSearch",
         publications: "publicationSearch"
       };
       const query = searchInputs[panelId]
@@ -483,9 +495,12 @@ Humboldtstrasse 25
       `).join("");
     }
 
-    function renderTrainingItems() {
-      const query = document.getElementById("trainingSearch").value.trim().toLowerCase();
-      const items = state.trainingItems.filter((item) =>
+    function renderResourceItems(type) {
+      const config = type === "training"
+        ? { search: "trainingSearch", count: "trainingCount", gallery: "trainingGallery", items: state.trainingItems }
+        : { search: "videoSearch", count: "videoCount", gallery: "videoGallery", items: state.videoItems };
+      const query = document.getElementById(config.search).value.trim().toLowerCase();
+      const items = config.items.filter((item) =>
         includesText([
           item.title,
           item.year,
@@ -493,8 +508,8 @@ Humboldtstrasse 25
           ...(item.links || []).map((link) => link.label)
         ], query)
       );
-      document.getElementById("trainingCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
-      document.getElementById("trainingGallery").innerHTML = items.map((item) => {
+      document.getElementById(config.count).textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
+      document.getElementById(config.gallery).innerHTML = items.map((item) => {
         const primaryLink = (item.links || [])[0]?.url || "#";
         const links = (item.links || []).map((link) =>
           `<a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a>`
@@ -529,8 +544,7 @@ Humboldtstrasse 25
           item.volume,
           item.number,
           item.pages,
-          item.entryType,
-          item.source
+          item.entryType
         ], query)
       );
       document.getElementById("publicationCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
@@ -550,7 +564,7 @@ Humboldtstrasse 25
               <h3>${title}</h3>
               ${authors}
               ${details}
-              <p class="meta">${escapeHtml(item.entryType)} &middot; ${escapeHtml(item.source)}</p>
+              <p class="meta">${escapeHtml(item.entryType)}</p>
             </div>
           </article>
         `;
@@ -566,7 +580,11 @@ Humboldtstrasse 25
       updateUrl();
     });
     document.getElementById("trainingSearch").addEventListener("input", () => {
-      renderTrainingItems();
+      renderResourceItems("training");
+      updateUrl();
+    });
+    document.getElementById("videoSearch").addEventListener("input", () => {
+      renderResourceItems("videos");
       updateUrl();
     });
     document.getElementById("publicationSearch").addEventListener("input", () => {
@@ -583,6 +601,7 @@ Humboldtstrasse 25
       const searchInputs = {
         open: "openSearch",
         training: "trainingSearch",
+        videos: "videoSearch",
         publications: "publicationSearch"
       };
       if (initialSearch && searchInputs[requestedPanel]) {
@@ -593,17 +612,21 @@ Humboldtstrasse 25
     Promise.all([
       loadJsonArray("data/software-data.json"),
       loadJsonArray("data/training.json"),
+      loadJsonArray("data/videos.json"),
       loadJsonArray("data/publications.json")
-    ]).then(([openItems, trainingItems, publicationItems]) => {
+    ]).then(([openItems, trainingItems, videoItems, publicationItems]) => {
       state.openItems = openItems;
       state.trainingItems = trainingItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
+      state.videoItems = videoItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
       state.publicationItems = publicationItems.sort((a, b) => (Number(b.year) || 0) - (Number(a.year) || 0));
       renderOpenItems();
-      renderTrainingItems();
+      renderResourceItems("training");
+      renderResourceItems("videos");
       renderPublicationItems();
     }).catch((error) => {
       document.getElementById("openGallery").textContent = error.message;
       document.getElementById("trainingGallery").textContent = error.message;
+      document.getElementById("videoGallery").textContent = error.message;
       document.getElementById("publicationList").textContent = error.message;
     });
   </script>
