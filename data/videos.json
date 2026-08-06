@@ -9,7 +9,7 @@
         "url": "https://www.youtube.com/watch?v=Nw40Mbh8eLI"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/18879906.png?raw=true"
+    "image": "https://i.ytimg.com/vi/Nw40Mbh8eLI/hqdefault.jpg"
   },
   {
     "year": 2025,
@@ -21,7 +21,19 @@
         "url": "https://www.youtube.com/watch?v=p1tmseAkLsg"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/17102027.png?raw=true"
+    "image": "https://i.ytimg.com/vi/p1tmseAkLsg/hqdefault.jpg"
+  },
+  {
+    "year": 2024,
+    "title": "Monash Advanced Microscopy Seminar: Robert Haase, Data Science Center ScaDS.AI, Leipzig Uni, Germany",
+    "venue": "Monash Advanced Microscopy Seminar",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=2FyPJaOhO_4"
+      }
+    ],
+    "image": "https://i.ytimg.com/vi/2FyPJaOhO_4/hqdefault.jpg"
   },
   {
     "year": 2024,
@@ -33,7 +45,7 @@
         "url": "https://www.youtube.com/watch?v=5u1MPgrjpAU"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/13908108.png?raw=true"
+    "image": "https://i.ytimg.com/vi/5u1MPgrjpAU/hqdefault.jpg"
   },
   {
     "year": 2024,
@@ -45,7 +57,7 @@
         "url": "https://youtu.be/9dtVlVwk2eg?si=l8-Y_f3h4CLhBHXp"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/10822115.png?raw=true"
+    "image": "https://i.ytimg.com/vi/9dtVlVwk2eg/hqdefault.jpg"
   },
   {
     "year": 2023,
@@ -57,7 +69,7 @@
         "url": "https://www.youtube.com/watch?v=gLziaMjM3LM"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/f1000-12-971.png?raw=true"
+    "image": "https://i.ytimg.com/vi/gLziaMjM3LM/hqdefault.jpg"
   },
   {
     "year": 2021,
@@ -69,18 +81,557 @@
         "url": "https://www.youtube.com/watch?v=MERVnf5_QkI"
       }
     ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/fiji-napari.png?raw=true"
+    "image": "https://i.ytimg.com/vi/MERVnf5_QkI/hqdefault.jpg"
   },
   {
-    "year": 2020,
-    "title": "Applied Bio-Image Analysis",
-    "venue": "BIOTEC, TU Dresden",
-    "links": [
-      {
-        "label": "Videos",
-        "url": "https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U"
-      }
-    ],
-    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/applied_bia_2020.png?raw=true"
-  }
+      "year": 2023,
+      "title": "Bio-image Analysis using Napari and Python",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=QDS5t7oZH-c"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/QDS5t7oZH-c/hqdefault.jpg"
+    },
+    {
+      "year": 2023,
+      "title": "Generative Artificial Intelligence for Bio-image Analysis",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=nC0REzvOT5s"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/nC0REzvOT5s/hqdefault.jpg"
+    },
+    {
+      "year": 2022,
+      "title":"Defragmentation TS (2022) - Day 4 - cloud-based BioImage Analysis NEUBIAS Academy & EOSC Life",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=sCZs4BgteGk"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/sCZs4BgteGk/hqdefault.jpg"
+    },
+    {
+      "year": 2021,
+      "title": "I2K2020: Designing GPU-accelerated Image Data Flow Graphs for CLIJ2 and clEsperanto",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=EYsfJ9W6gHw"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/EYsfJ9W6gHw/hqdefault.jpg"
+    },
+    {
+      "year": 2021,
+      "title": "CLIJ: GPU-accelerated image processing for the life sciences",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=_2yBn8MfP-I"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/_2yBn8MfP-I/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "14c Applied Bio-Image Analysis Lecture 2020 - A Summary",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=p4vYlybltQM"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/p4vYlybltQM/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "14b Image Registration in Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=Ti6wQ3D1s1g"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/Ti6wQ3D1s1g/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "14a Image Registration",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=3CGC-5vwraM"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/3CGC-5vwraM/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "13b Multi-dimensional Image Processing in Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=eLlXEKPPAak"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/eLlXEKPPAak/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "13a Multi-dimensional image processing",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=NIizXcJz2io"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/NIizXcJz2io/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "12d 3D Image Visualisation and Processing in Python using scikit-image, itk and napari",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=lRtGqc5r6O0"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/lRtGqc5r6O0/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "12c 3D Image Processing in Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=TXkSEV5L_68"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/TXkSEV5L_68/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "12b 3D Image Visualisation in Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=khPdsVlUWco"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/khPdsVlUWco/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "12a Volumetric Image Processing",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=GoaGsrTerA0"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/GoaGsrTerA0/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11c Writing pythonic code [highres]",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=h6ALd6xQpO0"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/h6ALd6xQpO0/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11b Hypothesis Testing in Python [highres]",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=M-fS7yW2-3Q"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/M-fS7yW2-3Q/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11a Hypothesis Testing [high res]",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=LCea0sl4AQE"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/LCea0sl4AQE/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11c Writing pythonic code",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=iKPFOaJExL8"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/iKPFOaJExL8/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11b Hypothesis testing in python",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=bWzKpm9UETw"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/bWzKpm9UETw/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "11a Hypothesis Testing",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=QC2_y7WGvkU"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/QC2_y7WGvkU/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "10c Bio-Image Analysis using scikit-image in Python",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=FnvgepHDqRA"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/FnvgepHDqRA/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "10d Processing tables with python using numpy and pandas",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=VptCzobHU2s"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/VptCzobHU2s/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "10b Python Programming: Conditions, data structures, for loops and functions",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=obb40a03NPA"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/obb40a03NPA/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "10a Method comparsion and Bland-Altman plots",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=PbSrSupnZFQ"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/PbSrSupnZFQ/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "09b Scientific Data Analysis with Python",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=MOEPe9TGBK0"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/MOEPe9TGBK0/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "09a Descriptive [Bio-]statistics",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=3olKiLdUrBE"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/3olKiLdUrBE/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "08a Machine Learning for Pixel and Object Classification",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=dstjhCPBDOY"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/dstjhCPBDOY/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "08c Machine Learning for Pixel and Object Classification in ilastik",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=35ykpzsUDRE"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/35ykpzsUDRE/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "08b Machine Learning for Pixel Classification in Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=TfS7ncUaOq4"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/TfS7ncUaOq4/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "07b Trackmate",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=uuz7ivTnW9o"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/uuz7ivTnW9o/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "07a Spot detection and Tracking",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=q6-NsNvu81w"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/q6-NsNvu81w/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "05c BioImage Analysis with Icy BioImaging",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=myal9BD6J-k"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/myal9BD6J-k/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "05b BioImage Analysis with KNIME Image Processing",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=ofpSlAEkHNs"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/ofpSlAEkHNs/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "05a BioImage Analysis with Cell Profiler",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=NQL7Xsu409A"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/NQL7Xsu409A/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "04d Writing good code",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=gSBR34m1OCE"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/gSBR34m1OCE/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "04c ImageJ macro programming: User Interfaces",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=JncZoA-Afk4"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/JncZoA-Afk4/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "04b ImageJ macro programming: Functions, Arrays, Plots and Tables",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=Ydk6z-M9bAc"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/Ydk6z-M9bAc/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "04a ImageJ macro programming: ROIs and Overlays",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=IaY2zNKrtYg"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/IaY2zNKrtYg/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "03d ImageJ Macro programming: Conditions and loops",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=ulSq-x5_in4"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/ulSq-x5_in4/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "03c ImageJ Macro programming: Recording Macros and working with images",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=86OTtY4CGgg"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/86OTtY4CGgg/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "03b Introduction to ImageJ Macro Programming: Variables and operations",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=q4ISEWq6q4E"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/q4ISEWq6q4E/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "03a Feature extraction",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=dria4wCiaz0"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/dria4wCiaz0/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "02b Image Filtering and Segmentation with Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=08SZnZBl4lM"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/08SZnZBl4lM/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "02a Image Filtering and Segmentation",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=LT8L3vSLQ2Q"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/LT8L3vSLQ2Q/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "01b Introduction to Bio-Image Analysis with Fiji",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=Akedfyp5AxY"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/Akedfyp5AxY/hqdefault.jpg"
+    },
+    {
+      "year": 2020,
+      "title": "01a Introduction to Bio-Image Analysis",
+      "venue": "YouTube — haesleinhuepf",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=e-2DbkUwKk4"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/e-2DbkUwKk4/hqdefault.jpg"
+    }
 ]
