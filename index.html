@@ -550,7 +550,7 @@ Humboldtstrasse 25
       document.getElementById("publicationCount").textContent = `${items.length} item${items.length === 1 ? "" : "s"}`;
       document.getElementById("publicationList").innerHTML = items.map((item) => {
         const year = item.year || "Link";
-        const venue = [item.venue, item.volume, item.number, item.pages ? `pp. ${item.pages}` : ""].filter(Boolean).join(", ");
+        const venue = [item.venue, item.volume, item.number, item.pages ? `${item.pages}` : ""].filter(Boolean).join(", ");
         const authors = item.authors ? `<p class="meta">${escapeHtml(item.authors)}</p>` : "";
         const details = venue ? `<p>${escapeHtml(venue)}</p>` : "";
         const link = item.url || (item.doi ? `https://doi.org/${item.doi}` : "");
@@ -563,7 +563,7 @@ Humboldtstrasse 25
             <div>
               <h3>${title}</h3>
               ${authors}
-              ${details}
+              ${details} (${escapeHtml(item.entryType)})
             </div>
           </article>
         `;
