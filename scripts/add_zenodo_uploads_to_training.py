@@ -2,9 +2,9 @@
 """Add training entries for matching Zenodo uploads.
 
 The script scans authenticated Zenodo upload/deposition records and adds records
-to data/training.json when all of these are true:
+to data/training-2026-08-07.json when all of these are true:
 
-* the record is not already referenced in training.json
+* the record is not already referenced in training-2026-08-07.json
 * the record files contain at least one PDF
 * the record files contain at least one PPTX
 
@@ -32,11 +32,11 @@ ZENODO_DOI_RE = re.compile(r"(?:doi\.org/)?10\.5281/zenodo\.(\d+)", re.IGNORECAS
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Add Zenodo uploads with PDF and PPTX files to data/training.json."
+        description="Add Zenodo uploads with PDF and PPTX files to data/training-2026-08-07.json."
     )
     parser.add_argument(
         "--training-json",
-        default="data/training.json",
+        default="data/training-2026-08-07.json",
         type=Path,
         help="Path to the training JSON file.",
     )
@@ -53,7 +53,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Print records that would be added without writing training.json.",
+        help="Print records that would be added without writing training-2026-08-07.json.",
     )
     parser.add_argument(
         "--include-unpublished",

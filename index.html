@@ -610,10 +610,10 @@ Humboldtstrasse 25
     }
 
     Promise.all([
-      loadJsonArray("data/software-data.json"),
-      loadJsonArray("data/training.json"),
-      loadJsonArray("data/videos.json"),
-      loadJsonArray("data/publications.json")
+      loadJsonArray("data/software-data-2026-08-07.json"),
+      loadJsonArray("data/training-2026-08-07.json"),
+      loadJsonArray("data/videos-2026-08-07.json"),
+      loadJsonArray("data/publications-2026-08-07.json")
     ]).then(([openItems, trainingItems, videoItems, publicationItems]) => {
       state.openItems = openItems;
       state.trainingItems = trainingItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));

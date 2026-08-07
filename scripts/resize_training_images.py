@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Resize local training preview images and update their JSON references.
 
-The script scans data/training.json for entries whose image property starts
+The script scans data/training-2026-08-07.json for entries whose image property starts
 with "images/". For each matching entry, it opens the referenced image file,
 resizes it to 500 px width while preserving the aspect ratio, saves it back to
 the same file, and changes the JSON image value to a GitHub raw markdown link.
@@ -31,7 +31,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--training-json",
-        default="data/training.json",
+        default="data/training-2026-08-07.json",
         type=Path,
         help="Path to the training JSON file.",
     )

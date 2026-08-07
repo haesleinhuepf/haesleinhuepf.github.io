@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Create preview images for Zenodo-backed training entries.
 
-The script scans data/training.json for Zenodo links, downloads a PDF from each
+The script scans data/training-2026-08-07.json for Zenodo links, downloads a PDF from each
 record via the Zenodo API, renders the first page to images/<record_id>.png, and
 adds that image URL to the corresponding entry.
 
@@ -33,11 +33,11 @@ ZENODO_DOI_RE = re.compile(r"(?:doi\.org/)?10\.5281/zenodo\.(\d+)", re.IGNORECAS
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate PNG thumbnails from Zenodo PDFs in data/training.json."
+        description="Generate PNG thumbnails from Zenodo PDFs in data/training-2026-08-07.json."
     )
     parser.add_argument(
         "--training-json",
-        default="data/training.json",
+        default="data/training-2026-08-07.json",
         type=Path,
         help="Path to the training JSON file.",
     )
