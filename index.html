@@ -412,6 +412,25 @@ Humboldtstrasse 25
   </main>
 
   <script>
+    function openLinksInNewTabs(root = document) {
+      const links = root.matches?.("a[href]") ? [root] : root.querySelectorAll("a[href]");
+      links.forEach((link) => {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+      });
+    }
+
+    openLinksInNewTabs();
+    new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        mutation.addedNodes.forEach((node) => {
+          if (node.nodeType === Node.ELEMENT_NODE) {
+            openLinksInNewTabs(node);
+          }
+        });
+      });
+    }).observe(document.body, { childList: true, subtree: true });
+
     const state = {
       openItems: [],
       trainingItems: [],
