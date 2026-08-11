@@ -382,14 +382,16 @@
     "category": "Open data",
     "title": "Satellite images",
     "url": "https://doi.org/10.5281/zenodo.19635483",
-    "description": "Satellite image data on Zenodo."
+    "description": "Satellite image data on Zenodo.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/sat_images.png?raw=true"
   },
   {
     "type": "data",
     "category": "Open data",
     "title": "AI-generated logos",
     "url": "https://doi.org/10.5281/zenodo.19633744",
-    "description": "AI-generated logo collection."
+    "description": "AI-generated logo collection.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/logos.png?raw=true"
   },
   {
     "type": "data",
@@ -411,27 +413,31 @@
     "category": "Open data",
     "title": "Tribolium castaneum embryo development",
     "url": "https://zenodo.org/record/5837363",
-    "description": "Lightsheet microscopy recording of Tribolium embryo development."
+    "description": "Lightsheet microscopy recording of Tribolium embryo development.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/lund.gif?raw=true"
   },
   {
     "type": "data",
     "category": "Open data",
     "title": "Example data for napari-pyclesperanto-assistant",
     "url": "https://zenodo.org/record/5090508",
-    "description": "Example data for napari and pyclesperanto workflows."
+    "description": "Example data for napari and pyclesperanto workflows.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/Haase_MRT_tfl3d1.gif?raw=true"
   },
   {
     "type": "data",
     "category": "Open data",
     "title": "Strausberg_Tribolium_LA-GFP_tailpole_run",
     "url": "https://zenodo.org/record/3981193",
-    "description": "Tribolium microscopy example dataset."
+    "description": "Tribolium microscopy example dataset.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/Strausberg_thumbnails_sb_text_291-340.gif?raw=true"
   },
   {
     "type": "data",
     "category": "Open data",
     "title": "Example Data for clesperanto",
     "url": "https://github.com/clEsperanto/clesperanto_example_data",
-    "description": "Example data for GPU-accelerated image processing with clesperanto."
+    "description": "Example data for GPU-accelerated image processing with clesperanto.",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/CalibZAPWfixed_000154_max.gif?raw=true"
   }
 ]
