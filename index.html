@@ -533,6 +533,17 @@ Humboldtstrasse 25
       }).join("");
     }
 
+    function formatAuthors(authors) {
+      return authors.split(/\s+and\s+/).map((author) => {
+        const commaIndex = author.indexOf(",");
+        if (commaIndex === -1) return author.trim();
+
+        const lastName = author.slice(0, commaIndex).trim();
+        const firstName = author.slice(commaIndex + 1).trim();
+        return `${firstName} ${lastName}`;
+      }).join(", ");
+    }
+
     function renderPublicationItems() {
       const query = document.getElementById("publicationSearch").value.trim().toLowerCase();
       const items = state.publicationItems.filter((item) =>
@@ -551,7 +562,7 @@ Humboldtstrasse 25
       document.getElementById("publicationList").innerHTML = items.map((item) => {
         const year = item.year || "Link";
         const venue = [item.venue, item.volume, item.number, item.pages ? `${item.pages}` : ""].filter(Boolean).join(", ");
-        const authors = item.authors ? `<p class="meta">${escapeHtml(item.authors)}</p>` : "";
+        const authors = item.authors ? `<p class="meta">${escapeHtml(formatAuthors(item.authors))}</p>` : "";
         const details = venue ? `<p>${escapeHtml(venue)}</p>` : "";
         const link = item.url || (item.doi ? `https://doi.org/${item.doi}` : "");
         const title = link
