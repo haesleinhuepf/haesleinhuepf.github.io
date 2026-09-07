@@ -2,6 +2,22 @@
   {
     "type":"software",
     "category":"Generative AI / LLMs",
+    "title":"few-shot-prompt",
+    "url":"https://github.com/haesleinhuepf/few-shot-gui/",
+    "description": "A graphical user interface (GUI) that runs inside Jupyter notebooks to interactively build and refine few-shot prompts with OpenAI-compatible LLM servers.",
+    "image": "https://github.com/haesleinhuepf/few-shot-gui/raw/main/docs/demo.gif?raw=true",
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "letter-ai",
+    "url": "https://github.com/haesleinhuepf/letter-ai/",
+    "description": "An AI tool for generating letters.",
+    "image": "https://github.com/haesleinhuepf/letter-ai/raw/main/docs/teaser.png?raw=true"
+  },
+  {
+    "type":"software",
+    "category":"Generative AI / LLMs",
     "title":"reviewer3",
     "url":"https://github.com/haesleinhuepf/reviewer3/",
     "description": "A command line tool that uses LLMs to give constructive feedback about scientific .docx manuscripts.",

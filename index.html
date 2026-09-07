@@ -588,7 +588,7 @@ Humboldtstrasse 25
         const year = item.year || "Link";
         const venue = [item.venue, item.volume, item.number, item.pages ? `${item.pages}` : ""].filter(Boolean).join(", ");
         const authors = item.authors ? `<p class="meta">${formatAuthors(item.authors)}</p>` : "";
-        const details = venue ? `<p>${escapeHtml(venue)}</p>` : "";
+        const details = venue ? `${escapeHtml(venue)}` : "";
         const link = item.url || (item.doi ? `https://doi.org/${item.doi}` : "");
         const title = link
           ? `<a href="${escapeHtml(link)}">${escapeHtml(item.title)}</a>`
@@ -599,7 +599,7 @@ Humboldtstrasse 25
             <div>
               <h3>${title}</h3>
               ${authors}
-              ${details} (${escapeHtml(item.entryType)})
+              <p>${details} (${escapeHtml(item.entryType)})</p>
             </div>
           </article>
         `;
@@ -645,10 +645,10 @@ Humboldtstrasse 25
     }
 
     Promise.all([
-      loadJsonArray("data/software-data-2026-08-07.json"),
-      loadJsonArray("data/training-2026-08-07.json"),
-      loadJsonArray("data/videos-2026-08-07.json"),
-      loadJsonArray("data/publications-2026-08-07.json")
+      loadJsonArray("data/software-data-2026-09-06.json"),
+      loadJsonArray("data/training-2026-09-06.json"),
+      loadJsonArray("data/videos-2026-09-06.json"),
+      loadJsonArray("data/publications-2026-09-06.json")
     ]).then(([openItems, trainingItems, videoItems, publicationItems]) => {
       state.openItems = openItems;
       state.trainingItems = trainingItems.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
