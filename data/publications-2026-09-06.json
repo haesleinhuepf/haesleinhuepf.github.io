@@ -751,7 +751,8 @@
     "title": "Installing Microsoft buildtools on Windows",
     "authors": "Haase, Robert",
     "venue": "BiAPoL Blog",
-    "url": "https://biapol.github.io/blog/robert_haase/ms_build_tools"
+    "year": "2021",
+    "url": "https://biapol.github.io/blog/robert_haase/ms_build_tools/readme.html"
   },
   {
     "entryType": "blogpost",
@@ -759,7 +760,8 @@
     "title": "Using StarDist in napari with GPU-support in Windows",
     "authors": "Haase, Robert",
     "venue": "BiAPoL Blog",
-    "url": "https://biapol.github.io/blog/robert_haase/stardist_gpu"
+    "year": "2021",
+    "url": "https://biapol.github.io/blog/robert_haase/stardist_gpu/readme.html"
   },
   {
     "entryType": "blogpost",
@@ -767,15 +769,17 @@
     "title": "GPU-accelerated image processing using cupy and cucim",
     "authors": "Haase, Robert",
     "venue": "BiAPoL Blog",
-    "url": "https://biapol.github.io/blog/robert_haase/cupy_cucim"
+    "year": "2021",
+    "url": "https://biapol.github.io/blog/robert_haase/cupy_cucim/readme.html"
   },
   {
     "entryType": "blogpost",
     "key": "haase-browsing-idr",
     "title": "Browsing the Open Microscopy Image Data Resource with Python",
-    "authors": "Haase, Robert",
+    "authors": "Haase, Robert and Zoccoler, Marcelo",
     "venue": "BiAPoL Blog",
-    "url": "https://biapol.github.io/blog/robert_haase/browsing_idr"
+    "year": "2021",
+    "url": "https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html"
   },
   {
     "entryType": "blogpost",
@@ -783,7 +787,8 @@
     "title": "GPU-accelerated image processing in the cloud using Google Colab and clEsperanto",
     "authors": "Haase, Robert",
     "venue": "BiAPoL Blog",
-    "url": "https://biapol.github.io/blog/robert_haase/clesperanto_google_colab"
+    "year": "2021",
+    "url": "https://biapol.github.io/blog/robert_haase/clesperanto_google_colab/readme.html"
   },
   {
     "entryType": "blogpost",
@@ -791,6 +796,7 @@
     "title": "How to develop, deploy and run ImageJ/Fiji scripts and Java plugins within your IDE simultaneously",
     "authors": "Haase, Robert",
     "venue": "Blog",
+    "year": "2017",
     "url": "https://haesleinhuepf.github.io/run_jython_scripts_from_ide/"
   },
   {
@@ -798,6 +804,7 @@
     "key": "imagej-macro-cheat-sheet",
     "title": "ImageJ Macro",
     "venue": "Cheat Sheet",
+    "year": "2021",
     "url": "https://github.com/BiAPoL/imagej-macro-cheat-sheet"
   },
   {
@@ -805,6 +812,7 @@
     "key": "clij2-cheatsheet-v3",
     "title": "CLIJ - GPU accelerated image processing in ImageJ Macro",
     "venue": "Cheat Sheet",
+    "year": "2020",
     "url": "https://clij.github.io/clij2-docs/CLIJ2-cheatsheet_V3.pdf"
   }
 ]
