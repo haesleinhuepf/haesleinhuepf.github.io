@@ -1,6 +1,15 @@
 [
   {
     "entryType": "article",
+    "year": "2026",
+    "key": "rajasekhar2026",
+    "title": "napari-lattice: A user-friendly image processing tool for lattice light-sheet microscopy data",
+    "authors": "Rajasekhar, Pradeep and Milton, Michael and Geoghegan, Niall D. and Zaman, Ishrat and Ashdown, George W. and Haase, Robert and Iskander, Julie and Coussens, Anna K. and Rogers, Kelly L. and Whitehead, Lachlan",
+    "venue": "Journal of Microscopy",
+    "url": "http://doi.org/10.1111/jmi.70167"
+  },
+  {
+    "entryType": "article",
     "key": "Okafornta2026",
     "title": "Cell size reduction distinctly scales spindle elongation and chromosome segregation in C. elegans",
     "authors": "Okafornta, Chukwuebuka William and Farhadifar, Reza and Fabig, Gunar and Wu, Hai-Yin and Köckert, Maria and Vogel, Martin and Baum, Daniel and Haase, Robert and Shelley, Michael J. and Needleman, Daniel J. and Müller-Reichert, Thomas",
