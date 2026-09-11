@@ -23,6 +23,28 @@
   },
   {
     "year": 2026,
+    "title": "AI Agents for Analysing Documents",
+    "venue": "ScaDS.AI Dresden",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.22707846"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "Introduction to Bio-Image Analysis",
+    "venue": "Lautenschläger Summer School, EMBL Heidelberg",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.21370807"
+      }
+    ]
+  },
+  {
+    "year": 2026,
     "title": "Navigating in Latent Space and Retrieval-Augmented Generation",
     "venue": "ScaDS.AI Summer School 2026 on Neuro+Symbolic AI",
     "links": [
@@ -980,6 +1002,17 @@
       }
     ],
     "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/10822115.png?raw=true"
+  },
+  {
+    "year": 2023,
+    "title": "Introduction to the Napari Assistant",
+    "venue": "Image data science with Python and Napari workshop of Latin America BioImaging",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.7490/f1000research.1119563.1"
+      }
+    ]
   },
   {
     "year": 2023,
