@@ -1,5 +1,13 @@
 [
   {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "dra-mcp",
+    "url": "https://github.com/scads/dra-mcp",
+    "description": "An MCP server allowing AI-agents to fill out business trip application forms",
+    "image": "https://github.com/ScaDS/dra-mcp/raw/main/docs/images/teaser.png?raw=true"
+  },
+  {
     "type":"software",
     "category":"Generative AI / LLMs",
     "title":"few-shot-prompt",
