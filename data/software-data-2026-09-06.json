@@ -89,6 +89,14 @@
   {
     "type": "software",
     "category": "Generative AI / LLMs",
+    "title": "editor",
+    "url": "https://github.com/haesleinhuepf/editor",
+    "description": "A pip-installable browser-based markdown editor with built-in AI-assistance.",
+    "image": "https://github.com/haesleinhuepf/editor/blob/main/example_data/screenshot.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
     "title": "mensa-tud-mcp",
     "description": "Model Context Protocol adapter for the Mensa / Canteen food plan at TU Dresden",
     "url": "https://github.com/ScaDS/mensa-tud-mcp",
