@@ -1,5 +1,28 @@
 [
   {
+    "type": "data",
+    "category": "Open data",
+    "url": "https://doi.org/10.5281/zenodo.23453561",
+    "title": "Visual Index of Teaching Slides about Research Data Management",
+    "description": "15364 PowerPoint slides from German Research Data Organizations, mostly including Teaching Materials",
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/mastter/images/23453562.png?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "slidedesk",
+    "url": "https://github.com/haesleinhuepf/slidedesk",
+    "description": "AI-assisted browsing and re-combination of PowerPoint slide decks",
+    "image": "https://github.com/haesleinhuepf/slidedesk/raw/main/docs/images/slidedesk_short.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Format conversion",
+    "title": "render-pptx",
+    "url": "https://github.com/haesleinhuepf/render-pptx",
+    "description": "A tool for rendering PowerPoint presentations programmatically."
+  },
+  {
     "type":"software",
     "category":"Generative AI / LLMs",
     "title":"few-shot-prompt",
