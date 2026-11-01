@@ -49,6 +49,18 @@
   },
   {
     "year": 2024,
+    "title": "Bio-Image Analysis Code Generation",
+    "venue": "I2K Conference 2024",
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=sBcV8rasOWo"
+      }
+    ],
+    "image": "https://i.ytimg.com/vi/sBcV8rasOWo/hqdefault.jpg"
+  },
+  {
+    "year": 2024,
     "title": "Large Language Models for Bio-image Analysis",
     "venue": "ScaDS.AI Living Lab Lecture",
     "links": [
@@ -106,6 +118,18 @@
         }
       ],
       "image": "https://i.ytimg.com/vi/nC0REzvOT5s/hqdefault.jpg"
+    },
+    {
+      "year": 2023,
+      "title": "The napari assistant and python export",
+      "venue": "LibreHub Workshop 2023: Image data science with Python and Napari",
+      "links": [
+        {
+          "label": "Video",
+          "url": "https://www.youtube.com/watch?v=IikziJXDuSU"
+        }
+      ],
+      "image": "https://i.ytimg.com/vi/IikziJXDuSU/hqdefault.jpg"
     },
     {
       "year": 2022,
