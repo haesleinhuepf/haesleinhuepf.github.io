@@ -1,5 +1,13 @@
 [
   {
+    "type": "software",
+    "category": "Generative AI / LLMs",
+    "title": "polish-pptx",
+    "url": "https://github.com/haesleinhuepf/polish-pptx",
+    "description": "CLI tool that polishes pptx slides containing multiple arrows, boxes, circles etc. using Claude AI.",
+    "image": "https://github.com/haesleinhuepf/polish-pptx/raw/main/docs/images/polish-pptx.png?raw=true"
+  },
+  {
     "type": "data",
     "category": "Open data",
     "url": "https://doi.org/10.5281/zenodo.23453561",
