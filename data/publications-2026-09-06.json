@@ -1,4 +1,35 @@
 [
+    {
+    "entryType": "article",
+    "key": "girstmair2026mastodon",
+    "title": "Mastodon: the Command Center for Large-Scale Lineage-Tracing Microscopy Datasets",
+    "authors": "Girstmair, Johannes and Pietzsch, Tobias and Ulman, Vladimir and Hahmann, Stefan and Arzt, Matthias and Handberg-Thorsager, Mette and Pantze, Samuel and Sugawara, Ko and Haase, Robert and Onami, Shuichi and Tinevez, Jean-Yves and Tomancak, Pavel",
+    "year": "2026",
+    "venue": "Development",
+    "volume": "153",
+    "number": "21",
+    "url": "https://doi.org/10.1242/dev.205569"
+  },
+  {
+    "entryType": "preprint",
+    "key": "neumann2026",
+    "title": "Segmenting submarine boulders with Random Forest and nnU-Net: from bathymetric rasters to survey-scale size distributions",
+    "authors": "Naumann, Aïcha and Haase, Robert and Feldens, Peter and Papenmeier, Svenja",
+    "year": "2026",
+    "venue": "EarthArXiv",
+    "url": "https://doi.org/10.31223/X5TJ8D"
+  },
+  {
+    "entryType": "preprint",
+    "key": "muller2026",
+    "title": "Curriculum for Bioimaging Data Stewardship: A Systematic Review of Existing Training Resources [version 1; peer review: 1 approved with reservations]",
+    "authors": "Müller, Maximilian and Landwehr, Matthias and Ahmadi, Mohsen and Fuchs, Vanessa and Wetzker, Cornelia and Massei, Riccardo and Wendt, Jens and Zobel, Thomas and Haase, Robert",
+    "year": "2026",
+    "venue": "F1000Research",
+    "volume": "15",
+    "number": "1584",
+    "url": "https://doi.org/10.12688/f1000research.188548.1"
+  },
   {
     "entryType": "article",
     "year": "2026",
@@ -89,17 +120,6 @@
     "pages": "1562358",
     "publisher": "Frontiers Media SA",
     "url": "https://doi.org/10.3389/fcomp.2025.1562358"
-  },
-  {
-    "entryType": "preprint",
-    "key": "girstmair2025mastodon",
-    "title": "Mastodon: the Command Center for Large-Scale Lineage-Tracing Microscopy Datasets",
-    "authors": "Girstmair, Johannes and Pietzsch, Tobias and Ulman, Vladimir and Hahmann, Stefan and Arzt, Matthias and Handberg-Thorsager, Mette and Pantze, Samuel and Sugawara, Ko and Haase, Robert and Tinevez, Jean-Yves and others",
-    "year": "2025",
-    "venue": "bioRxiv",
-    "pages": "2025-12",
-    "publisher": "Cold Spring Harbor Laboratory",
-    "url": "https://doi.org/10.64898/2025.12.10.693416"
   },
   {
     "entryType": "article",
