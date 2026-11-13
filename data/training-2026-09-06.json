@@ -23,6 +23,58 @@
   },
   {
     "year": 2026,
+    "title": "What can we learn from Multi-Agent Systems for Image Data Analysis?",
+    "venue": "Helmholtz Imaging Conference 2026, Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.24052892"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/24052892.png?raw=true"
+  },
+  {
+    "year": 2026,
+    "title": "Generative Artificial Intelligence for Image Data Science",
+    "venue": "Satellite Workshop @ Helmholtz Imaging Conference 2026, Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.24082016"
+      },
+      {
+        "label": "Exercises",
+        "url": "https://scads.github.io/hic-genai-2026/"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/24082016.png?raw=true"
+  },
+  {
+    "year": 2026,
+    "title": "Generative Artificial Intelligence for Code Generation",
+    "venue": "Helmholtz Codes! Workshop 2026, HZDR Dresden",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.23970051"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/23970051.png?raw=true"
+  },
+  {
+    "year": 2026,
+    "title": "Agentic AI Systems for BioImage Data Analysis (and other tasks)",
+    "venue": "AI Training, Uni Angers / virtual",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.23929289"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/23929289.png?raw=true"
+  },
+  {
+    "year": 2026,
     "title": "AI Agents for Analysing Documents",
     "venue": "ScaDS.AI Dresden",
     "links": [
