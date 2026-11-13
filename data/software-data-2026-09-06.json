@@ -2,6 +2,14 @@
   {
     "type": "software",
     "category": "Generative AI / LLMs",
+    "title": "sand-bob",
+    "url": "https://haesleinhuepf.github.io/sand-bob/",
+    "description": "AI agents solving data analysis tasks in sandboxed environments, parallel and iteratively.",
+    "image": "https://github.com/haesleinhuepf/sand-bob/blob/main/docs/alice-teaser-small.gif?raw=true"
+  },
+  {
+    "type": "software",
+    "category": "Generative AI / LLMs",
     "title": "polish-pptx",
     "url": "https://github.com/haesleinhuepf/polish-pptx",
     "description": "CLI tool that polishes pptx slides containing multiple arrows, boxes, circles etc. using Claude AI.",
@@ -61,14 +69,6 @@
     "url":"https://github.com/haesleinhuepf/reviewer3/",
     "description": "A command line tool that uses LLMs to give constructive feedback about scientific .docx manuscripts.",
     "image": "https://github.com/haesleinhuepf/reviewer3/raw/main/docs/images/screenshot.png?raw=true"
-  },
-  {
-    "type": "software",
-    "category": "Generative AI / LLMs",
-    "title": "sand-bob",
-    "url": "https://haesleinhuepf.github.io/sand-bob/",
-    "description": "AI agents solving data analysis tasks in sandboxed environments, parallel and iteratively.",
-    "image": "https://github.com/haesleinhuepf/sand-bob/blob/main/docs/alice-teaser-small.gif?raw=true"
   },
   {
     "type": "software",
