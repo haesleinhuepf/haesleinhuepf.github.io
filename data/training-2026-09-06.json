@@ -1,5 +1,21 @@
 [
   {
+    "year": 2026,
+    "title": "AI-assisted Data Analysis on sovereign IT infrastructure",
+    "venue": "RDM lectures at University Library Leipzig",
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://doi.org/10.5281/zenodo.24495666"
+      },
+      {
+        "label": "Exercises",
+        "url": "https://scads.github.io/ai-da-2026/"
+      }
+    ],
+    "image": "https://github.com/haesleinhuepf/haesleinhuepf.github.io/blob/master/images/24495666.png?raw=true"
+  },
+  {
     "year": 2024,
     "title": "Bio-image Analysis Notebooks",
     "links": [
